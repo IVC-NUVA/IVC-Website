@@ -1,0 +1,10 @@
+{
+  "name": "ivc-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static content for IVC Website",
+  "scripts": {
+    "start": "python3 -m http.server 8000 --bind 127.0.0.1 --directory public"
+  },
+  "license": "Apache-2.0"
+}
