@@ -1,4 +1,8 @@
-# François Technical Fact-Checking Package
+# François Technical Fact-Checking Package — Superseded Draft
+
+> This long-form packet has been superseded by the launch-focused
+> [François Technical Fact Check](francois-launch-fact-check.md). Retained only
+> as planning history; do not send this version for review.
 
 Status: Ready for technical review  
 Prepared: 2026-10-07  

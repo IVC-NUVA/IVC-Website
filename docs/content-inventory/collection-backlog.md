@@ -10,9 +10,10 @@ reconciles the strongest source material and separates Nathan's scope decisions
 from the later technical review requested from François.
 
 Technical review packet:
-[francois-technical-fact-check-package.md](francois-technical-fact-check-package.md)
-provides proposed statements, terminology and link checklists, and a structured
-response format for François.
+[francois-launch-fact-check.md](francois-launch-fact-check.md) provides five
+proposed statements, six essential terms, the NUVA name check, and one limited
+authority statement for François. The earlier long-form packet is retained only
+as superseded planning history.
 
 - [x] Confirm the rebrand rationale and public treatment. The About page will
   briefly explain that "International" was mistaken for a cross-border-only
