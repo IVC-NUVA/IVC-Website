@@ -9,6 +9,11 @@ Working synthesis: [foundation-messaging-brief.md](foundation-messaging-brief.md
 reconciles the strongest source material and separates Nathan's scope decisions
 from the later technical review requested from François.
 
+Technical review packet:
+[francois-technical-fact-check-package.md](francois-technical-fact-check-package.md)
+provides proposed statements, terminology and link checklists, and a structured
+response format for François.
+
 - [x] Confirm the rebrand rationale and public treatment. The About page will
   briefly explain that "International" was mistaken for a cross-border-only
   scope and that plural "Vocabularies" reflects support for many code sets.
@@ -125,8 +130,8 @@ from the later technical review requested from François.
 
 ## Suggested next pass
 
-Resolve Nathan's questions in `foundation-messaging-brief.md`, revise the
-working propositions, and then route the defined NUVA and technical questions
-to François. This should happen before public copywriting. Historical meeting
-backload is being handled separately in InteropHub; the website inventory can
-resume other collections without duplicating that migration work.
+Have Nathan review the fact-checking packet for tone and scope, then route it to
+François when the Phase 1 review gate is ready. Incorporate his corrections
+before public copywriting. Historical meeting backload is being handled
+separately in InteropHub; the website inventory can resume other collections
+without duplicating that migration work.

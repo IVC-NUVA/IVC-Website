@@ -1,7 +1,7 @@
 # Foundation Messaging Brief
 
-Status: Working synthesis; identity and authority decisions recorded, remaining
-scope and NUVA questions open; not approved website copy
+Status: Nathan's communications and scope decisions recorded; NUVA technical
+fact-checking pending; not approved website copy
 Prepared: 2026-10-07
 
 ## Purpose
