@@ -13,12 +13,19 @@ from the later technical review requested from François.
   name change needs explanation on the site.
 - [ ] Obtain any additional name-change decision, announcement, or background
   material and define when the former name should appear for historical context.
-- [ ] Approve a short, current statement of why IVC exists.
-- [ ] Confirm current “we do” and “we do not” boundaries, especially advocacy,
+- [ ] Approve final public wording for why IVC exists. The underlying problem,
+  primary beneficiary, collaboration model, and authority boundaries are now
+  confirmed in `foundation-messaging-brief.md`.
+- [ ] Confirm the remaining current “we do” and “we do not” boundaries for
   code-set selection, software/tools, NUVA maintenance, policy,
   pharmacovigilance, inventory, and medication supply.
-- [ ] Confirm what organizational terms are accurate: collaboration, network,
-  community of practice, initiative, or organization.
+- [x] Confirm the organizational and participation model: IVC is a focused,
+  peer-support collaboration for vaccine code-set authors; participants bring
+  individual expertise rather than formally representing their organizations.
+- [x] Define the advocacy/recommendation boundary: IVC may provide technical
+  feedback and light advocacy about accurate concept representation, but does
+  not issue binding recommendations or take positions on program policy,
+  procedures, or operations.
 - [ ] Approve a current account of IVC, Syadem, contributors, SNOMED
   International, and committee roles in NUVA ownership, stewardship,
   validation, and publication.

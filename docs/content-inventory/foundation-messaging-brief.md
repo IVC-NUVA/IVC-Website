@@ -1,6 +1,7 @@
 # Foundation Messaging Brief
 
-Status: Working synthesis for Nathan's decisions; not approved website copy  
+Status: Working synthesis; identity and authority decisions recorded, remaining
+scope and NUVA questions open; not approved website copy
 Prepared: 2026-10-07
 
 ## Purpose
@@ -45,7 +46,8 @@ This brief also relies on:
 
 ## Executive synthesis
 
-The sources support a restrained, practical account of IVC:
+The sources and Nathan's decisions support a restrained, practical account of
+IVC:
 
 > Immunization systems use many vaccine code systems, created for different
 > jurisdictions and purposes. Those differences become difficult when records
@@ -54,20 +56,23 @@ The sources support a restrained, practical account of IVC:
 > to interpret, compare, map, and improve them is distributed across separate
 > organizations and expert communities.
 
-> IVC brings people working on immunization vocabularies together to share that
-> knowledge, document how code systems are used, explore mappings and assessment
-> methods, and coordinate practical improvements. It is a collaboration and a
-> bridge among existing owners and standards efforts—not a replacement for
-> them.
+> IVC is a focused, peer-support collaboration for the informaticians who
+> create and maintain vaccine code sets. It brings participants together to
+> share what works, what causes problems, what they have learned, and what they
+> still need to understand. It develops supporting information, conceptual
+> models, alignment feedback, and community perspectives that participants can
+> use in their own work. It is a bridge among existing owners and standards
+> efforts—not their governing or representative body.
 
 > NUVA is an open, shared vaccine ontology designed to represent administered
 > vaccines and their valences consistently across existing codifications and
 > over time. It can support alignment among code systems, but it does not erase
 > the need for local code-system ownership, expert judgment, or governance.
 
-This is a synthesis for decision-making, not final copy. In particular, the
-current organizational relationship between IVC and NUVA is not settled enough
-to describe beyond the narrower supported statements in this brief.
+This is a synthesis for decision-making, not final copy. The identity and
+authority boundaries above were confirmed by Nathan on 2026-10-07. The current
+organizational relationship between IVC and NUVA is not settled enough to
+describe beyond the narrower supported statements in this brief.
 
 ## 1. Why IVC exists
 
@@ -145,6 +150,19 @@ The most defensible present-tense activity set is:
   can travel between them.
 - Promote the long-term interpretability of immunization histories.
 
+### Primary beneficiary and support chain
+
+Nathan confirmed that IVC primarily supports **vaccine code-set authors**:
+informaticians responsible for making vaccine vocabularies accurate, complete,
+and useful. These authors, in turn, support clinicians and public-health
+professionals. IVC is therefore not primarily a general clinical education
+group or a forum for immunization-program administration.
+
+The collaboration gives these experts a place to test their thinking against
+NUVA, other code systems, and the experience of peers. Its materials should
+help an expert explain a representational gap to leadership or colleagues
+without implying that IVC can require a particular organizational response.
+
 ### Activities that appear real but need current status wording
 
 | Activity | Evidence | Safe treatment now |
@@ -157,26 +175,44 @@ The most defensible present-tense activity set is:
 | Country/organization interviews | Source collection and earlier plans | Describe only if the program is currently active and publishable examples exist |
 | NUVA contribution review | October 2026 notes indicate a future IVC approval gate, currently François personally | Treat as emerging governance, not established organizational machinery |
 
-### Recommended organizational description
+### Confirmed organizational description
 
-The evidence best supports **collaboration** as the primary noun. "Network" and
-"community of practice" may be useful explanatory terms, but each carries more
-structure than has been formally documented. "Organization," "authority,"
-"standards body," and "international help desk" should not be used as current
-descriptions.
+Nathan confirmed **collaboration** as the primary noun. In practical terms, IVC
+functions like a peer-support or self-help group for vaccine code-set experts.
+"Peer-support collaboration" is likely clearer in public copy than "self-help
+group," while retaining the essential meaning: the collaboration exists
+primarily to help participants do their own work more effectively.
+
+"Network" and "community of practice" may be useful explanatory terms, but
+each can imply more structure than has been documented. "Organization,"
+"authority," "standards body," and "international help desk" should not be
+used as current descriptions.
 
 A safe working proposition is:
 
-> IVC is a focused collaboration of people working with immunization
-> vocabularies, code systems, mappings, and their practical use.
+> IVC is a focused, peer-support collaboration for the informaticians who create
+> and maintain vaccine code sets and help clinicians and public-health
+> professionals use immunization information accurately.
 
-### Participation and authority
+### Confirmed participation and authority model
 
-The current record shows participation by individuals connected with multiple
-organizations, projects, and jurisdictions. It does not yet support a formal
-membership model, representative mandate, voting structure, or claim that
-participants speak for their employers. Public contributor language should
-therefore distinguish personal participation from institutional endorsement.
+Participants join to contribute experience from their work and to learn from
+others; they do **not** formally represent their employers, countries, programs,
+or jurisdictions. They should not be expected to report or account for all work
+performed by those bodies. Their useful contribution is practical perspective:
+what works, what has failed, what they have learned, and what support they need.
+
+IVC is not empowered to make decisions binding on participants or their
+organizations. It makes only the internal decisions needed to maintain NUVA,
+organize shared conceptual models, and work together coherently. Participants
+may use IVC evidence and community learning to support change inside their own
+organizations, but they remain responsible for that local work and its formal
+decision process.
+
+Public contributor language must distinguish individual participation from
+institutional endorsement. Avoid national flags, employer lists, or phrases
+such as "representing" unless a specific person has an explicit mandate for a
+specific activity.
 
 ## 3. What IVC does not do
 
@@ -207,25 +243,46 @@ software. A more accurate boundary may be:
 
 Nathan should confirm whether this reflects the intended boundary.
 
-### Boundary requiring a present-day decision: advocacy
+### Confirmed boundary: technical feedback, liaison, and light advocacy
 
-Early proposals include advocacy for code-system changes. That could mean either:
+IVC provides feedback while codes are aligned to NUVA and may give code-system
+authors or standards projects information about representational improvements.
+For example, it might support adding a code-system identifier to FHIR so the
+codes can be carried in messages, or explain why a vaccine code set needs to
+represent historical and foreign vaccinations as well as products currently
+authorized in one jurisdiction.
 
-1. IVC identifies evidence-based improvements and communicates them to the
-   responsible owner; or
-2. IVC campaigns for particular standards, policies, or institutional choices.
+This may sometimes be called advocacy, but only in a light, technical sense:
+IVC advocates for accurate and complete representation of immunization
+concepts. It does not campaign for an organization to adopt a particular
+policy, procedure, operational model, or vaccination program decision.
 
-The first is consistent with the bridge role. The second would materially
-change tone, authority, and review requirements. Public copy should not use
-"advocacy" until Nathan defines which meaning is intended.
+IVC may liaise with standards projects and communicate technical positions
+consistent with what its community is learning. These are community
+perspectives and feedback, not formal recommendations or binding positions.
+Final decisions remain with the responsible code-system owner, standards body,
+program, or organization.
 
-### Boundary requiring a present-day decision: recommendations
+The distinction to preserve in public language is:
 
-IVC can likely publish technical findings, mappings, comparison methods, and
-questions without claiming authority to prescribe adoption. The unresolved
-line is whether it may issue a reviewed technical recommendation to a
-code-system owner. This should be decided explicitly rather than hidden behind
-words such as "support" or "improve."
+- **IVC may say:** "Our alignment work indicates that this concept is missing,"
+  "this identifier is needed for exchange," or "this set does not represent
+  historical vaccinations needed by implementers."
+- **IVC does not say:** "Your program must adopt this policy," "your system must
+  operate this way," or "your jurisdiction should make this vaccination
+  recommendation."
+
+### Example: supporting the expert without overruling the program
+
+A jurisdiction might call a code set complete even though it includes only
+vaccines currently authorized there. Its vaccine-code expert may recognize that
+the set cannot represent vaccines administered in prior years or other
+countries. IVC can help the expert compare the set with NUVA, document the gap,
+and provide supporting material explaining what a durable vaccine vocabulary
+needs to represent.
+
+The program still decides what to do. IVC's contribution is that the expert no
+longer has to raise the technical concern alone or without evidence.
 
 ## 4. What NUVA is
 
@@ -352,18 +409,19 @@ evergreen foundation pages as though they were settled facts.
 These are communications and scope decisions that should be answered before
 François is asked to fact-check technical language.
 
-### Priority A: identity and authority
+### Priority A: identity and authority — resolved 2026-10-07
 
-1. Is **"a focused collaboration of people working with immunization
-   vocabularies"** an accurate description, or do you want a different
-   organizational term?
-2. May IVC publish reviewed technical recommendations to code-system owners, or
-   should it only document findings and route questions to the responsible
-   owner?
-3. Does IVC advocate for specific code changes and standards decisions? If yes,
-   what limits distinguish technical advocacy from policy advocacy?
-4. Do participants generally contribute as individuals, as organizational
-   representatives, or either depending on the activity?
+1. **Organizational term:** IVC is a focused, peer-support collaboration for
+   vaccine code-set authors and related informaticians.
+2. **Feedback and recommendations:** IVC provides alignment feedback, evidence,
+   and community perspectives. It does not make final recommendations binding
+   on code-system owners.
+3. **Advocacy:** IVC may advocate lightly for accurate representation of
+   immunization concepts and liaise with standards projects. It does not take
+   positions on immunization-program policy, procedures, or operations.
+4. **Participation:** people participate as individual experts drawing on their
+   work, not as formal representatives of employers, programs, or countries.
+   IVC decisions bind neither participants nor their organizations.
 
 ### Priority B: actual current work
 
