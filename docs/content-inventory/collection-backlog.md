@@ -27,8 +27,11 @@ ordered by impact on the website priorities.
 
 ## Priority 2: Complete the meeting archive
 
-- [ ] Locate the local IVC working directory referenced by the content plan; it
-  was not found inside this repository.
+- [x] Locate and begin reviewing the local IVC working directory referenced by
+  the content plan. A targeted review is in `local-source-review.md`.
+- [ ] Complete collection-level and then file-level disposition of the 612-file
+  local source set, recording duplicates, superseded drafts, privacy, rights,
+  owner, and publication suitability.
 - [ ] Capture a complete DokuWiki page/media index to find unlinked material.
 - [ ] Review every agenda and presentation file for title, date, author,
   summary, duplication, accessibility, ownership, and publication permission.

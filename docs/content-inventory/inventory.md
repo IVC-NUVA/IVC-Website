@@ -67,3 +67,9 @@ dates are access dates, not publication dates.
    summaries for important information.
 7. **Dynamic NUVA data:** Link to authoritative live resources rather than
    duplicating release numbers, counts, mappings, or service status.
+8. **Local source collection:** The 612-file working collection has now been
+   located and a targeted foundational review is recorded in
+   [local-source-review.md](local-source-review.md). Its proposals, Q&A, issue
+   brief, orientation template, website plan, and Bordeaux reports materially
+   strengthen this inventory, while its private/internal material requires
+   strict publication controls.

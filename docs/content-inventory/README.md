@@ -36,6 +36,8 @@ The review is organized around three priorities:
 - [inventory.md](inventory.md): item-level source register
 - [collection-backlog.md](collection-backlog.md): missing material,
   verification questions, and publication decisions
+- [local-source-review.md](local-source-review.md): review of the 612-file local
+  IVC working collection and its highest-value foundational sources
 
 ## Initial findings
 
@@ -58,6 +60,10 @@ The review is organized around three priorities:
   update entries are examples rather than real publications.
 - No source reviewed so far defines the editorial process or publishing model
   for the requested blog/update space.
+- The local working collection confirms a useful scope boundary and contains
+  strong raw material, but it must not be bulk-published: it mixes public
+  candidates with private contacts, attendance, funding, strategy, and candid
+  working notes.
 
 ## Inventory conventions
 
