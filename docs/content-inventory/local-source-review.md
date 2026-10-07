@@ -151,7 +151,9 @@ This was a targeted foundational review, not yet a file-by-file disposition of
 all 612 files. Remaining work should proceed by collection:
 
 1. Reconcile `Agenda`, `Presentation`, `Notes`, and `Recordings` by meeting date.
-2. Review Bordeaux assets against the existing public summary.
+2. Review Bordeaux assets against the existing public summary. **Completed at
+   the inventory level on 2026-10-07; owner verification and publication
+   permissions remain open.**
 3. Review NUVA technical sources with the separate NUVA-project boundary in
    mind.
 4. Review the Spanish collection with a fluent reviewer.

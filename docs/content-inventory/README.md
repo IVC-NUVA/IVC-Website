@@ -38,6 +38,10 @@ The review is organized around three priorities:
   verification questions, and publication decisions
 - [local-source-review.md](local-source-review.md): review of the 612-file local
   IVC working collection and its highest-value foundational sources
+- [events/bordeaux-2025-event.md](events/bordeaux-2025-event.md): reconciled
+  event record, delivered program, DokuWiki comparison, and website treatment
+- [events/bordeaux-2025-artifacts.md](events/bordeaux-2025-artifacts.md):
+  accounting and disposition of all 155 files in the Bordeaux collection
 
 ## Initial findings
 

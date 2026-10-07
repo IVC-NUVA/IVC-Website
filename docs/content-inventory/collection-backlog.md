@@ -40,10 +40,16 @@ ordered by impact on the website priorities.
   and follow-up reports.
 - [ ] Decide whether attendee lists are useful and appropriately consented to;
   omit personal attendance data by default when it adds little public value.
-- [ ] Have Bordeaux organizers/session owners verify the summary, names,
-  statistics, project-status claims, and links.
-- [ ] Choose which Bordeaux assets remain originals and which need accessible
-  HTML summaries.
+- [x] Reconcile the Bordeaux event, its planned and delivered program, local
+  artifacts, exact duplicates, public summary, and recommended website form.
+- [ ] Have Bordeaux organizers/session owners verify the reconciled event
+  record, speaker names, statistics, project-status claims, and links.
+- [ ] Obtain presentation-hosting permission from each speaker/organization;
+  specifically do not publish the STCHealth deck without explicit clearance.
+- [ ] Select consent-cleared Bordeaux photographs and document captions,
+  subjects, photographer credits, and alt text.
+- [ ] Decide which cleared Bordeaux presentations should remain original
+  downloads and which sessions need accessible HTML summaries.
 - [ ] Adopt an event record: title, date, purpose, summary, agenda,
   presentations, notes/outcomes, related links, and artifact status.
 
