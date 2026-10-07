@@ -77,6 +77,10 @@ response format for François.
 - [ ] Reconcile legacy recurring meetings from June 2023 through 2026-05-13
   across agendas, presentations, notes, recordings, and DokuWiki entries, and
   produce an InteropHub backload manifest for each meeting.
+- [x] Review the separate `IVC en espanol` collection. It duplicates the
+  Spanish subtree in the main IVC source but establishes three meetings for
+  the InteropHub backload: 12 March, 9 April, and 23 July 2025. Artifact and
+  exclusion guidance is in `events/ivc-en-espanol-2025.md`.
 - [ ] Collect missing notes, decisions, recordings, transcripts, chat, photos,
   and follow-up reports.
 - [x] Keep raw polling, attendance, contact, invitation, and internal reporting
@@ -118,7 +122,8 @@ response format for François.
   link to a governed, generated system.
 - [x] Decide that the initial website is English-only. Do not migrate the
   Spanish website section; preserve Spanish historical meeting presentations
-  with their meetings in InteropHub.
+  with their meetings in InteropHub. Three 2025 Spanish meetings have now been
+  reconciled for that backload.
 - [x] Decide that country and organization research will not be maintained on
   the website. Future work belongs in InteropHub.
 - [x] Review legacy contributor and volunteer material. Do not migrate formal

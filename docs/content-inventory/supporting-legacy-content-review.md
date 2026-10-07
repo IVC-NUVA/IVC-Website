@@ -42,6 +42,12 @@ language should not be changed. The local Spanish source collection remains an
 internal archive; this is a website-scope decision, not authorization to delete
 source files.
 
+The separately stored `IVC en espanol` folder was compared with the Spanish
+subtree in the main IVC collection. Its 48 non-video files are byte-identical;
+the video also has the same name and byte size. The review identified meetings
+on 12 March, 9 April, and 23 July 2025 for explicit inclusion in the InteropHub
+backload. See [ivc-en-espanol-2025.md](events/ivc-en-espanol-2025.md).
+
 Future multilingual support should be designed deliberately rather than
 recreating the old Spanish section page by page.
 
