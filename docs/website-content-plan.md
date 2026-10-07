@@ -257,6 +257,7 @@ Place approved content into the website and confirm that visitors can find, unde
 - Link integrity
 - Consistent IVC naming and terminology
 - Accuracy of contact and participation information
+- End-to-end delivery and forwarding test for `info@ivci.org`
 - Presence of content status, ownership, and review dates where needed
 - Ease of completing the highest-priority visitor tasks
 
@@ -322,3 +323,4 @@ Use this section for high-level decisions that affect later work.
 | 2026-10-07 | Launch the website in English only. Do not migrate the Spanish website section; preserve Spanish historical meeting presentations with their meetings in InteropHub. | A future language strategy should be designed and supported deliberately rather than recreating an incomplete parallel section. | Nathan |
 | 2026-10-07 | Do not maintain country or organization research on the website. Track future work in InteropHub and link only to reviewed records when useful. | Existing research is poor or incomplete, and a second manually maintained collection would create conflicting records. | Nathan |
 | 2026-10-07 | Do not migrate the legacy formal volunteer roles, contributor structure, acronym catalog, campaign pages, or supporting documents unchanged. Preserve useful ideas through rewritten foundation, participation, and optional FAQ/glossary content. | The old material conflicts with the confirmed peer-support and non-representation model and contains obsolete activities and claims. | Nathan |
+| 2026-10-07 | Retain `info@ivci.org` as the intended public contact route, subject to an end-to-end pre-launch test. François currently monitors it and Nathan likely receives copies, but routing has not been verified recently. | A public contact address should not be published as dependable until delivery, forwarding, monitoring, and configuration ownership are confirmed. | Nathan |

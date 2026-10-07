@@ -132,8 +132,10 @@ response format for François.
   Meeting-specific conduct guidance can live with the meeting process if needed.
 - [x] Locate and review supporting one-page, FAQ, acronym, interview, campaign,
   and introduction materials. Preserve useful ideas but migrate none unchanged.
-- [ ] Verify whether `info@ivci.org` is the canonical mailbox, who monitors it,
-  and what privacy/response language is needed.
+- [ ] Before launch, test `info@ivci.org` end to end. It is the intended public
+  mailbox; François monitors it and Nathan likely receives copies, but delivery
+  and routing have not been tested recently. Confirm configuration ownership,
+  privacy language, and best-effort response wording.
 - [ ] Decide during information architecture whether rewritten FAQ and glossary
   content need standalone pages.
 

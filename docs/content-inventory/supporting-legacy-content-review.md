@@ -106,7 +106,7 @@ superseded without relying on it as evidence for current claims.
 | Spanish landing, outreach, and role pages | Would create an unsupported parallel language experience and preserve obsolete roles/campaigns | **Remove from new website scope** | Preserve Spanish historical meeting presentations through InteropHub; reconsider multilingual strategy later |
 | Country/organization profiles and research | Incomplete, uneven, and not maintained | **Remove from new website scope** | Track future work in InteropHub and link only to reviewed records if useful |
 | Meeting and presentation indexes | Valuable history but split across legacy systems | **Do not recreate manually** | Link the website's Meetings section to the unified InteropHub record |
-| Contact and participation references | `info@ivci.org` and monthly calls appear repeatedly, but ownership and response expectations need confirmation | **Keep the concepts; verify operational details** | One contact route, stable Meetings link, and explicit best-effort response language |
+| Contact and participation references | `info@ivci.org` is the intended public mailbox; François monitors it and Nathan likely receives copies, but delivery and routing have not been tested recently | **Keep provisionally; perform an end-to-end test before launch** | One contact route, stable Meetings link, and explicit best-effort response language |
 
 ## Recommended FAQ content pattern
 
@@ -175,8 +175,9 @@ representation structure. A simple participation section should provide:
 
 Before publication, confirm:
 
-- Whether `info@ivci.org` is the canonical mailbox
-- Who monitors it
+- End-to-end delivery to `info@ivci.org`
+- That François still receives messages and Nathan receives the intended copy
+- Who can update the mailbox or forwarding configuration if the test fails
 - What privacy notice is needed for submitted contact information
 - Whether meeting registration occurs exclusively through InteropHub
 - Whether any response expectation should be stated beyond "best effort"
@@ -240,7 +241,9 @@ website page.
 
 ## Remaining decisions and checks
 
-1. Confirm the public contact mailbox and its owner.
+1. Test `info@ivci.org` before launch and verify its delivery, forwarding,
+   monitoring, and recovery/configuration owner. François currently monitors it
+   and Nathan likely receives a copy, but this has not been tested recently.
 2. Confirm the InteropHub meeting landing URL after the historical backload.
 3. Decide during information architecture whether a separate FAQ adds value or
    whether the core pages answer the selected questions.
