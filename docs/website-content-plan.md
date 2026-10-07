@@ -1,0 +1,311 @@
+# IVC Website Content Plan
+
+## Purpose
+
+This document defines the process for researching, organizing, writing, and publishing content for the Immunization Vocabularies Collaboration (IVC) website.
+
+The website should be a clear, practical support resource for people who create, maintain, map, and use immunization vocabularies. It should accurately represent IVC as a small, focused collaboration of subject-matter experts. The site should be useful and credible without sounding like a commercial product or a large advocacy organization.
+
+The materials in the `docs` directory are working research and planning documents. They support development of the public website but are not themselves intended to appear as public website pages.
+
+## Guiding principles
+
+The website and its content should be:
+
+- Clear, direct, and technically precise
+- Supportive of code-system authors, custodians, and implementers
+- Useful to an international audience
+- Honest about the size, role, and capabilities of IVC
+- Focused on practical knowledge rather than promotional language
+- Accessible to readers with different levels of vocabulary expertise
+- Explicit about the status and currency of technical information
+- Consistent with the name **Immunization Vocabularies Collaboration**
+- Clear about what IVC does and does not do
+
+## Overall workflow
+
+The content work will follow this sequence:
+
+> Collect -> evaluate -> identify users and tasks -> organize -> approve structure -> write -> implement -> maintain
+
+Each phase should result in a reviewable deliverable. Major copywriting and implementation should wait until the preceding research and structural decisions have been reviewed.
+
+## Phase 1: Content inventory and discovery
+
+### Goal
+
+Gather the information that might need to appear on the website and establish what material is trustworthy, current, appropriate for publication, and still useful.
+
+### Sources to review
+
+- The current IVC DokuWiki website
+- The local IVC working directory and its subdirectories
+- Name-change materials
+- Current NUVA resources and authoritative links
+- Existing presentations, one-page summaries, FAQs, and explanatory documents
+- Meeting and participation information
+- Contributions from François and other IVC participants
+- Institutional knowledge that has not yet been written down
+
+### Information to capture for each source or content item
+
+- Working title
+- Source file or URL
+- Short description
+- Relevant subject area
+- Likely audience
+- Potential website use
+- Content owner or person who can verify it
+- Currentness or last known review date
+- Publication status or confidentiality concerns
+- Overlap with other material
+- Open factual questions
+- Recommended action:
+  - Keep
+  - Revise
+  - Combine
+  - Archive
+  - Omit
+  - Verify before deciding
+
+### Deliverable
+
+A content inventory containing source references, summaries, status, ownership, and recommended actions. This is a research artifact, not finished website copy.
+
+### Review gate
+
+Nathan and François review the inventory for:
+
+- Important omissions
+- Material that should not be public
+- Outdated or inaccurate information
+- Appropriate owners and reviewers
+- Material requiring further research
+
+## Phase 2: Audiences, needs, and use cases
+
+### Goal
+
+Define who the website serves and what those visitors need to accomplish. Rank the audiences and use cases so the site does not treat every possible need as equally important.
+
+### Initial audience hypotheses
+
+- Immunization vocabulary and code-system authors
+- Code-system custodians and terminology specialists
+- Immunization information-system implementers
+- Standards organizations and public-health partners
+- People trying to interpret an unfamiliar or international vaccine code
+- Current and prospective IVC participants
+
+### Initial use-case hypotheses
+
+- Understand what IVC is and what it does
+- Locate technical guidance
+- Learn about a national or universal code system
+- Understand NUVA and its role
+- Compare or map immunization vocabularies
+- Find answers to common coding questions
+- Ask the IVC community a technical question
+- Find meetings, presentations, and participation details
+
+### Questions to resolve
+
+- Who is the primary audience?
+- What are the three most important tasks the site must support?
+- What vocabulary knowledge can be assumed?
+- What should a first-time visitor understand within one minute?
+- Which use cases require detailed technical resources rather than introductory pages?
+- Which information must be available in languages other than English?
+
+### Deliverable
+
+An agreed audience and use-case document that ranks primary, secondary, and occasional users and identifies their most important tasks.
+
+### Review gate
+
+Nathan and François approve the audience priorities and the primary tasks that will shape the homepage and navigation.
+
+## Phase 3: Information architecture
+
+### Goal
+
+Organize approved content around user needs and create a structure that makes technical information easy to find.
+
+### Initial site-map hypothesis
+
+- Home
+- Technical Resources
+  - Immunization coding foundations
+  - Code systems
+  - Mapping guidance
+  - Metrics and assessment
+  - Frequently asked questions and glossary
+- NUVA
+- About IVC
+  - Purpose
+  - Scope
+  - Current work
+  - Contributors
+- Participate
+  - Meetings
+  - Ask a question
+  - Contact
+
+This is a starting hypothesis, not the final structure. The site map should be derived from the content inventory and prioritized use cases.
+
+### Page-outline requirements
+
+Before writing polished copy, each proposed page should have a short outline identifying:
+
+- Page purpose
+- Primary audience
+- Visitor questions answered
+- Desired next action
+- Required content
+- Supporting sources
+- Content owner or reviewer
+- Related pages
+
+### Deliverables
+
+- Approved site map
+- Navigation model
+- Page inventory
+- Outline for each planned page
+- Mapping from source material to destination pages
+
+### Review gate
+
+Nathan and François approve the site structure and page outlines before substantial copywriting begins.
+
+## Phase 4: Copy development and review
+
+### Goal
+
+Create accurate, readable, and consistent public-facing language using the approved sources and page outlines.
+
+### Suggested writing order
+
+1. Homepage
+2. About, purpose, and scope
+3. Technical Resources landing page
+4. NUVA overview
+5. Contact and participation information
+6. Individual technical-resource pages
+7. FAQ, glossary, and supporting reference pages
+
+### Copy standards
+
+Content should:
+
+- Use plain language where it does not reduce technical precision
+- Define specialized terms when first introduced
+- Use short, descriptive headings
+- Put the most useful information first
+- Avoid inflated marketing language
+- Avoid presenting IVC as larger or more formal than it is
+- Avoid claims that cannot be supported by an identified source
+- Distinguish established guidance from drafts, proposals, and opinions
+- Use the new IVC name consistently
+- Work well for readers who use English as an additional language
+- Provide meaningful link text rather than phrases such as “click here”
+
+### Technical-resource metadata
+
+Where useful, technical pages should identify:
+
+- Publication or last-review date
+- Resource status, such as draft, reviewed, or maintained
+- Responsible author or group
+- Source references
+- Related resources
+- How to report an error or ask a question
+
+### Deliverables
+
+- Draft copy for each approved page
+- Source and fact-check notes
+- Review comments and resolved decisions
+- Final approved copy ready for implementation
+
+### Review gate
+
+The appropriate content owners approve factual accuracy, publication status, and tone before copy is treated as final.
+
+## Phase 5: Website implementation and validation
+
+### Goal
+
+Place approved content into the website and confirm that visitors can find, understand, and use it.
+
+### Implementation work
+
+- Build the approved pages and navigation
+- Add metadata, review dates, and resource status where appropriate
+- Replace placeholder links and prototype content
+- Ensure consistent terminology and page patterns
+- Make technical resources readable on desktop and mobile devices
+
+### Validation checklist
+
+- Navigation and findability
+- Keyboard accessibility and visible focus states
+- Heading structure and semantic HTML
+- Color contrast and readable text sizes
+- Mobile and narrow-screen behavior
+- Descriptive page titles and metadata
+- Link integrity
+- Consistent IVC naming and terminology
+- Accuracy of contact and participation information
+- Presence of content status, ownership, and review dates where needed
+- Ease of completing the highest-priority visitor tasks
+
+### Deliverable
+
+A reviewable website version containing approved content and ready for final content, accessibility, and technical review.
+
+## Phase 6: Publication and ongoing maintenance
+
+### Goal
+
+Keep the website dependable after launch by assigning ownership and establishing a lightweight review process that is realistic for a small collaboration.
+
+### Decisions required before launch
+
+- Who can approve changes to public content?
+- Who owns each major content area?
+- How frequently should technical resources be reviewed?
+- How will review dates and resource status be displayed?
+- Where will authoritative source material be maintained?
+- How will temporary announcements and meetings expire or move to an archive?
+- How can visitors report an error or request clarification?
+- How will broken links and outdated references be identified?
+
+### Suggested maintenance practices
+
+- Assign an owner to every maintained technical page
+- Display a last-reviewed date when currency matters
+- Review high-value technical content on an agreed schedule
+- Keep time-sensitive announcements separate from evergreen guidance
+- Archive rather than silently discard historically useful material
+- Record substantial content decisions in the repository
+- Use issues or a lightweight backlog for requested changes and unresolved questions
+
+### Deliverable
+
+A practical content-governance and maintenance process with named responsibilities and review intervals.
+
+## Immediate next step
+
+Begin Phase 1 by creating the content inventory. Review the current DokuWiki site and the local IVC working directory, summarize potentially useful material, identify duplication and outdated information, and flag anything that requires verification or a publication decision.
+
+The initial inventory should be reviewed before the final audience priorities, site map, or public copy are approved.
+
+## Decisions log
+
+Use this section for high-level decisions that affect later work.
+
+| Date | Decision | Reason | Approved by |
+| --- | --- | --- | --- |
+| 2026-10-06 | Use the Technical Reference homepage concept as the website starting point. | It best supports a clear, direct, utilitarian technical-resource experience. | Nathan and François |
+| 2026-10-06 | Store website research and planning under `docs/`. | This keeps internal working material centralized and separate from public website content. | Nathan |
