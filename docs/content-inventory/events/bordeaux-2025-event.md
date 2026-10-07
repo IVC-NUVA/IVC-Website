@@ -52,14 +52,14 @@ the session files, facilitation deck, internal report, and public summary.
 | 09:30–09:50 | NUVA: what it is and why it matters | François Kaag | `A03-FK-NUVA- Why it matters.pdf`; public summary | **Delivered.** Strong candidate for a reviewed presentation link and HTML summary. |
 | 09:50–10:10 | How NUVA uses valences | Jean-Louis Koeck | `a04-jlk-_valence_concept.pdf`; public summary | **Delivered.** File arrived after the main presentation ZIP and should be retained as the canonical local copy. |
 | 10:10–10:30 | NUVA extension to SNOMED CT | Suzy Roy and Peter Williams | `A05_NUVA Extension to SNOMED CT.pdf`; public summary | **Delivered.** Time-sensitive technical and partnership claims require speaker/SNOMED review before reuse. |
-| 11:00–11:15 | Industry view: vaccine codification and access to resources | Ingrid Weindorfer | `B01-IW-View from the industry.pdf`; public summary | **Delivered.** Retain with permission and date. |
+| 11:00–11:15 | Industry view: vaccine codification and access to resources | Ingrid Weindorfer | `B01-IW-View from the industry.pdf`; public summary | **Delivered.** Continue hosting as a dated presentation. |
 | 11:15–11:35 | WHO role in global vaccine interoperability | Speaker was unresolved in final agenda | No delivered deck or public-summary section found | **Not evidenced as delivered.** Do not list as an actual session without further evidence. |
-| 11:35–11:55 | EU strategy for cross-border vaccination records | Georgios Margetidis, HaDEA | Public summary; facilitation deck | **Delivered, but no standalone local deck found.** Ask whether a deck may be obtained or publish only an approved summary. |
+| 11:35–11:55 | EU strategy for cross-border vaccination records | Georgios Margetidis, HaDEA | Public summary; facilitation deck; organizer confirmation | **Delivered virtually without slides.** There is no presentation artifact or other session content to share. |
 | 11:55–12:15 | WHODrug and IDMP for vaccines | Malin Fladvad, Uppsala Monitoring Centre | `B04-MF-WHODrug and IDMP for vaccines.pdf`; public summary | **Delivered.** The final agenda label and public-summary label differ; use the deck title or speaker-approved title. |
 | 13:15–13:30 | Luxembourg experience | Maud Delporte, Agence eSanté Luxembourg | `c01-md-luxembourg_experience.pdf`; public summary | **Delivered.** File in the presentation folder is canonical; later modification date suggests it was added after the initial bundle. |
 | 13:30–13:50 | EUVABECO Electronic Vaccination Card project | Alain Cimino, Cimbiose | `C02-AC-The EUVABECO EVC project.pdf`; public summary | **Delivered.** Preserve as dated project status. |
 | 13:50–14:10 | Latin American vaccine-coding experience | PAHO speaker unresolved in final agenda | No delivered deck or public-summary section found | **Not evidenced as delivered.** Do not imply PAHO presented. |
-| 14:10–14:30 | United States vaccine-coding experience | Shannon Coleman, STCHealth | `D02-SC-US - Vaccine Coding.pdf`; public summary | **Delivered.** Deck is marked proprietary and confidential; do not publish without explicit STCHealth permission. |
+| 14:10–14:30 | United States vaccine-coding experience | Shannon Coleman, STCHealth | `D02-SC-US - Vaccine Coding.pdf`; public summary | **Delivered.** The standard STCHealth proprietary/confidential footer does not make this event deck sensitive for inclusion; existing IVC hosting permission applies. |
 | 14:30–14:50 | Canadian vaccine-coding experience | Myriam Talantikit, Canada Health Infoway | `D03-MT-Canada_Experiences_in_Vaccine_Coding.pdf`; public summary | **Delivered.** A second root-level PDF has identical extracted text but differs at the binary/metadata level. Use the presentation-folder copy as canonical pending author confirmation. |
 | 15:20–15:35 | Mapping across code systems | Timothée Doulut, Syadem | `E01-TD-Transcoding and aligning.pdf`; public summary | **Delivered.** Public summary records an agreed terminology correction: avoid “generic vaccine” in this context. |
 | 15:35–15:50 | Metrics for code systems | François Kaag | `E02-FK-Metrics.pdf`; public summary | **Delivered.** Metrics and percentages are dated results, not timeless quality scores. |
@@ -150,22 +150,34 @@ Create one historical event page with:
 3. A concise account of the training on 8 May as a related event.
 4. The actual delivered program, excluding planned sessions that did not occur.
 5. Short, reviewed session summaries.
-6. Links or downloads only for presentation files cleared by their owners.
+6. Links or downloads for the presentation files already hosted by IVC; IVC has
+   permission to continue hosting them.
 7. A restrained outcomes section that distinguishes observations, discussion
    proposals, and actual decisions.
 8. A small, consent-cleared photo selection with captions and alt text.
 9. A link to the external EUVABECO recap as an independent perspective.
 10. A last-reviewed date and contact route for corrections.
 
-Do not publish raw Mentimeter exports, contacts, attendance lists, invitations,
-travel documents, working agendas, speaker guidance, private reports, or the
-complete photo dump.
+By organizer decision, raw Mentimeter exports, contacts, attendance lists,
+invitations, travel documents, working agendas, speaker guidance, and internal
+reports remain private. Do not publish the complete photo dump.
+
+## Organizer decisions recorded 2026-10-07
+
+- The EU strategy presentation was delivered virtually without slides, and
+  there is no session artifact or additional content to share.
+- The proprietary/confidential marking used on STCHealth presentations does
+  not indicate that this event presentation is sensitive for website inclusion.
+- IVC already hosts the Bordeaux presentations and has permission to continue
+  hosting them.
+- Raw polling, attendance, contact, invitation, and internal reporting material
+  will remain private.
 
 ## Required owner checks
 
 - Nathan: event identity, participation wording, opening, closing, and outcomes
 - François: NUVA history, governance, technical descriptions, and metrics
-- Each speaker/organization: permission to host slides and accuracy of summary
-- STCHealth: explicit clearance for its proprietary/confidential deck
+- Each speaker/organization: technical currency and accuracy of its summary;
+  presentation-hosting permission is already established
 - Event organizers/participants: photograph selection and consent basis
 - A fluent French/English reviewer: names, accents, and translated material

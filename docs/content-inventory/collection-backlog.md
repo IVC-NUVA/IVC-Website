@@ -38,14 +38,15 @@ ordered by impact on the website priorities.
 - [ ] Determine whether materials exist after 2026-05-13.
 - [ ] Collect missing notes, decisions, recordings, transcripts, chat, photos,
   and follow-up reports.
-- [ ] Decide whether attendee lists are useful and appropriately consented to;
-  omit personal attendance data by default when it adds little public value.
+- [x] Keep raw polling, attendance, contact, invitation, and internal reporting
+  materials private; use only reviewed facts or anonymized aggregates in
+  derived public content.
 - [x] Reconcile the Bordeaux event, its planned and delivered program, local
   artifacts, exact duplicates, public summary, and recommended website form.
 - [ ] Have Bordeaux organizers/session owners verify the reconciled event
   record, speaker names, statistics, project-status claims, and links.
-- [ ] Obtain presentation-hosting permission from each speaker/organization;
-  specifically do not publish the STCHealth deck without explicit clearance.
+- [x] Confirm presentation-hosting permission. IVC already hosts the Bordeaux
+  presentations and has permission to continue, including the STCHealth deck.
 - [ ] Select consent-cleared Bordeaux photographs and document captions,
   subjects, photographer credits, and alt text.
 - [ ] Decide which cleared Bordeaux presentations should remain original
