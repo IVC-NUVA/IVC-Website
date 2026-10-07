@@ -35,9 +35,17 @@ from the later technical review requested from François.
   PHI, and does not operate or support production systems that do.
 - [x] Confirm that technical questions are best-effort peer support, not an
   authoritative or guaranteed-answer service.
+- [x] Confirm the current IVC–NUVA boundary: NUVA is gradually transitioning
+  toward community support, but IVC currently has no authorization over NUVA
+  changes and remains in a tool- and process-building phase.
+- [x] Decide the initial website treatment of the NUVA transition: state narrow
+  present facts candidly, acknowledge slow but steady unfunded progress, and
+  defer governance details that have not yet been established.
 - [ ] Approve a current account of IVC, Syadem, contributors, SNOMED
   International, and committee roles in NUVA ownership, stewardship,
-  validation, and publication.
+  validation, and publication. Nathan has confirmed the direction and IVC's
+  current lack of authority; François still needs to verify technical and
+  stewardship details.
 - [ ] Confirm whether NUVA expands to “Unified Nomenclature of Vaccines” or
   “Unified Nomenclature for Vaccines” in English.
 - [ ] Verify public NUVA claims: completeness, precision, license, languages,

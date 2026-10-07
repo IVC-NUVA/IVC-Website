@@ -173,7 +173,7 @@ without implying that IVC can require a particular organizational response.
 | Metrics and assessment | Active alignment work and implemented calculations | **Current work tied to alignment:** develop useful metrics alongside the alignment tooling; avoid publishing unapproved definitions or scores |
 | Technical questions and training | Website, presentations, and monthly meetings | **Current peer support:** people may bring questions through the website or meetings, without a guaranteed answer or service level |
 | Country/organization interviews | Earlier research and plans | **Aspirational and deprioritized:** Nathan does not currently have capacity; student-supported interviews may be reconsidered in 2027 |
-| NUVA contribution review | October 2026 notes indicate a future IVC approval gate, currently François personally | Treat as emerging governance, not established organizational machinery |
+| NUVA contribution review | Community support is a future direction; IVC currently has no authorization over changes | State plainly that governance and authorization are not yet established |
 
 ### Current activity statement
 
@@ -219,11 +219,12 @@ performed by those bodies. Their useful contribution is practical perspective:
 what works, what has failed, what they have learned, and what support they need.
 
 IVC is not empowered to make decisions binding on participants or their
-organizations. It makes only the internal decisions needed to maintain NUVA,
-organize shared conceptual models, and work together coherently. Participants
-may use IVC evidence and community learning to support change inside their own
-organizations, but they remain responsible for that local work and its formal
-decision process.
+organizations. It can make the internal working decisions needed to organize
+meetings, develop tools, explore shared conceptual models, and work together
+coherently, but it currently has no authorization to accept or reject changes
+to NUVA. Participants may use IVC evidence and community learning to support
+change inside their own organizations, but they remain responsible for that
+local work and its formal decision process.
 
 Public contributor language must distinguish individual participation from
 institutional endorsement. Avoid national flags, employer lists, or phrases
@@ -403,18 +404,34 @@ The evidence does not yet justify saying that:
 - IVC approves every mapping today.
 - SNOMED International co-owns or governs NUVA.
 
-### Working relationship model for discussion
+### Working relationship model
 
-A cautious model that fits the evidence is:
+A cautious model confirmed by Nathan is:
 
 > NUVA is a shared technical resource closely connected with IVC's work. Syadem
 > and François developed and currently steward core technical content and
-> publishing processes. IVC provides a broader collaboration space in which
-> vocabulary owners and other experts can discuss NUVA, contribute knowledge,
-> and help shape alignments and future governance. The exact long-term division
-> of ownership, publication, review, and approval is still being established.
+> publishing processes. Work is underway to transition NUVA into a
+> community-supported resource. IVC currently provides a monthly collaboration
+> space and is helping develop tools and processes intended to make future
+> community support straightforward. IVC does not currently authorize changes
+> to NUVA. The long-term division of ownership, publication, review, and
+> approval is still being established.
 
-Nathan and François should revise this together before any version is public.
+François should verify the technical and stewardship details before any version
+is public.
+
+### Transition status and pace
+
+The transition toward community support is active but early. The work has no
+dedicated funding, so progress is slow; it is also steady, with work advancing
+each month. The project remains primarily in a tool- and process-building phase.
+The intent is to make contribution and support simple and understandable before
+inviting the entire community to participate.
+
+Public wording should be honest about both facts: meaningful progress is being
+made, and a substantial amount of work remains. Avoid launch-style language,
+completion dates, or descriptions of governance bodies and approval processes
+that do not yet exist.
 
 ## 6. Messaging architecture suggested by the evidence
 
@@ -466,16 +483,17 @@ François is asked to fact-check technical language.
    informal peer support. IVC is not an authority, does not claim to know every
    answer, and guarantees neither an answer nor a response time.
 
-### Priority C: IVC and NUVA
+### Priority C: IVC and NUVA — resolved 2026-10-07
 
-8. In your intended model, is NUVA already an IVC program, becoming one, or a
-   closely related independent resource that IVC supports?
-9. What role do you believe IVC has today in accepting changes to NUVA core
-   concepts and alignments, separate from the future model discussed with
-   François?
-10. When the website launches, should it explain the governance transition
-    candidly, describe only today's narrow facts, or defer organizational detail
-    to the NUVA project until decisions are complete?
+8. **Direction:** NUVA is being transitioned toward a community-supported
+   resource. The transition is active, gradual, and incomplete.
+9. **Present authority:** IVC currently provides no authorization for changes
+   to NUVA. Its current role is monthly coordination and the development of
+   tools and processes that could support simpler future community involvement.
+10. **Initial website treatment:** explain the transition candidly using narrow
+    present-tense facts, while deferring unestablished governance details and
+    technical authority to the NUVA project. State that progress is slow because
+    the work is unfunded, but steady; do not imply completion or promise dates.
 
 ### Priority D: public framing
 
@@ -494,7 +512,8 @@ After Nathan resolves the scope questions above, François should review:
 3. The current and target NUVA publication paths.
 4. Syadem's continuing roles and what is actually transferring to the open
    repository.
-5. The present versus proposed IVC review role.
+5. The fact that IVC currently has no authorization over NUVA changes, plus any
+   future review role once a concrete model is proposed.
 6. The SNOMED CT relationship and wording that is accurate now.
 7. Canonical identifiers, links, licenses, and supported distributions.
 8. Which claims are stable enough for evergreen website copy and which belong
