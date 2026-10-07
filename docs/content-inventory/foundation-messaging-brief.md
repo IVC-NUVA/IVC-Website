@@ -108,6 +108,20 @@ This avoids promising that harmonization means replacing all existing systems.
 It also creates room to explain mappings, valences, metadata, governance, and
 historical validity as different parts of the problem.
 
+### Confirmed first-minute priority
+
+The website should lead with the **centrality of vocabulary to immunization
+information and the difficulty of finding reliable, specialized information
+about it**. A first-time visitor should quickly understand:
+
+> Vaccine vocabularies are essential to making immunization information useful,
+> but the knowledge needed to understand and improve them is difficult to find.
+> IVC helps vaccine-code experts find, develop, and share that knowledge from an
+> immunization perspective.
+
+The peer-support model, NUVA, and participation routes should follow from that
+problem rather than compete with it for the opening message.
+
 ### Concrete examples available for later pages
 
 - A vaccination recorded in one country must be understood in another.
@@ -435,7 +449,8 @@ that do not yet exist.
 
 ## 6. Messaging architecture suggested by the evidence
 
-The foundation can eventually become four related public components:
+The foundation can eventually become four related public components, led by the
+vocabulary problem:
 
 1. **Short homepage explanation:** the lifetime-record/cross-system problem and
    IVC's bridge role.
@@ -449,6 +464,28 @@ The foundation can eventually become four related public components:
 The blog/update stream should carry reactions, evolving proposals, project
 status, and dated technical developments. Those should not be folded into
 evergreen foundation pages as though they were settled facts.
+
+### Name-change explanation
+
+The About page should briefly acknowledge that IVC began as the **International
+Vaccine Codes Initiative** and explain why it became the **Immunization
+Vocabularies Collaboration**.
+
+Two misunderstandings motivated the clearer name:
+
+1. **"International" sounded like a use-case restriction.** Some readers
+   understood the work as supporting only records or concepts crossing national
+   borders. Cross-border interpretation is important, and the collaboration
+   itself crosses borders, but most vaccine-code use cases are domestic. IVC
+   supports the full range of vaccine-vocabulary needs.
+2. **"Vocabularies" is deliberately plural.** IVC supports the authors and
+   users of many vaccine code sets. It is not an effort to promote or replace
+   them with one code system.
+
+"Collaboration" also reflects the confirmed peer-support model more accurately
+than "Initiative." Historical event titles and original artifacts should retain
+the former name where historically accurate, accompanied by a brief note when
+needed rather than silently rewriting the record.
 
 ## 7. Decisions requested from Nathan
 
@@ -495,13 +532,18 @@ François is asked to fact-check technical language.
     technical authority to the NUVA project. State that progress is slow because
     the work is unfunded, but steady; do not imply completion or promise dates.
 
-### Priority D: public framing
+### Priority D: public framing — resolved 2026-10-07
 
-11. Should the former name be explained briefly on the About page, or mentioned
-    only in historical meeting records and old artifacts?
-12. Which one-minute visitor outcome matters most: understanding the problem,
-    trusting IVC as a credible collaboration, finding NUVA, or knowing how to
-    participate?
+11. **Former name:** explain the former name briefly on the About page. The
+    current name clarifies that IVC supports all vaccine-vocabulary use cases,
+    most of which are domestic, even though cross-border use and collaboration
+    remain important. The plural "Vocabularies" also makes clear that IVC
+    supports many code sets rather than one.
+12. **First-minute outcome:** lead with the centrality of vocabulary to
+    immunization information and the difficulty of finding reliable information
+    about how it works. IVC exists to support people's need to understand
+    vocabulary from an immunization perspective. The peer-support role, NUVA,
+    and participation should follow from that foundation.
 
 ## 8. Questions reserved for François
 
@@ -523,14 +565,18 @@ After Nathan resolves the scope questions above, François should review:
 
 Unless Nathan's answers change the direction, the website should:
 
-- Lead with preserving meaning across systems and time, not with "one global
-  code."
+- Lead with vocabulary as essential but difficult-to-find immunization
+  infrastructure, and with IVC as a source of specialized shared knowledge.
+- Explain that preserving meaning across systems and time is one major need,
+  not evidence that the work is limited to international exchange.
 - Present IVC as a small, practical collaboration and bridge.
 - State firm exclusions plainly.
 - Use examples to explain the problem without promising that terminology alone
   solves interoperability.
 - Treat NUVA as the leading technical example and resource, while clearly
   distinguishing it from IVC itself.
+- Explain the former name briefly and preserve it accurately in historical
+  records and artifacts.
 - Link to authoritative NUVA resources rather than copying changing counts,
   releases, mappings, or status claims.
 - Keep emerging governance and strategy in dated updates until adopted.

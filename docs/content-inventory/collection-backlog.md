@@ -9,10 +9,10 @@ Working synthesis: [foundation-messaging-brief.md](foundation-messaging-brief.md
 reconciles the strongest source material and separates Nathan's scope decisions
 from the later technical review requested from François.
 
-- [ ] Turn the confirmed rebrand rationale into approved public wording, if the
-  name change needs explanation on the site.
-- [ ] Obtain any additional name-change decision, announcement, or background
-  material and define when the former name should appear for historical context.
+- [x] Confirm the rebrand rationale and public treatment. The About page will
+  briefly explain that "International" was mistaken for a cross-border-only
+  scope and that plural "Vocabularies" reflects support for many code sets.
+  Historical titles and artifacts retain the former name where accurate.
 - [ ] Approve final public wording for why IVC exists. The underlying problem,
   primary beneficiary, collaboration model, and authority boundaries are now
   confirmed in `foundation-messaging-brief.md`.
@@ -41,6 +41,10 @@ from the later technical review requested from François.
 - [x] Decide the initial website treatment of the NUVA transition: state narrow
   present facts candidly, acknowledge slow but steady unfunded progress, and
   defer governance details that have not yet been established.
+- [x] Choose the first-minute visitor outcome: lead with vocabulary as essential
+  but difficult-to-find immunization infrastructure and IVC as a source of
+  specialized shared knowledge. Introduce peer support, NUVA, and participation
+  from that foundation.
 - [ ] Approve a current account of IVC, Syadem, contributors, SNOMED
   International, and committee roles in NUVA ownership, stewardship,
   validation, and publication. Nathan has confirmed the direction and IVC's
