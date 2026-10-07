@@ -109,13 +109,33 @@ response format for François.
 
 ## Priority 4: Review supporting legacy content
 
-- [ ] Inventory FAQ, glossary/acronyms, code-system profiles, and metrics.
-- [ ] Review contributor data for accuracy, attribution preference, and consent.
-- [ ] Review volunteer/participation instructions and the public mailbox.
-- [ ] Have a fluent reviewer assess Spanish content and its current status.
-- [ ] Decide whether site etiquette is public or internal documentation.
-- [ ] Find one-page summaries, interviews, FAQs, and explanatory documents held
-  outside the wiki.
+- [x] Inventory FAQ, glossary/acronyms, code-system profiles, metrics,
+  one-pagers, interview prompts, participation pages, and related explanatory
+  material. Dispositions are in
+  `supporting-legacy-content-review.md`.
+- [x] Decide that static code-system profiles, comparative quality claims, and
+  legacy metrics will not appear in this website version. Later work should
+  link to a governed, generated system.
+- [x] Decide that the initial website is English-only. Do not migrate the
+  Spanish website section; preserve Spanish historical meeting presentations
+  with their meetings in InteropHub.
+- [x] Decide that country and organization research will not be maintained on
+  the website. Future work belongs in InteropHub.
+- [x] Review legacy contributor and volunteer material. Do not migrate formal
+  POC, liaison, cochair, country-representation, or old affiliation structures.
+  Any future people listing must be opt-in and distinguish participation from
+  institutional endorsement.
+- [x] Review participation instructions. Replace the legacy volunteer program
+  with simple routes to attend, bring a question, share experience, or help on
+  defined work.
+- [x] Decide that site etiquette is not a standalone public website page.
+  Meeting-specific conduct guidance can live with the meeting process if needed.
+- [x] Locate and review supporting one-page, FAQ, acronym, interview, campaign,
+  and introduction materials. Preserve useful ideas but migrate none unchanged.
+- [ ] Verify whether `info@ivci.org` is the canonical mailbox, who monitors it,
+  and what privacy/response language is needed.
+- [ ] Decide during information architecture whether rewritten FAQ and glossary
+  content need standalone pages.
 
 ## Review decisions
 
@@ -127,6 +147,9 @@ response format for François.
 | Public meeting-archive boundary | Nathan and meeting coordinator | Open |
 | Blog/update editorial model | Nathan and designated editor(s) | Open |
 | Future NUVA-project integration boundary | Website and NUVA project owners | Open |
+| Initial language scope | Nathan | English only; Spanish meeting artifacts remain historical records |
+| Code-system catalog and metrics | Nathan and François | Deferred until a governed generated process exists |
+| Country/organization research destination | Nathan | InteropHub, not the website |
 
 ## Suggested next pass
 
