@@ -15,21 +15,22 @@ Decision recorded: 2026-10-07
 
 ## System-of-record decision
 
-InteropHub is the canonical system for current and future recurring IVC meeting
-agendas. The website should link to the stable series page rather than copy
-agendas or link only to one changing `meetingId` page. Presentations are
-expected to be stored in InteropHub in the future as that capability is adopted.
+InteropHub is the canonical public system for **all** recurring IVC meetings.
+This includes current and future meetings and legacy meetings that will be
+backloaded after reconciliation. The website should link to the stable series
+page and relevant InteropHub meeting records rather than maintain a separate
+public meeting archive or link only to one changing `meetingId` page.
 
-The website repository remains responsible for a legacy archive for meetings
-that predate the transition. It should not duplicate content already managed in
-InteropHub.
+The local working collection remains the preservation and source archive. The
+repository inventory will document provenance, reconciliation, privacy, and
+migration decisions, but it will not become a second public meeting system.
 
 ## Reconciled handoff
 
 | Archive | Coverage established during review | Treatment |
 | --- | --- | --- |
-| Legacy DokuWiki/local files | June 2023 through 13 May 2026 | Reconcile and retain for now; provide a usable historical index and approved files |
-| InteropHub | Begins with a closed meeting on 10 June 2026; also lists closed meetings on 8 July and 9 September 2026, plus upcoming meetings | Link to the stable meeting-series page; do not mirror meeting content |
+| Legacy DokuWiki/local files | June 2023 through 13 May 2026 | Reconcile, preserve locally, and use as the source for backloading approved public records into InteropHub |
+| InteropHub | Currently begins with a closed meeting on 10 June 2026; also lists closed meetings on 8 July and 9 September 2026, plus upcoming meetings | Backload reconciled legacy meetings so this becomes the single complete public series |
 
 This establishes a continuous handoff: the newest meeting listed in the legacy
 archive is 13 May 2026, and the first meeting shown in InteropHub is 10 June
@@ -37,18 +38,14 @@ archive is 13 May 2026, and the first meeting shown in InteropHub is 10 June
 
 ## Website model
 
-The future Meetings area should have two clear paths:
+The website will have a Meetings section that introduces the meeting series and
+directs visitors to InteropHub for upcoming and historical meetings. It may link
+directly to a particular InteropHub meeting when referring to it from an update
+or resource, but should otherwise use the stable series page.
 
-1. **Current and upcoming meetings** — a prominent external link to the
-   InteropHub meeting-series page, where visitors can see the next meeting,
-   navigate previous meetings, and request to join.
-2. **Legacy meeting archive** — locally maintained records through 13 May 2026,
-   organized by date with available agendas, presentations, and selected public
-   notes.
-
-The page should explain that meeting management moved to InteropHub in June
-2026. It should not expose implementation details such as numeric meeting IDs
-unless linking directly to a particular historical agenda.
+Visitors should not have to choose between systems based on a meeting date. The
+technical handoff date remains useful for migration work, but it should not be
+part of the normal public navigation model.
 
 ## Legacy reconciliation scope
 
@@ -62,15 +59,18 @@ The next inventory batch will cover recurring meetings from June 2023 through
 - DokuWiki agenda and presentation entries
 
 For each meeting, record the date, available artifacts, duplicate/version
-relationships, privacy, publication status, and gaps. The source files will not
-be deleted or reorganized during Phase 1.
+relationships, privacy, publication status, gaps, and intended InteropHub
+fields or attachments. The resulting register will serve as the migration
+manifest. Source files will not be deleted or reorganized during Phase 1.
 
 ## Publication defaults
 
-- Continue hosting cleared legacy agendas and presentations until an approved
-  replacement location exists.
+- Backload cleared legacy agendas, presentations, and public summaries into
+  InteropHub.
 - Keep raw attendance, contacts, invitations, chat, and internal notes private.
 - Treat recordings and transcripts as private until specifically approved.
 - Prefer a short public meeting summary over raw minutes when private or candid
   discussion is mixed with useful outcomes.
-- Do not copy current InteropHub agenda content into the website; link to it.
+- Keep the original local collection as the preservation/source record after
+  migration.
+- Do not copy InteropHub meeting content into the website; link to it.

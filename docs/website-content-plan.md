@@ -309,3 +309,4 @@ Use this section for high-level decisions that affect later work.
 | --- | --- | --- | --- |
 | 2026-10-06 | Use the Technical Reference homepage concept as the website starting point. | It best supports a clear, direct, utilitarian technical-resource experience. | Nathan and François |
 | 2026-10-06 | Store website research and planning under `docs/`. | This keeps internal working material centralized and separate from public website content. | Nathan |
+| 2026-10-07 | Use InteropHub as the single public system for recurring IVC meetings, including backloaded legacy meetings. The website will include a Meetings section that links to InteropHub rather than maintaining a separate meeting archive. | A single chronological system avoids forcing visitors to navigate differently based on meeting date. The local collection remains the preservation and migration source. | Nathan |
