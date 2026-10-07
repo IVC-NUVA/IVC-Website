@@ -42,6 +42,8 @@ The review is organized around three priorities:
   event record, delivered program, DokuWiki comparison, and website treatment
 - [events/bordeaux-2025-artifacts.md](events/bordeaux-2025-artifacts.md):
   accounting and disposition of all 155 files in the Bordeaux collection
+- [events/meeting-archive-boundary.md](events/meeting-archive-boundary.md):
+  legacy-to-InteropHub handoff and the scope of recurring-meeting reconciliation
 
 ## Initial findings
 

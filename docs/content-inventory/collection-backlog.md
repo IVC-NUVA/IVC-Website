@@ -35,7 +35,10 @@ ordered by impact on the website priorities.
 - [ ] Capture a complete DokuWiki page/media index to find unlinked material.
 - [ ] Review every agenda and presentation file for title, date, author,
   summary, duplication, accessibility, ownership, and publication permission.
-- [ ] Determine whether materials exist after 2026-05-13.
+- [x] Determine the post-2026-05-13 meeting destination and archive boundary.
+  InteropHub begins with the 2026-06-10 meeting and is canonical going forward.
+- [ ] Reconcile legacy recurring meetings from June 2023 through 2026-05-13
+  across agendas, presentations, notes, recordings, and DokuWiki entries.
 - [ ] Collect missing notes, decisions, recordings, transcripts, chat, photos,
   and follow-up reports.
 - [x] Keep raw polling, attendance, contact, invitation, and internal reporting
