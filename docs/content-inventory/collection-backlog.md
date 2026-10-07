@@ -17,7 +17,7 @@ from the later technical review requested from François.
   primary beneficiary, collaboration model, and authority boundaries are now
   confirmed in `foundation-messaging-brief.md`.
 - [ ] Confirm the remaining current “we do” and “we do not” boundaries for
-  code-set selection, software/tools, NUVA maintenance, policy,
+  code-set selection, NUVA maintenance, policy,
   pharmacovigilance, inventory, and medication supply.
 - [x] Confirm the organizational and participation model: IVC is a focused,
   peer-support collaboration for vaccine code-set authors; participants bring
@@ -26,6 +26,15 @@ from the later technical review requested from François.
   feedback and light advocacy about accurate concept representation, but does
   not issue binding recommendations or take positions on program policy,
   procedures, or operations.
+- [x] Confirm current activities: monthly meetings; code-system documentation
+  processes; NUVA alignment tools/processes and related metrics; website
+  information; and informal questions through meetings or the website. Country
+  and organization interviews remain aspirational and deprioritized.
+- [x] Confirm the software, data, and support boundary: IVC may support focused
+  vocabulary tools but is not a general software organization, does not manage
+  PHI, and does not operate or support production systems that do.
+- [x] Confirm that technical questions are best-effort peer support, not an
+  authoritative or guaranteed-answer service.
 - [ ] Approve a current account of IVC, Syadem, contributors, SNOMED
   International, and committee roles in NUVA ownership, stewardship,
   validation, and publication.

@@ -167,13 +167,29 @@ without implying that IVC can require a particular organizational response.
 
 | Activity | Evidence | Safe treatment now |
 | --- | --- | --- |
-| Monthly meetings | Repeatedly documented and now managed in InteropHub | State as a current activity |
-| Collecting information on code systems | Proposal, country research, presentations, and alignment work | State as ongoing work, without implying comprehensive coverage |
-| Mappings and alignment | Historical mappings plus active NUVA alignment work | State that IVC participants support or coordinate this work; do not imply IVC owns every mapping |
-| Metrics and assessment | Repeated proposals and implemented NUVA mapping calculations | Describe as work being explored/developed unless a maintained publication and owner are confirmed |
-| Technical questions and expert routing | Strong intended-use evidence | Describe as collaboration among experts, not yet as a staffed help desk or guaranteed service |
-| Country/organization interviews | Source collection and earlier plans | Describe only if the program is currently active and publishable examples exist |
+| Monthly meetings | Repeatedly documented and confirmed by Nathan | **Current commitment:** Nathan facilitates monthly peer meetings |
+| Code-system documentation processes | Current work by Nathan and François | **Current work:** develop processes for documenting vaccine code systems; do not imply comprehensive coverage yet |
+| Alignment tooling | Historical alignments plus active NUVA work | **Current work:** develop tools and processes for aligning code systems with NUVA; use "alignment" rather than the looser term "mapping" where technically appropriate |
+| Metrics and assessment | Active alignment work and implemented calculations | **Current work tied to alignment:** develop useful metrics alongside the alignment tooling; avoid publishing unapproved definitions or scores |
+| Technical questions and training | Website, presentations, and monthly meetings | **Current peer support:** people may bring questions through the website or meetings, without a guaranteed answer or service level |
+| Country/organization interviews | Earlier research and plans | **Aspirational and deprioritized:** Nathan does not currently have capacity; student-supported interviews may be reconsidered in 2027 |
 | NUVA contribution review | October 2026 notes indicate a future IVC approval gate, currently François personally | Treat as emerging governance, not established organizational machinery |
+
+### Current activity statement
+
+As of October 2026, IVC's active commitments are:
+
+- Facilitate monthly peer meetings.
+- Develop vaccine code-system documentation processes with François.
+- Develop tools and working processes for alignment to NUVA.
+- Develop metrics that support and explain alignment work.
+- Publish explanatory material through the website.
+- Provide informal opportunities to raise technical questions through the
+  website and meetings.
+
+Country and organization interviews remain a useful future idea, potentially
+with student participation in 2027, but they are not a current IVC activity or
+commitment.
 
 ### Confirmed organizational description
 
@@ -230,7 +246,7 @@ IVC does not:
 - Promise that a mapping or shared vocabulary preserves every distinction or is
   suitable for every clinical or operational use.
 
-### Boundary requiring a present-day decision: software and tools
+### Confirmed boundary: software and tools
 
 Older material excludes "software and systems," while current work plainly uses
 and contributes to technical tools, including NUVA publishing and alignment
@@ -241,7 +257,20 @@ software. A more accurate boundary may be:
 > software-development organization and does not replace operational systems
 > maintained by code-system owners or implementers.
 
-Nathan should confirm whether this reflects the intended boundary.
+Nathan confirmed this boundary on 2026-10-07.
+
+### Confirmed boundary: information, not operational or PHI systems
+
+IVC organizes information about vaccine code sets and supports the
+informaticians who maintain them. It does not collect, manage, process, or host
+protected health information (PHI), and it does not operate or support the
+clinical, public-health, or other production systems that handle PHI.
+
+IVC is "supporting the supporters": it gives vocabulary experts information,
+comparisons, tools, and peer perspectives that can help them make sound
+representational decisions. It does not provide operational support to the
+people or systems delivering care, administering immunization programs, or
+handling individual records.
 
 ### Confirmed boundary: technical feedback, liaison, and light advocacy
 
@@ -423,16 +452,19 @@ François is asked to fact-check technical language.
    work, not as formal representatives of employers, programs, or countries.
    IVC decisions bind neither participants nor their organizations.
 
-### Priority B: actual current work
+### Priority B: actual current work — resolved 2026-10-07
 
-5. Which of these are active IVC commitments today: recurring meetings,
-   code-system documentation, country/organization interviews, mappings,
-   metrics, question routing, training, or tool development?
-6. Is the proposed software boundary accurate: focused vocabulary tools are in
-   scope, but IVC is not a general software organization or operator of local
-   systems?
-7. Does IVC offer a public way to ask technical questions now? If so, is it a
-   best-effort community channel or a service with an expected response?
+5. **Current commitments:** monthly meetings; development of code-system
+   documentation processes; NUVA alignment tools/processes and related metrics;
+   website information; and questions raised through meetings or the website.
+   Country/organization interviews are aspirational and currently deprioritized,
+   with possible student-supported work in 2027.
+6. **Software and data boundary:** IVC may coordinate and support focused
+   vocabulary tools, but it is not a general software organization. It does not
+   manage PHI or operate/support production systems that do.
+7. **Technical questions and training:** website resources and meetings provide
+   informal peer support. IVC is not an authority, does not claim to know every
+   answer, and guarantees neither an answer nor a response time.
 
 ### Priority C: IVC and NUVA
 
