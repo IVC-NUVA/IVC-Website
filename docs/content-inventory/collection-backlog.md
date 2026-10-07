@@ -101,13 +101,20 @@ response format for François.
 
 ## Priority 3: Define the blog/update stream
 
-- [ ] Choose its public label: Updates, News, Articles, Blog, or another term.
-- [ ] Identify the first real posts; prototype update entries are placeholders.
-- [ ] Assign authorship, review, approval, correction, and retirement roles.
-- [ ] Define metadata: publication/update dates, author, reviewer, topic, status,
-  sources, and related resources.
-- [ ] Distinguish opinion/reaction from maintained technical guidance and
-  official organizational statements.
+- [x] Use **Articles** as the public label. Articles provide concise context and
+  background on the philosophy guiding IVC; they are not an informal blog or
+  frequent news stream.
+- [x] Identify the first article: a short piece on rich information as part of
+  interoperability, followed by a link to Tito Castillo's related FHIR and
+  reference-data article. A draft and brief are now available.
+- [x] Establish the initial authorship and publishing model: Nathan authors,
+  reviews, approves, and publishes articles. Formal contributor and review
+  processes are deferred until the group matures.
+- [x] Define minimum metadata: title, summary, author, publication date, optional
+  updated date, topics, status, sources, and related reading.
+- [x] Distinguish authored perspective from maintained technical guidance and
+  binding organizational positions. Dated articles provide context; durable
+  facts and instructions belong in maintained reference pages.
 - [ ] Decide whether comments are out of scope and where discussion/corrections
   should go.
 
@@ -152,7 +159,7 @@ response format for François.
 | Current IVC purpose and scope | Nathan and François | Open |
 | NUVA roles and governance language | Nathan, François, current NUVA steward(s) | Open |
 | Public meeting-archive boundary | Nathan and meeting coordinator | Open |
-| Blog/update editorial model | Nathan and designated editor(s) | Open |
+| Articles editorial model | Nathan | Initial model decided; formal future process deferred |
 | Future NUVA-project integration boundary | Website and NUVA project owners | Open |
 | Initial language scope | Nathan | English only; Spanish meeting artifacts remain historical records |
 | Code-system catalog and metrics | Nathan and François | Deferred until a governed generated process exists |
