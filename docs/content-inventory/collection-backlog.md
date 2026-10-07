@@ -5,6 +5,10 @@ ordered by impact on the website priorities.
 
 ## Priority 1: Establish an accurate public foundation
 
+Working synthesis: [foundation-messaging-brief.md](foundation-messaging-brief.md)
+reconciles the strongest source material and separates Nathan's scope decisions
+from the later technical review requested from François.
+
 - [ ] Turn the confirmed rebrand rationale into approved public wording, if the
   name change needs explanation on the site.
 - [ ] Obtain any additional name-change decision, announcement, or background
@@ -93,6 +97,8 @@ ordered by impact on the website priorities.
 
 ## Suggested next pass
 
-Start with any additional rebrand material and the local working directory, then
-review the meeting files individually. These sources should resolve the most
-open items without beginning public copywriting or implementation.
+Resolve Nathan's questions in `foundation-messaging-brief.md`, revise the
+working propositions, and then route the defined NUVA and technical questions
+to François. This should happen before public copywriting. Historical meeting
+backload is being handled separately in InteropHub; the website inventory can
+resume other collections without duplicating that migration work.
