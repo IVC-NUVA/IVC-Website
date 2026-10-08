@@ -4,7 +4,8 @@
 > [François Technical Fact Check](francois-launch-fact-check.md). Retained only
 > as planning history; do not send this version for review.
 
-Status: Ready for technical review  
+Status: Superseded by the narrower completed launch fact-check; retained as
+planning history
 Prepared: 2026-10-07  
 Related working brief: [Foundation Messaging Brief](foundation-messaging-brief.md)
 

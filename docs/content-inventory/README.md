@@ -33,6 +33,8 @@ The review is organized around three priorities:
 
 ## Files
 
+- [phase-1-closeout.md](phase-1-closeout.md): review-gate decision, completed
+  deliverables, deferrals, and Phase 2 handoff
 - [inventory.md](inventory.md): item-level source register
 - [collection-backlog.md](collection-backlog.md): missing material,
   verification questions, and publication decisions
@@ -84,3 +86,9 @@ work in the backlog. Preserve dates and historical context for meeting content.
 Phase 1 reaches its review gate after high-priority backlog items are supplied,
 inventoried, or explicitly deferred, and Nathan and François review the result
 for omissions, private material, outdated claims, and content ownership.
+
+**Closed 2026-10-08.** The high-priority material was inventoried, resolved, or
+explicitly deferred; Nathan supplied the scope and publication decisions; and
+François completed the limited NUVA launch fact-check. See
+[phase-1-closeout.md](phase-1-closeout.md). Production deployment, final public
+copy, information architecture, and pre-launch verification are later work.

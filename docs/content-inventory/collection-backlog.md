@@ -1,7 +1,8 @@
 # Content Collection and Decision Backlog
 
-This backlog records remaining work before Phase 1 can pass review. It is
-ordered by impact on the website priorities.
+Phase 1 closed on 2026-10-08. This backlog now records how each discovery item
+was completed, deferred, omitted, or moved to a later phase. See
+[phase-1-closeout.md](phase-1-closeout.md) for the review-gate decision.
 
 ## Priority 1: Establish an accurate public foundation
 
@@ -19,10 +20,10 @@ as superseded planning history.
   briefly explain that "International" was mistaken for a cross-border-only
   scope and that plural "Vocabularies" reflects support for many code sets.
   Historical titles and artifacts retain the former name where accurate.
-- [ ] Approve final public wording for why IVC exists. The underlying problem,
-  primary beneficiary, collaboration model, and authority boundaries are now
-  confirmed in `foundation-messaging-brief.md`.
-- [ ] Confirm the remaining current “we do” and “we do not” boundaries for
+- [x] Move final public wording for why IVC exists to copywriting. The
+  underlying problem, primary beneficiary, collaboration model, and authority
+  boundaries are confirmed in `foundation-messaging-brief.md`.
+- [x] Confirm the launch-level current “we do” and “we do not” boundaries for
   code-set selection, NUVA maintenance, policy,
   pharmacovigilance, inventory, and medication supply.
 - [x] Confirm the organizational and participation model: IVC is a focused,
@@ -51,54 +52,65 @@ as superseded planning history.
   but difficult-to-find immunization infrastructure and IVC as a source of
   specialized shared knowledge. Introduce peer support, NUVA, and participation
   from that foundation.
-- [ ] Approve a current account of IVC, Syadem, contributors, SNOMED
-  International, and committee roles in NUVA ownership, stewardship,
-  validation, and publication. Nathan has confirmed the direction and IVC's
-  current lack of authority; François still needs to verify technical and
-  stewardship details.
-- [ ] Confirm whether NUVA expands to “Unified Nomenclature of Vaccines” or
-  “Unified Nomenclature for Vaccines” in English.
-- [ ] Verify public NUVA claims: completeness, precision, license, languages,
-  stability, clinical use, pivot role, and SNOMED CT relationship.
-- [ ] Confirm canonical and supported NUVA download, history, browser, mapping,
-  SPARQL, policy, utility, and implementation-guide URLs.
+- [x] Limit the launch account of IVC, Syadem, contributors, SNOMED
+  International, and committee roles to the narrow authority statements
+  reviewed by François. Defer detailed ownership, stewardship, validation, and
+  publication documentation to the NUVA project.
+- [x] Confirm the official English expansion as “Unified Nomenclature of
+  Vaccines.”
+- [x] Verify the limited NUVA claims required for launch through
+  `francois-launch-fact-check.md`. Defer completeness, license, language,
+  stability, clinical-use, pivot-role, and SNOMED CT detail to the NUVA project.
+- [x] Defer the canonical NUVA download, history, browser, mapping, SPARQL,
+  policy, utility, and implementation-guide directory to the NUVA project. The
+  initial website will link only to reviewed resources selected during
+  copywriting and implementation.
 
 ## Priority 2: Complete the meeting archive
 
 - [x] Locate and begin reviewing the local IVC working directory referenced by
   the content plan. A targeted review is in `local-source-review.md`.
-- [ ] Complete collection-level and then file-level disposition of the 612-file
-  local source set, recording duplicates, superseded drafts, privacy, rights,
-  owner, and publication suitability.
-- [ ] Capture a complete DokuWiki page/media index to find unlinked material.
-- [ ] Review every agenda and presentation file for title, date, author,
-  summary, duplication, accessibility, ownership, and publication permission.
+- [x] Defer exhaustive file-level disposition of the 612-file local source set.
+  Phase 1 reviewed the collections and launch-relevant material; the remaining
+  files stay in the private source archive and can be reviewed on demand.
+- [x] Defer a complete DokuWiki page/media crawl. The public indexes and
+  launch-relevant pages were reviewed; unlinked discovery is not required for
+  the initial website.
+- [x] Complete the launch-relevant agenda and presentation review through the
+  InteropHub historical backload. The migration manifest records selections,
+  duplicates, exclusions, and hashes; broader accessibility remediation is
+  later work.
 - [x] Determine the post-2026-05-13 meeting destination and archive boundary.
   InteropHub begins with the 2026-06-10 meeting and is canonical going forward.
-- [ ] Reconcile legacy recurring meetings from June 2023 through 2026-05-13
+- [x] Reconcile legacy recurring meetings from June 2023 through 2026-05-13
   across agendas, presentations, notes, recordings, and DokuWiki entries, and
-  produce an InteropHub backload manifest for each meeting.
+  produce an InteropHub backload manifest for each meeting. Completed and
+  verified locally; production deployment remains pending. See
+  `../tasks/interop-hub-historical-meeting-backload-response.md`.
 - [x] Review the separate `IVC en espanol` collection. It duplicates the
   Spanish subtree in the main IVC source but establishes three meetings for
   the InteropHub backload: 12 March, 9 April, and 23 July 2025. Artifact and
   exclusion guidance is in `events/ivc-en-espanol-2025.md`.
-- [ ] Collect missing notes, decisions, recordings, transcripts, chat, photos,
-  and follow-up reports.
+- [x] Do not pursue missing notes, recordings, transcripts, chat, photographs,
+  or follow-up reports for launch. Existing private material may support later
+  targeted work but is not required for the website or meeting archive.
 - [x] Keep raw polling, attendance, contact, invitation, and internal reporting
   materials private; use only reviewed facts or anonymized aggregates in
   derived public content.
 - [x] Reconcile the Bordeaux event, its planned and delivered program, local
   artifacts, exact duplicates, public summary, and recommended website form.
-- [ ] Have Bordeaux organizers/session owners verify the reconciled event
-  record, speaker names, statistics, project-status claims, and links.
+- [x] Move Bordeaux organizer/session-owner verification to event-page
+  copywriting. The reconciled record is sufficient for Phase 1 and the
+  InteropHub backload; unverified claims must not be published as current fact.
 - [x] Confirm presentation-hosting permission. IVC already hosts the Bordeaux
   presentations and has permission to continue, including the STCHealth deck.
-- [ ] Select consent-cleared Bordeaux photographs and document captions,
-  subjects, photographer credits, and alt text.
-- [ ] Decide which cleared Bordeaux presentations should remain original
-  downloads and which sessions need accessible HTML summaries.
-- [ ] Adopt an event record: title, date, purpose, summary, agenda,
-  presentations, notes/outcomes, related links, and artifact status.
+- [x] Omit Bordeaux photographs from the initial scope. Selection, consent,
+  captions, credits, and alt text may be handled as a later enhancement.
+- [x] Preserve one canonical presentation per supported Bordeaux agenda item in
+  InteropHub. Accessible HTML summaries are optional later editorial work.
+- [x] Move the public Bordeaux event-page implementation to later phases using
+  the reconciled title, date, purpose, agenda, presentations, and artifact
+  decisions already recorded.
 
 ## Priority 3: Define the blog/update stream
 
@@ -116,8 +128,9 @@ as superseded planning history.
 - [x] Distinguish authored perspective from maintained technical guidance and
   binding organizational positions. Dated articles provide context; durable
   facts and instructions belong in maintained reference pages.
-- [ ] Decide whether comments are out of scope and where discussion/corrections
-  should go.
+- [x] Keep comments out of scope for launch. Handle factual corrections through
+  dated revision notes and the public contact route; revisit discussion tools
+  only if a demonstrated need emerges.
 
 ## Priority 4: Review supporting legacy content
 
@@ -145,31 +158,31 @@ as superseded planning history.
   Meeting-specific conduct guidance can live with the meeting process if needed.
 - [x] Locate and review supporting one-page, FAQ, acronym, interview, campaign,
   and introduction materials. Preserve useful ideas but migrate none unchanged.
-- [ ] Before launch, test `info@ivci.org` end to end. It is the intended public
-  mailbox; François monitors it and Nathan likely receives copies, but delivery
+- [x] Move the end-to-end `info@ivci.org` test to the pre-launch checklist. It
+  remains the intended public mailbox; François monitors it and Nathan likely
+  receives copies, but delivery
   and routing have not been tested recently. Confirm configuration ownership,
   privacy language, and best-effort response wording.
-- [ ] Decide during information architecture whether rewritten FAQ and glossary
-  content need standalone pages.
+- [x] Move the FAQ/glossary placement decision to information architecture.
+  Define essential terms inline by default and add standalone pages only when
+  the approved content demonstrates a need.
 
 ## Review decisions
 
 | Decision | Suggested approvers | Status |
 | --- | --- | --- |
-| Public rebrand wording and historical-name treatment | Nathan and François | Rationale supplied; wording open |
-| Current IVC purpose and scope | Nathan and François | Open |
-| NUVA roles and governance language | Nathan, François, current NUVA steward(s) | Open |
-| Public meeting-archive boundary | Nathan and meeting coordinator | Open |
+| Public rebrand wording and historical-name treatment | Nathan and François | Direction decided; final copy moves to copywriting |
+| Current IVC purpose and scope | Nathan and François | Launch direction confirmed; final copy moves to copywriting |
+| NUVA roles and governance language | Nathan, François, current NUVA steward(s) | Narrow launch boundary reviewed; detailed governance deferred |
+| Public meeting-archive boundary | Nathan and meeting coordinator | Decided and implemented locally; production deployment pending |
 | Articles editorial model | Nathan | Initial model decided; formal future process deferred |
-| Future NUVA-project integration boundary | Website and NUVA project owners | Open |
+| Future NUVA-project integration boundary | Website and NUVA project owners | Detailed integration deferred to the NUVA project |
 | Initial language scope | Nathan | English only; Spanish meeting artifacts remain historical records |
 | Code-system catalog and metrics | Nathan and François | Deferred until a governed generated process exists |
 | Country/organization research destination | Nathan | InteropHub, not the website |
 
-## Suggested next pass
+## Next phase
 
-Have Nathan review the fact-checking packet for tone and scope, then route it to
-François when the Phase 1 review gate is ready. Incorporate his corrections
-before public copywriting. Historical meeting backload is being handled
-separately in InteropHub; the website inventory can resume other collections
-without duplicating that migration work.
+Proceed to Phase 2: define and rank audiences, visitor needs, and use cases.
+Carry the confirmed scope boundaries and deferred-work rules forward without
+reopening detailed NUVA governance or exhaustive source-archive review.

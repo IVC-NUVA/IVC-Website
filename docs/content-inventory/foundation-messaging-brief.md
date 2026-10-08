@@ -1,7 +1,7 @@
 # Foundation Messaging Brief
 
-Status: Nathan's communications and scope decisions recorded; NUVA technical
-fact-checking pending; not approved website copy
+Status: Phase 1 complete; Nathan's decisions and François's launch-level NUVA
+fact-check recorded; not approved website copy
 Prepared: 2026-10-07
 
 ## Purpose
@@ -14,9 +14,10 @@ foundational explanation:
 3. What NUVA is and how it relates to IVC
 
 It separates supported propositions from aspirations, old branding, technical
-claims, and decisions that still need an owner. Its purpose is to make the
-remaining questions visible before polished copy or François's technical
-review.
+claims, and decisions that still need an owner. Its purpose is to support later
+structure and copywriting. François's launch-level corrections are recorded in
+`francois-launch-fact-check.md`; deeper NUVA review is deferred to the NUVA
+project.
 
 ## Evidence basis
 

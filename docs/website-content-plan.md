@@ -123,7 +123,9 @@ An agreed audience and use-case document that ranks primary, secondary, and occa
 
 ### Review gate
 
-Nathan and François approve the audience priorities and the primary tasks that will shape the homepage and navigation.
+Nathan approves the audience priorities and primary tasks that will shape the
+homepage and navigation. François's contribution concluded with the Phase 1
+NUVA launch fact-check; no additional Phase 2 review is required.
 
 ## Phase 3: Information architecture
 
@@ -176,7 +178,9 @@ Before writing polished copy, each proposed page should have a short outline ide
 
 ### Review gate
 
-Nathan and François approve the site structure and page outlines before substantial copywriting begins.
+Nathan approves the site structure and page outlines before substantial
+copywriting begins. François's contribution concluded with the Phase 1 NUVA
+launch fact-check; no additional Phase 3 review is required.
 
 ## Phase 4: Copy development and review
 
@@ -186,13 +190,18 @@ Create accurate, readable, and consistent public-facing language using the appro
 
 ### Suggested writing order
 
-1. Homepage
-2. About, purpose, and scope
-3. Technical Resources landing page
-4. NUVA overview
-5. Contact and participation information
-6. Individual technical-resource pages
-7. FAQ, glossary, and supporting reference pages
+1. Shared foundation language used across pages
+2. Home
+3. About
+4. NUVA
+5. Meetings
+6. Contact
+7. Resources and the first article
+8. Bordeaux 2025
+
+Do not create standalone FAQ, glossary, contributor, code-system catalog, or
+metrics pages for launch. Define essential terms and answer common questions
+within the pages where visitors need them.
 
 ### Copy standards
 
@@ -298,9 +307,10 @@ A practical content-governance and maintenance process with named responsibiliti
 
 ## Immediate next step
 
-Begin Phase 1 by creating the content inventory. Review the current DokuWiki site and the local IVC working directory, summarize potentially useful material, identify duplication and outdated information, and flag anything that requires verification or a publication decision.
-
-The initial inventory should be reviewed before the final audience priorities, site map, or public copy are approved.
+Phase 5 implementation completed on 2026-10-08. Complete the final integrations
+recorded in `phase-5-implementation.md`: test the contact mailbox, confirm the
+InteropHub historical deployment, replace the two Bordeaux localhost URLs, and
+recheck NUVA destinations before launch.
 
 ## Decisions log
 
@@ -308,6 +318,13 @@ Use this section for high-level decisions that affect later work.
 
 | Date | Decision | Reason | Approved by |
 | --- | --- | --- | --- |
+| 2026-10-08 | Implement the approved multi-page static website. Use production InteropHub URLs for the meeting series and Building Bridges topics, and retain localhost links only for the two Bordeaux records that do not yet have production IDs. | This produces a complete reviewable site while keeping undeployed destinations explicit and easy to replace later. | Nathan |
+| 2026-10-08 | Approve the Home, About, NUVA, Meetings, Contact, Resources, Bordeaux 2025, and first-article copy for implementation. Topic suggestions will use `info@ivci.org`. | The copy reflects the approved audience priorities, technical boundaries, meeting model, NUVA role, and participation path. Remaining URL and mailbox work is implementation validation rather than copy development. | Nathan |
+| 2026-10-08 | Close Phase 3 with `Home | NUVA | Resources | Meetings | About | Contact` as the primary navigation. Use a brief website Meetings page before linking to InteropHub; keep Articles under Resources; combine participation and questions on Contact; retain one concise About page; and create a dedicated Bordeaux 2025 page. | The structure directly supports the three primary visitor tasks while keeping the launch site focused and allowing historically important and technical content to remain discoverable. | Nathan |
+| 2026-10-08 | Include Building Bridges topic discovery and following in the Meetings and Contact paths, and invite visitors to suggest missing topics. | Topic follows notify interested people about future IVC discussions and provide a useful signal for meeting prioritization without promising that every followed or suggested topic will be scheduled. | Nathan |
+| 2026-10-08 | Close Phase 2 with vaccine code-set authors as the primary audience; prioritize understanding IVC and NUVA, finding technical resources and shared knowledge, and attending meetings. Make meeting attendance the primary participation action. | These priorities focus the website on the specialists IVC exists to support while giving implementers and partners useful paths into the work. | Nathan |
+| 2026-10-08 | Present NUVA prominently as IVC's central technical work product, after establishing the vocabulary problem and peer-collaboration context. | NUVA turns collaboration into concrete technical output and organizes future knowledge resources, but it should not be presented without the problem and community context that explain its purpose. | Nathan |
+| 2026-10-08 | Close Phase 1 and proceed to audience, needs, and use-case work. Detailed NUVA governance and resource documentation, exhaustive private-archive review, optional Bordeaux enhancements, final copy, and pre-launch checks remain later work. | The launch-relevant sources, boundaries, privacy decisions, meeting archive, and limited NUVA facts have been reviewed or explicitly deferred. | Nathan |
 | 2026-10-06 | Use the Technical Reference homepage concept as the website starting point. | It best supports a clear, direct, utilitarian technical-resource experience. | Nathan and François |
 | 2026-10-06 | Store website research and planning under `docs/`. | This keeps internal working material centralized and separate from public website content. | Nathan |
 | 2026-10-07 | Use InteropHub as the single public system for recurring IVC meetings, including backloaded legacy meetings. The website will include a Meetings section that links to InteropHub rather than maintaining a separate meeting archive. | A single chronological system avoids forcing visitors to navigate differently based on meeting date. The local collection remains the preservation and migration source. | Nathan |

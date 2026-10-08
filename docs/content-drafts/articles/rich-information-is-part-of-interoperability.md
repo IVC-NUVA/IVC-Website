@@ -2,7 +2,7 @@
 title: Rich information is part of interoperability
 summary: Moving a vaccine code between systems is useful only when its meaning can travel with it.
 author: Nathan Bunker
-status: draft
+status: approved for implementation
 topics:
   - vaccine vocabularies
   - interoperability
@@ -48,4 +48,3 @@ His article asks whether healthcare keeps placing meaning inside exchange
 specifications when authoritative definitions and reference data should be
 managed as infrastructure in their own right. It is a useful frame for why
 vaccine vocabulary work matters.
-
