@@ -59,8 +59,8 @@ li + li { margin-top: .45rem; }
 .hero-mark { position: relative; min-height: 320px; display: grid; place-items: center; }
 .hero-mark::before, .hero-mark::after { content: ""; position: absolute; border-radius: 50%; }
 .hero-mark::before { width: 285px; height: 285px; border: 1px solid #8bc9dc; box-shadow: 0 0 0 34px rgba(0,143,197,.07), 0 0 0 68px rgba(0,169,79,.05); }
-.hero-mark::after { width: 105px; height: 105px; background: var(--navy); box-shadow: 74px -48px 0 -22px var(--blue), -67px 54px 0 -28px var(--green); }
-.hero-mark span { position: relative; z-index: 1; max-width: 180px; color: #fff; font-size: .9rem; font-weight: 800; line-height: 1.3; text-align: center; }
+.hero-mark::after { width: 170px; height: 170px; background: var(--navy); box-shadow: 102px -66px 0 -54px var(--blue), -92px 75px 0 -60px var(--green); }
+.hero-mark span { position: relative; z-index: 1; max-width: 124px; color: #fff; font-size: .9rem; font-weight: 800; line-height: 1.3; text-align: center; }
 .page-hero { padding: 58px 0 48px; background: linear-gradient(115deg, var(--navy) 0%, var(--navy-2) 68%, #08744b 145%); }
 .page-hero h1 { max-width: 850px; color: #fff; font-size: clamp(2.25rem, 5vw, 4rem); }
 .page-hero .eyebrow { color: #8ce8b5; }
