@@ -1,0 +1,58 @@
+NUVA Extension
+
+The NUVA Extension to SNOMED CT is the product of a collaborative agreement between SYADEM and SNOMED International, the development organizations responsible for these health data standards. For more information on the project, visit https://ivci.org/snomedct-nuva
+
+We request feedback on this initial production release to help inform how we proceed. You may submit your comments by email at nuva@syadem.com. The location also contains information on further content of the NUVA (translations, alignments with several vaccine code systems) that will be incorporated in later versions of the NUVA Extension, and on complementary tools.
+
+This package has been constructed in compliance with the SNOMED CT RF2 format. The RF2 format specifies UTF-8 encoded tab-delimited flat files which can be imported into any database or other software application. SNOMED CT files are designed as relational tables with each line in the file representing a row in the table. The first row of each table contains column headings. All other rows contain data.
+
+SNOMED CT is copyright International Health Terminology Standards Development Organisation 2002-2025. All rights reserved. "SNOMED" and "SNOMED CT" are registered trademarks of International Health Terminology Standards Development Organisation, trading as SNOMED International.
+
+NUVA is provided by SYADEM, a French registered company, as a public resource under the Creative Commons CC-BY-ND license (Attribution, No Derivatives).
+    SnomedCT_NUVAExtension_PRODUCTION_NE1002000_20250509T120000Z
+        Snapshot
+            Terminology
+                sct2_Concept_Snapshot_NE1002000_20250509.txt
+                sct2_Description_Snapshot-en_NE1002000_20250509.txt
+                sct2_Relationship_Snapshot_NE1002000_20250509.txt
+                sct2_RelationshipConcreteValues_Snapshot_NE1002000_20250509.txt
+                sct2_Identifier_Snapshot_NE1002000_20250509.txt
+                sct2_TextDefinition_Snapshot-en_NE1002000_20250509.txt
+                sct2_sRefset_OWLExpressionSnapshot_NE1002000_20250509.txt
+            Refset
+                Content
+                    der2_cRefset_AssociationReferenceSnapshot_NE1002000_20250509.txt
+                    der2_cRefset_AttributeValueSnapshot_NE1002000_20250509.txt
+                    der2_Refset_SimpleRefsetSnapshot_NE1002000_20250509.txt
+                Language
+                    der2_cRefset_LanguageSnapshot-en_NE1002000_20250509.txt
+                Metadata
+                    der2_cciRefset_RefsetDescriptorSnapshot_NE1002000_20250509.txt
+                    der2_ssRefset_ModuleDependencySnapshot_NE1002000_20250509.txt
+                    der2_ciRefset_DescriptionTypeSnapshot_NE1002000_20250509.txt
+                    der2_scsRefset_ComponentAnnotationStringValueSnapshot_NE1002000_20250509.txt
+                    der2_sscsRefset_MemberAnnotationStringValueSnapshot_NE1002000_20250509.txt
+        Full
+            Terminology
+                sct2_Concept_Full_NE1002000_20250509.txt
+                sct2_Description_Full-en_NE1002000_20250509.txt
+                sct2_Relationship_Full_NE1002000_20250509.txt
+                sct2_RelationshipConcreteValues_Full_NE1002000_20250509.txt
+                sct2_Identifier_Full_NE1002000_20250509.txt
+                sct2_TextDefinition_Full-en_NE1002000_20250509.txt
+                sct2_sRefset_OWLExpressionFull_NE1002000_20250509.txt
+            Refset
+                Content
+                    der2_cRefset_AssociationReferenceFull_NE1002000_20250509.txt
+                    der2_cRefset_AttributeValueFull_NE1002000_20250509.txt
+                    der2_Refset_SimpleRefsetFull_NE1002000_20250509.txt
+                Language
+                    der2_cRefset_LanguageFull-en_NE1002000_20250509.txt
+                Metadata
+                    der2_cciRefset_RefsetDescriptorFull_NE1002000_20250509.txt
+                    der2_ssRefset_ModuleDependencyFull_NE1002000_20250509.txt
+                    der2_ciRefset_DescriptionTypeFull_NE1002000_20250509.txt
+                    der2_scsRefset_ComponentAnnotationStringValueFull_NE1002000_20250509.txt
+                    der2_sscsRefset_MemberAnnotationStringValueFull_NE1002000_20250509.txt
+        Readme_en_20250509.txt
+        release_package_information.json
