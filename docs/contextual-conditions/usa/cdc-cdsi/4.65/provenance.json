@@ -1,0 +1,45 @@
+{
+  "source": "CDC Clinical Decision Support for Immunization (CDSi) Supporting Data",
+  "sourceRelease": "4.65",
+  "sourceRetrievedAt": "2026-09-01T18:16:19Z",
+  "sourceBundle": {
+    "filename": "supporting-data-4.65-508.zip",
+    "sha256": "741b8fd21c77887c4d2dc9ce1119a58d2659152007bda6791ffc57fdc098ce3d"
+  },
+  "sourceFilesUsed": [
+    {
+      "path": "xml/ScheduleSupportingData.xml",
+      "sha256": "4db27c14003b789d34fa8b812d42926205f4ae2f63b169f04729ae80c7f2a398"
+    },
+    {
+      "path": "spreadsheets/ScheduleSupportingData- Coded Observations-508.xlsx",
+      "sha256": "3e499d947d79c88211be8fe1310e01be4cd42186d66666c970a91a6786e698a9"
+    }
+  ],
+  "normalizedBy": {
+    "project": "StepIntoCDSI",
+    "commit": "2dd26b12893f29d672c1221233825734db2649e0",
+    "file": "normalized/schedules/schedule.json"
+  },
+  "ivcSupplied": {
+    "file": "contextual-conditions/sources/ivc-supplied/Proposed Values.xlsx",
+    "tab": "US",
+    "sha256": "01eff8c0b58a8fc5a5ed01fd023e1bf41498b3d3256b6765d8d6658ded805b41",
+    "fieldsUsed": [
+      "Value (expected value type)"
+    ]
+  },
+  "codeSystem": "https://ivci.org/contextual-conditions/usa/cdc-cdsi",
+  "version": "4.65",
+  "publicationDate": "2026-10-10",
+  "status": "draft (proof of concept)",
+  "generator": {
+    "script": "contextual-conditions/generator/build.py",
+    "version": "0.1.0"
+  },
+  "validationSummary": {
+    "info": 6,
+    "pass": 8,
+    "warn": 3
+  }
+}

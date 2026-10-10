@@ -1,0 +1,30 @@
+{
+  "source": "Syadem contextual conditions list, supplied to IVC by Syadem",
+  "sourceRelease": null,
+  "provisionalVersion": "2026-10-10",
+  "ivcSupplied": {
+    "file": "contextual-conditions/sources/ivc-supplied/Proposed Values.xlsx",
+    "tab": "FR",
+    "sha256": "01eff8c0b58a8fc5a5ed01fd023e1bf41498b3d3256b6765d8d6658ded805b41",
+    "fieldsUsed": [
+      "Key",
+      "English",
+      "French",
+      "Type"
+    ]
+  },
+  "permission": "Syadem authorized IVC to publish the complete list in both languages. The final licence and attribution wording is still to be confirmed.",
+  "codeSystem": "https://ivci.org/contextual-conditions/fra/syadem",
+  "version": "2026-10-10",
+  "publicationDate": "2026-10-10",
+  "status": "draft (proof of concept)",
+  "generator": {
+    "script": "contextual-conditions/generator/build.py",
+    "version": "0.1.0"
+  },
+  "validationSummary": {
+    "info": 6,
+    "pass": 4,
+    "warn": 11
+  }
+}

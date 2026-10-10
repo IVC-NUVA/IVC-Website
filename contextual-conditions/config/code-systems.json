@@ -1,0 +1,103 @@
+{
+  "_comment": "IVC-added publication metadata for the Contextual Conditions proof of concept. Everything in this file is IVC-supplied, not source-supplied. See contextual-conditions/README.md.",
+  "siteBase": "https://ivci.org",
+  "rootPath": "contextual-conditions",
+  "publicationDate": "2026-10-10",
+  "fhirVersion": "4.0.1",
+  "contactEmail": "info@ivci.org",
+  "countries": {
+    "usa": {
+      "name": "United States",
+      "iso3166alpha3": "USA",
+      "illustrativeFutureAuthorities": [
+        {"slug": "aap", "name": "American Academy of Pediatrics"},
+        {"slug": "hln-ice", "name": "HLN Consulting, Immunization Calculation Engine (ICE)"}
+      ]
+    },
+    "fra": {
+      "name": "France",
+      "iso3166alpha3": "FRA",
+      "illustrativeFutureAuthorities": []
+    }
+  },
+  "codeSystems": [
+    {
+      "key": "usa/cdc-cdsi",
+      "country": "usa",
+      "authority": "cdc-cdsi",
+      "source": "cdsi",
+      "version": "4.65",
+      "versionNote": "Follows the CDC CDSi Supporting Data release number. Version syntax is an open question.",
+      "name": "CdcCdsiContextualConditions",
+      "title": "CDC CDSi Contextual Conditions",
+      "shortTitle": "CDC CDSi",
+      "language": "en",
+      "roles": {
+        "codeSystemAuthority": "CDC Clinical Decision Support for Immunization (CDSi) project",
+        "publishingAuthority": "CDC publishes the source Supporting Data. IVC publishes this canonical proof-of-concept representation.",
+        "namespaceAuthority": "Immunization Vocabularies Collaboration (IVC)",
+        "cdsAuthority": "Not determined by this publication. Each CDS engine or program decides how these assertions affect its recommendations."
+      },
+      "authorityDescription": "The U.S. Centers for Disease Control and Prevention (CDC) Clinical Decision Support for Immunization (CDSi) project publishes Supporting Data that includes a list of coded observations. These codes are referenced as indications and contraindications in the CDSi antigen supporting data and are widely used by U.S. immunization forecasting engines.",
+      "description": "Contextual conditions defined by the CDC CDSi project and published by CDC as the Coded Observations in the CDSi Supporting Data. Each code represents an operational assertion that a condition applies to a patient for immunization clinical decision support. These are not diagnoses or clinical findings. This resource is an IVC proof-of-concept representation. It is not a CDC publication and is not endorsed by CDC.",
+      "copyright": "Codes, titles, indication, contraindication and clarifying text, and related codes come from the CDC CDSi Supporting Data, which CDC distributes publicly. The expectedValueType property was added by IVC. This republication is unofficial and is not endorsed by CDC. Final attribution and licence wording is still under review.",
+      "feedback": "Send questions about the meaning of a U.S. concept to the CDC CDSi project. Send questions about this publication, its structure or its metadata to IVC.",
+      "hl7v2Examples": [
+        {"code": "278", "valueType": "ID", "value": "Y^Yes^HL70136"},
+        {"code": "170", "valueType": "DT", "value": "20260315"}
+      ],
+      "knownIssues": [
+        "IVC would be assigning the first formal canonical URI for these codes. It is not yet confirmed whether CDC/CDSi has, or wants, its own canonical (open decision 1).",
+        "The CDSi source has no expected answer type. IVC added expectedValueType from the IVC-supplied workbook (Proposed Values.xlsx). Code 280 is newer than that workbook, so IVC assigned it 'boolean' as a default that has not been reviewed.",
+        "Related SNOMED CT, CVX and PHIN VS codes are shown as concept properties because that is how CDSi supplies them. CDSi says these are representative of related concepts, not exhaustive and not equivalent. A ConceptMap may be the better long-term representation.",
+        "The PHIN VS related codes use the system URI urn:oid:2.16.840.1.114222.4.5.274, which IVC has not yet confirmed.",
+        "Code 231: CDC's XML has a literal '?' in its clarifying text where the official spreadsheet has '≤' ('heart disease at age ≤50 years'). The XML value is preserved and the difference is flagged. This should be reported to CDSi.",
+        "Two distinct codes (138 and 140) share the display 'IGIV - Immune thrombocytopenic purpura treatment'. Both are preserved as published by CDSi."
+      ]
+    },
+    {
+      "key": "fra/syadem",
+      "country": "fra",
+      "authority": "syadem",
+      "source": "syadem",
+      "version": "2026-10-10",
+      "versionNote": "Provisional snapshot identifier based on the date IVC received the list. Syadem has not assigned a formal release version (open decision 4).",
+      "name": "SyademContextualConditions",
+      "title": "Syadem Contextual Conditions",
+      "shortTitle": "Syadem",
+      "language": "fr",
+      "roles": {
+        "codeSystemAuthority": "Syadem (the organization behind MesVaccins)",
+        "publishingAuthority": "IVC, publishing with Syadem's permission",
+        "namespaceAuthority": "Immunization Vocabularies Collaboration (IVC). The placement under 'fra' is provisional.",
+        "cdsAuthority": "Not determined by this publication. Syadem's own decision support and any other CDS engine decide independently how these assertions affect recommendations."
+      },
+      "authorityDescription": "Syadem is a France-based organization that develops MesVaccins and its immunization decision-support expert system. Its contextual conditions are used to tailor vaccination recommendations. This is not an official French-government terminology, and its placement under the 'fra' namespace does not imply endorsement by the French government.",
+      "description": "Contextual conditions defined by Syadem for use in immunization clinical decision support. Each code represents an operational assertion that a condition applies to a patient. These are not diagnoses or clinical findings. Labels are supplied in French and English. This resource is an IVC proof-of-concept representation published with Syadem's permission.",
+      "copyright": "© Syadem. Published by IVC with Syadem's permission. This is not an official French-government terminology. Final licence and attribution wording is still to be confirmed with Syadem.",
+      "feedback": "Questions about the meaning or translation of a Syadem concept are routed to Syadem. Send questions about this publication, its structure or its metadata to IVC.",
+      "hl7v2Examples": [
+        {"code": "C-2", "valueType": "ID", "value": "Y^Yes^HL70136"},
+        {"code": "C-1124", "valueType": "DT", "value": "20260115"}
+      ],
+      "knownIssues": [
+        "French is shown as the primary display and English as a designation. Whether both labels are equally authoritative is open decision 5.",
+        "C-1029 has the English label 'Intermediate living conditions', but its French label means 'date of the most recent dengue history' and its declared type is Date. The source values are preserved and the row is flagged for Syadem review.",
+        "Some English labels are untranslated French or contain both French and English. They are preserved exactly as supplied and flagged in the validation report.",
+        "Several English displays occur under more than one code. The codes are distinct, so these are flagged for semantic review rather than merged.",
+        "The answer type 'Number' maps provisionally to expectedValueType 'number'. The final answer-type vocabulary is open decision 7."
+      ]
+    }
+  ],
+  "openDecisions": [
+    {"n": 1, "text": "Has CDC/CDSi explicitly assigned a canonical URI to its observation codes, or would IVC be creating their first formal CodeSystem.url?"},
+    {"n": 2, "text": "Syadem publication permission.", "resolved": "Resolved: Syadem has authorized IVC to publish the complete list in both languages. The final licence and attribution wording is still to be confirmed."},
+    {"n": 3, "text": "Is ISO 3166-1 alpha-3 (usa, fra) the formal country identifier system?"},
+    {"n": 4, "text": "What formal version identifier should the Syadem set use?"},
+    {"n": 5, "text": "Should French be the primary Syadem display with English as a translation, or are both labels equally authoritative?"},
+    {"n": 6, "text": "Which downloadable artifacts are required: FHIR JSON, FHIR XML, CSV, source spreadsheet, and/or an NPM package?"},
+    {"n": 7, "text": "Which answer-type codes and semantics should the expectedValueType property use?"},
+    {"n": 8, "text": "Who is the named release approver for each code system?"},
+    {"n": 9, "text": "Should the root and country pages document the delegated naming process now, while the coordinators and submission workflow are still provisional?"}
+  ]
+}

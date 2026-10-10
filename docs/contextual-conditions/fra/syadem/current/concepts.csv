@@ -1,0 +1,655 @@
+﻿Key,English,French,Type
+C-2,Cyanogenic congenital heart disease,Cardiopathie congénitale cyanogène,Yes/No
+C-3,Severe heart failure,Insuffisance cardiaque grave,Yes/No
+C-4,Severe Valvulopathy,Valvulopathie grave,Yes/No
+C-5,Severe chronic kidney disease,Néphropathie chronique grave,Yes/No
+C-6,Nephrotic syndrome,Syndrome néphrotique,Yes/No
+C-7,Double heterozygous sickle cell disease,Drépanocytose majeure double hétérozygote,Yes/No
+C-8,Sickle cell disease,Thalassodrépanocytose,Yes/No
+C-14,Chronic hepatitis B virus infection,Infection chronique par le virus de l'hépatite B,Yes/No
+C-15,Newborn of a mother with HBsAg,Nouveau-né de mère porteuse de l'antigène HBs,Yes/No
+C-16,Hemophilia,Hémophilie,Yes/No
+C-17,Chronic renal failure on dialysis,Insuffisance rénale chronique dialysée,Yes/No
+C-18,Chronic renal failure NOT on dialysis,Insuffisance rénale chronique NON dialysée,Yes/No
+C-19,"Waiting for an organ transplant (kidney, heart, liver or lung)","En attente de transplantation d'organe (rein, coeur, foie ou poumon)",Yes/No
+C-20,Person likely to receive massive or iterative transfusions,Personne susceptible de recevoir des transfusions massives ou itératives,Yes/No
+C-21,Complement deficit,Déficit en complément,Yes/No
+C-23,Homozygous sickle cell disease,Drépanocytose homozygote,Yes/No
+C-24,HIV infection,Infection à VIH,Yes/No
+C-34,Osteo-meningeal breach,Brèche ostéo-méningée,Yes/No
+C-35,Candidate for implantation or holder of a cochlear implant,Candidat à l'implantation ou porteur d'implant cochléaire,Yes/No
+C-36,Spleen removal or non-functioning,Ablation ou non-fonctionnement de la rate,Yes/No
+C-39,Chronic respiratory failure,Insuffisance respiratoire chronique,Yes/No
+C-41,Chronic liver disease,Hépatopathie chronique,Yes/No
+C-42,History of pulmonary or invasive pneumococcal infection,Antécédent d'infection pulmonaire ou invasive à pneumocoque,Yes/No
+C-46,Negative chickenpox serology,Sérologie de la varicelle négative,Yes/No
+C-47,Immunocompromised person in the entourage,Personne immunodéprimée dans l'entourage,Yes/No
+C-48,Overcrowded housing,Logement surpeuplé,Yes/No
+C-49,Regular contact with adults from a country with a high incidence of tuberculosis,Contact régulier avec des adultes originaires d'un pays de forte endémie tuberculeuse,Yes/No
+C-50,Moderate heart failure,Insuffisance cardiaque modérée,Yes/No
+C-51,Adult likely to become a parent in the coming months or years,Adulte susceptible de devenir parent dans les mois ou années à venir,Yes/No
+C-52,Pregnancy - Date of last period,Grossesse - Date des dernières règles,Yes/No
+C-53,Pregnant woman in the entourage (close contact),Femme enceinte dans l'entourage,Yes/No
+C-54,Smoker,Fumeur,Yes/No
+C-56,Physician,Médecin,Yes/No
+C-57,Physiotherapist,Masseur-kinésithérapeute,Yes/No
+C-58,Midwife,Sage-femme,Yes/No
+C-60,Surgeon,Chirurgien,Yes/No
+C-61,Dental surgeon,Chirurgien-dentiste,Yes/No
+C-62,Nurse,Infirmier(ère),Yes/No
+C-64,Pedicure-Podologue,Pédicure-Podologue,Yes/No
+C-66,Student or trainee in the health or medical-social field,Etudiant(e) ou en formation dans le domaine de la santé ou du médico-social,Yes/No
+C-68,Medical studies,Etudes de médecine,Yes/No
+C-69,Pharmacist,Pharmacien,Yes/No
+C-71,Caregiver,Aide-soignant(e),Yes/No
+C-73,Ambulance driver,Ambulancier (ère),Yes/No
+C-74,Child care assistant,Auxiliaire de puériculture,Yes/No
+C-75,Medical Electroradiology Manipulator,Manipulateur(rice) en électroradiologie médicale,Yes/No
+C-77,Biomedical Analysis Technician,Technicien(ne) en analyses biomédicales,Yes/No
+C-79,"Works in the public sector, in a prevention or care facility or organization","Exerce dans le public, dans un établissement ou organisme de prévention ou de soins",Yes/No
+C-80,"Works in a private practice setting, outside of a prevention or care facility or organization","Exerce en milieu libéral, en dehors d'un établissement ou organisme de prévention ou de soins",Yes/No
+C-82,Works in a medical transport company,Travaille dans une entreprise de transport sanitaire,Yes/No
+C-84,Works in a facility or service for children and youth with disabilities,Travaille dans un établissement ou service pour l'enfance et la jeunesse handicapées,Yes/No
+C-85,Works in an institution or service for adults with disabilities,Travaille dans un établissement ou service d'hébergement pour adultes handicapés,Yes/No
+C-86,Works in an establishment for dependent elderly people (EHPAD),Travaille dans un établissement d'hébergement pour personnes âgées dépendantes (EHPAD),Yes/No
+C-87,Professional employed in a home care service,Professionnel employé dans un service sanitaire de maintien à domicile,Yes/No
+C-88,"Works in a pre-school childcare facility (daycare, nursery school, etc.)","Travaille dans un établissement de garde d'enfants d’âge pré-scolaire (crèche, halte garderie...)",Yes/No
+C-89,Maternal assistant,Assistant(e) maternel(le),Yes/No
+C-90,Works in a social institution or service contributing to child protection,Travaille dans un établissement ou un service social concourant à la protection de l'enfance,Yes/No
+C-92,Fireman,Sapeur pompier,Yes/No
+C-93,Rescuer,Secouriste,Yes/No
+C-94,"Employee in an undertaker's business, not linked to a prevention or care establishment","Employé(e) dans une entreprise de pompes funèbres, sans lien avec un établissement de prévention ou de soins",Yes/No
+C-95,National education professional in contact with children,Professionnel de l'éducation nationale au contact des enfants,Yes/No
+C-96,Works in a laundry,Travaille dans une blanchisserie,Yes/No
+C-97,Personnel involved in food preparation in collective catering,Personnel impliqué dans la préparation alimentaire en restauration collective,Yes/No
+C-98,Tattoo artist,Tatoueur,Yes/No
+C-99,Wastewater treatment staff (including wastewater treatment plants),Personnel de traitement des eaux usées (dont stations d'épuration),Yes/No
+C-100,Drainer - Sanitation Worker,Égoutier,Yes/No
+C-101,Garbage collector,Éboueur,Yes/No
+C-102,Police officer,Policier,Yes/No
+C-103,Prison Supervisor,Surveillant pénitentiaire,Yes/No
+C-104,Works in a correctional facility or probation department,Travaille dans un établissement pénitentiaire ou un service de probation,Yes/No
+C-105,Veterinarian or employee in a veterinary service,Vétérinaire ou employé(e) dans un service vétérinaire,Yes/No
+C-107,"Employed in the cleaning or maintenance of canals, ponds, lakes, rivers, waterways, banks","Employé(e) au curage ou entretien de canaux, étangs, lacs, rivières, voies navigables, berges",Yes/No
+C-108,Employed in activities related to freshwater fish farming,Employé(e) à des activités liées à la pisciculture en eaux douces,Yes/No
+C-109,Professional fisherman,Pêcheur professionnel,Yes/No
+C-110,Professional diver,Plongeur professionnel,Yes/No
+C-111,Fisheries Warden,Garde-pêche,Yes/No
+C-112,Cruise ship or airplane crew,Personnel navigant d'un bateau de croisière ou d'un avion,Yes/No
+C-113,Guide accompanying groups of travelers,Guide accompagnant des groupes de voyageurs,Yes/No
+C-114,Parenteral drug abuse,Toxicomanie par voie parentérale,Yes/No
+C-115,Family member from a country with high endemicity for hepatitis A and possible stay in that country,Membre de la famille originaire d'un pays de haute endémicité pour l'hépatite A et séjour possible dans ce pays,Yes/No
+C-116,Preschooler living in a community setting,Enfant d'âge préscolaire vivant en collectivité,Yes/No
+C-118,Child or adolescent in a service or institution for disabled children and youth,Enfant ou adolescent accueilli dans un service ou institution pour l'enfance et la jeunesse handicapée,Yes/No
+C-120,Stay in a psychiatric institution,Séjour dans une institution psychiatrique,Yes/No
+C-121,Multiple sexual partners,Partenaires sexuels multiples,Yes/No
+C-122,Person infected with the hepatitis B virus or chronic carrier of the HBs antigen in the entourage,Personne infectée par le virus de l'hépatite B ou porteur chronique de l'antigène HBs dans l'entourage,Yes/No
+C-123,Sexual partner of a person infected with the hepatitis B virus,Partenaire sexuel d'un sujet infecté par le virus de l'hépatite B,Yes/No
+C-124,In detention in a penal institution,En détention dans un établissement pénitentiaire,Yes/No
+C-125,Chronic hepatitis C virus infection,Infection chronique par le virus de l'hépatite C,Yes/No
+C-126,Asthma (other than severe and under continuous treatment),Asthme (autre que sévère et sous traitement continu),Yes/No
+C-127,Mucoviscidosis,Mucoviscidose,Yes/No
+C-128,Bronchopulmonary dysplasia,Dysplasie broncho-pulmonaire,Yes/No
+C-129,Sexual relations with men,Relations sexuelles avec des hommes,Yes/No
+C-139,Military with conditioning for a mission OM-OPEX-Embarkation,Militaire avec mise en condition pour une mission OM-OPEX-Embarquement,Yes/No
+C-140,Active military,Militaire d'active,Yes/No
+C-141,Prolonged or high-dose corticosteroid therapy,Corticothérapie prolongée ou à forte dose,Yes/No
+C-142,Other chronic respiratory disease,Autre maladie respiratoire chronique,Yes/No
+C-143,Low level of resources,Bas niveau de ressources,Yes/No
+C-144,"Family receiving CMU, CMUc or AME","Famille bénéficiaire de la CMU, de la CMUc ou de l'AME",Yes/No
+C-145,History of chickenpox,Antécédent de varicelle,Yes/No
+C-146,History of measles,Antécédent de rougeole,Yes/No
+C-147,History of mumps infection,Antécédent d'infection ourlienne (oreillons),Yes/No
+C-148,History of rubella,Antécédent de rubéole,Yes/No
+C-150,Chiropodist,Chiroptérologue,Yes/No
+C-151,Employee in a veterinary laboratory handling material contaminated or likely to be contaminated with rabies virus,Employé(e) dans un laboratoire vétérinaire manipulant du matériel contaminé ou suceptible de l'être par le virus rabique,Yes/No
+C-152,Employee in an animal pound,Employé(e) dans une fourrière pour animaux,Yes/No
+C-153,Naturalist or taxidermist,Naturaliste ou taxidermiste,Yes/No
+C-154,Gamekeeper,Garde-chasse,Yes/No
+C-155,Forest Ranger,Garde forestier,Yes/No
+C-156,Employee in a slaughterhouse,Employé(e) dans un abattoir,Yes/No
+C-158,Positive chickenpox serology,Sérologie de la varicelle positive,Yes/No
+C-161,Positive measles serology,Sérologie de la rougeole positive,Yes/No
+C-163,Negative rubella serology,Sérologie de la rubéole négative,Yes/No
+C-164,Positive rubella serology,Sérologie de la rubéole positive,Yes/No
+C-172,Born in a country where tuberculosis is common,Naissance dans un pays où la tuberculose est fréquente,Yes/No
+C-173,One of the parents is from a country with a high incidence of tuberculosis,L'un des parents est originaire d'un pays de forte endémie tuberculeuse,Yes/No
+C-174,Family history of tuberculosis (collateral or direct ascendants),Antécédent familial de tuberculose (collatéraux ou ascendants directs),Yes/No
+C-177,Occupational Therapist,Ergothérapeute,Yes/No
+C-178,Speech-Language Pathologist,Orthophoniste,Yes/No
+C-179,Orthoptist,Orthoptiste,Yes/No
+C-180,Psychomotrician,Psychomotricien(ne),Yes/No
+C-181,Medical-psychological assistant,Aide médico-psychologique,Yes/No
+C-182,Socio-educational animator,Animateur socio-éducatif,Yes/No
+C-184,Social and family economy advisor,Conseiller(e) en économie sociale et familiale,Yes/No
+C-185,Early Childhood Educator,Educateur(trice) de jeunes enfants,Yes/No
+C-187,Technician of social and family intervention,Technicien(ne) de l'intervention sociale et familiale,Yes/No
+C-188,Monitor-Educator,Moniteur(trice)-éducateur(trice),Yes/No
+C-193,Absence d'Ac anti-HBs (inf. 10 UI/L),Absence d'Ac anti-HBs (inf. 10 UI/L),Yes/No
+C-194,Ac anti-HBs entre 10 UI/L et 100 UI/L,Ac anti-HBs entre 10 UI/L et 100 UI/L,Yes/No
+C-195,Ac anti-HBs sup. 100 UI/L,Ac anti-HBs sup. 100 UI/L,Yes/No
+C-197,Stay in a long-term care unit (USLD),Séjour dans une unité de soins de longue durée (USLD),Yes/No
+C-198,Myopathy or other severe neuromuscular disorder,Myopathie ou autre affection neuromusculaire grave,Yes/No
+C-199,Other serious neurological condition,Autre affection neurologique grave,Yes/No
+C-200,History of stroke,Antécédent d'accident vasculaire cérébral,Yes/No
+C-201,Works in a neonatal unit,Travaille dans un service de néonatologie,Yes/No
+C-202,Egg allergy,Allergie à l'oeuf,Yes/No
+C-203,Audio-prosthetist,Audio-prothésiste,Yes/No
+C-210,Dental surgery studies,Etudes de chirurgie dentaire,Yes/No
+C-213,Midwifery studies,Etudes de sage-femme,Yes/No
+C-215,Pharmacy studies,Etudes de pharmacie,Yes/No
+C-216,Student audio-prosthetist,Elève audio-prothésiste,Yes/No
+C-217,Student paramedic,Elève ambulancier,Yes/No
+C-218,Student caregiver,Elève aide-soignant,Yes/No
+C-220,Student childcare assistant,Elève auxiliaire de puériculture,Yes/No
+C-221,Occupational therapy student,Elève ergothérapeute,Yes/No
+C-222,Nursing student,Elève infirmier,Yes/No
+C-224,Student medical electroradiology manipulator,Elève manipulateur en électroradiologie médicale,Yes/No
+C-225,Student masseur-physiotherapist,Elève masseur-kinésithérapeute,Yes/No
+C-226,Student Speech-Language Pathologist,Elève orthophoniste,Yes/No
+C-227,Orthoptic student,Elève orthoptiste,Yes/No
+C-228,Pedicure-podologue student,Elève pédicure-podologue,Yes/No
+C-229,Psychomotrician student,Elève psychomotricien,Yes/No
+C-230,Biomedical analysis technician student,Elève technicien en analyses biomédicales,Yes/No
+C-232,Student medical-psychological assistant,Elève aide médico-psychologique,Yes/No
+C-233,Student socio-educational animator,Elève animateur(trice) socio-éducatif,Yes/No
+C-234,Student social work assistant,Elève assistant(e) de service social,Yes/No
+C-235,Student counselor in social and family economics,Elève conseiller(e) en économie sociale et familiale,Yes/No
+C-237,Student specialized technical educator,Elève éducateur(trice) technique spécialisé(e),Yes/No
+C-238,Student social and family intervention technician,Elève technicien(ne) de l'intervention sociale et familiale,Yes/No
+C-239,Student monitor-educator,Elève moniteur(trice)-éducateur(trice),Yes/No
+C-242,Student educator of young children,Elève éducateur(trice) de jeunes enfants,Yes/No
+C-246,Pupil assistant or family assistant,Elève assistant(e) maternel(le) ou familial(e),Yes/No
+C-249,Works in a medical biology laboratory,Travaille dans un laboratoire de biologie médicale,Yes/No
+C-251,Works in a hospital or other facility under the Hospital Act,Travaille dans un hôpital ou un autre établissement relevant de la loi hospitalière,Yes/No
+C-252,Works in a clinic or health center,Travaille dans un dispensaire ou un centre de soins,Yes/No
+C-253,Works in a maternal and child protection (P.M.I.) and family planning establishment,Travaille dans un établissement de protection maternelle et infantile (P.M.I.) et de planification familiale,Yes/No
+C-254,Works in a dental care facility,Travaille dans un établissement de soins dentaires,Yes/No
+C-255,Works in a prison health facility,Travaille dans un établissement sanitaire des prisons,Yes/No
+C-256,Works in a blood transfusion center or station,Travaille dans un centre ou un poste de transfusion sanguine,Yes/No
+C-257,Works in a non-blood human product holding and storage facility,Travaille dans un établissement de conservation et de stockage de produits humains autres que sanguins,Yes/No
+C-258,Works in a training facility for health personnel,Travaille dans un établissement de formation des personnels sanitaires,Yes/No
+C-259,Works in an occupational health department,Travaille dans un service de médecine du travail,Yes/No
+C-260,Works in a school preventive medicine center or service,Travaille dans un centre ou un service de médecine préventive scolaire,Yes/No
+C-261,Employee in a fire and rescue service (SDIS),Employé dans un service d'incendie et de secours (SDIS),Yes/No
+C-262,"Employee in a company transporting bodies before burial, without any link with a prevention or care establishment","Employé(e) dans une entreprise de transport de corps avant mise en bière, sans lien avec un établissement de prévention ou de soins",Yes/No
+C-263,Works in an institution or service of the judicial protection of youth,Travaille dans un établissement ou service de la protection judiciaire de la jeunesse,Yes/No
+C-270,Works in a municipal health department,Travaille dans un service communal d'hygiène et de santé,Yes/No
+C-271,"Infant under 6 months of age, premature or chronically ill living in the person's environment","Nourrisson de moins de 6 mois, prématuré ou souffrant d'une maladie chronique vivant dans l'entourage de cette personne",Yes/No
+C-272,Works in an immunocompromised ward,Travaille dans un service accueillant des sujets immunodéprimés,Yes/No
+C-273,Works in a maternity hospital,Travaille dans une maternité,Yes/No
+C-274,Works in an infectious disease department,Travaille dans un service de maladies infectieuses,Yes/No
+C-281,Chronic obstructive pulmonary disease (COPD),Bronchopneumopathie chronique obstructive (BPCO),Yes/No
+C-288,Positive mumps serology,Sérologie des oreillons positive,Yes/No
+C-298,Close and prolonged family contact with an infant under 6 months of age,Contacts familiaux étroits et durables avec un nourrisson âgé de moins de 6 mois,Yes/No
+C-300,Child born prematurely,Enfant né prématuré,Yes/No
+C-304,Severe asthma under continuous treatment,Asthme sévère sous traitement continu,Yes/No
+C-305,Diabetes controlled by diet,Diabète équilibré par un simple régime,Yes/No
+C-363,Family of a soldier on a mission abroad,Famille de militaire en mission à l'étranger,Yes/No
+C-365,Chickenpox serology unknown or not done,Sérologie varicelle inconnue ou non faite,Yes/No
+C-366,Works in a health personnel training facility,Travaille dans un établissement de formation de personnel sanitaire,Yes/No
+C-367,Works in a pediatric ward,Travaille dans un service de pédiatrie,Yes/No
+C-368,Works in a nephrology department,Travaille dans un service de néphrologie,Yes/No
+C-377,"Works in a private practice, in a prevention or care institution or organization","Exerce en milieu libéral, dans un établissement ou organisme de prévention ou de soins",Yes/No
+C-378,Active health professional,Autre professionnel de santé en activité,Yes/No
+C-379,Medical Biologist,Biologiste médical,Yes/No
+C-384,"Does not work in any of the following departments: maternity, pediatrics, neonatology, infectious diseases, immunocompromised or nephrology","Ne travaille pas dans l'un des services suivants : maternité, pédiatrie, néonatologie, maladies infectieuses, accueillant des immunodéprimés ou néphrologie",Yes/No
+C-392,Close contacts of a person with hepatitis A,Entourage proche d'une personne atteinte d'hépatite A,Yes/No
+C-393,Sharing precarious hygiene conditions with a patient with confirmed hepatitis A,Partage des conditions d'hygiène précaire avec un patient atteint d'hépatite A confirmée,Yes/No
+C-394,Known history of jaundice,Antécédent connu d'ictère,Yes/No
+C-395,Previous stay of more than one year in a country with high endemicity for hepatitis A,Séjour antérieur de plus d'un an dans un pays de forte endémicité pour l'hépatite A,Yes/No
+C-396,Positive pre-vaccination hepatitis A serology,Sérologie de l'hépatite A positive,Yes/No
+C-402,Paraplegia or tetraplegia,Paraplégie ou tétraplégie,Yes/No
+C-404,Cancer or hematological malignancy,Cancer ou hémopathie maligne,Yes/No
+C-407,Works in a private practice,Exerce dans un cabinet libéral,Yes/No
+C-410,Severe rhythm disorder,Trouble du rythme grave,Yes/No
+C-411,Newborns of HIV-infected mothers,Nouveau-né de mère infectée par le VIH,Yes/No
+C-413,Other immunosuppressive therapy,Autre traitement immunosuppresseur,Yes/No
+C-414,Hematopoietic stem cell transplantation (marrow transplant),Transplantation de cellules souches hématopoïétiques (greffe de moelle),Yes/No
+C-415,Waiting for a hematopoietic stem cell transplant (marrow transplant),En attente d'une transplantation de cellules souches hématopoïétiques (greffe de moelle),Yes/No
+C-421,"Pharmacy assistant, welcoming patients","Préparateur(ice) en pharmacie, accueillant des patients",Yes/No
+C-422,"Medical secretary, patient receptionist","Secrétaire médical(e), accueillant des patients",Yes/No
+C-424,Systemic lupus erythematosus,Lupus érythémateux aigu disséminé,Yes/No
+C-425,Systemic vasculitis (severe form),Vascularite systémique (forme grave),Yes/No
+C-426,Progressive generalized scleroderma,Sclérodermie généralisée évolutive,Yes/No
+C-427,Multiple sclerosis,Sclérose en plaques,Yes/No
+C-428,Works in a retail pharmacy,Travaille dans une pharmacie d'officine,Yes/No
+C-429,Works in a hospital pharmacy,Travaille dans une pharmacie hospitalière,Yes/No
+C-431,HBsAg negative,Ag HBs négatif,Yes/No
+C-432,HBsAg positive,Ag HBs positif,Yes/No
+C-439,Anti-HBs unknown,Ac anti-HBs inconnu,Yes/No
+C-446,Other profession in the medico-social field,Autre profession dans le domaine médico-social,Yes/No
+C-452,Works in a hospital medical biology laboratory,Travaille dans un laboratoire de biologie médicale hospitalier,Yes/No
+C-469,Periarteritis nodosa,Périartérite noueuse,Yes/No
+C-470,Inflammatory rheumatism,Rhumatisme inflammatoire,Yes/No
+C-471,Chronic inflammatory bowel disease,Maladie inflammatoire chronique intestinale,Yes/No
+C-472,Other autoimmune disease,Autre maladie auto-immune,Yes/No
+C-477,Thrombocytopenic purpura,Purpura thrombopénique,Yes/No
+C-478,Anticoagulant treatment,Traitement anticoagulant,Yes/No
+C-479,Thrombocytopenia,Thrombopénie,Yes/No
+C-480,"Marrow transplant, with transplant-induced autoimmune pathology","Greffe de moelle, avec pathologie autoimmune induite par la greffe",Yes/No
+C-484,Autoimmune hemolytic anemia,Anémie hémolytique auto-immune,Yes/No
+C-485,Living animal,Animal vivant,Yes/No
+C-486,Dead animal,Animal mort,Yes/No
+C-487,Missing animal,Animal disparu,Yes/No
+C-488,Veterinary surveillance not possible,Surveillance vétérinaire impossible,Yes/No
+C-489,Biological diagnosis impossible,Diagnostic biologique impossible,Yes/No
+C-490,"Direct contact with a domestic animal (dog, cat, ferret) whose owner is known in a rabies enzootic zone.","Contact direct en zone d'enzootie rabique avec un animal domestique (chien, chat, furet) dont le propriétaire est connu.",Yes/No
+C-491,Direct contact in a rabies enzootic area with a small rodent (excluding rats and squirrels) or a lagomorph.,"Contact direct en zone d'enzootie rabique avec un petit rongeur (rat, écureuil exclus) ou un lagomorphe.",Yes/No
+C-492,"Direct contact with another mammal (dog, cat, ferret, rat, squirrel, deer, bovine, ovine, caprine, equine, chiropteran, wildlife) in a rabies enzootic area.","Contact direct en zone d'enzootie rabique avec un autre mammifère (chien, chat, furet, rat, écureuil, cervidé, bovin, ovin, caprin, équidé, chiroptère, faune sauvage).",Yes/No
+C-493,Negative veterinary surveillance result,Résultat de la surveillance vétérinaire négatif,Yes/No
+C-494,Positive veterinary surveillance result,Résultat de la surveillance vétérinaire positif,Yes/No
+C-495,Result of the ongoing veterinary surveillance,Résultat de la surveillance vétérinaire en cours,Yes/No
+C-496,"No direct contact with the animal's saliva (untorn clothing, licking on healthy skin)","Pas de contact direct avec la salive de l'animal (vêtements non déchirés, léchage sur peau saine)",Yes/No
+C-497,Result of the biological diagnosis in progress,Résultat du diagnostic biologique en cours,Yes/No
+C-498,Result of the positive biological diagnosis,Résultat du diagnostic biologique positif,Yes/No
+C-499,Negative biological diagnosis result,Résultat du diagnostic biologique négatif,Yes/No
+C-501,Direct contact in a rabies-free country with any type of rodents or lagomorphs,Contact direct dans un pays indemne de rage avec tous type de rongeurs ou lagomorphes,Yes/No
+C-502,Direct contact in a rabies-free country with chiropterans or mustelids,Contact direct dans un pays indemne de rage avec des chiroptère ou des mustelidé,Yes/No
+C-503,"Direct contact in a rabies-free country with dogs, cats or ferrets.","Contact direct dans un pays indemne de rage avec des chien, chat ou furet.",Yes/No
+C-504,"Direct contact in a rabies-free country with other mammals: Wildlife, Deer, Cattle, Sheep, Goat, Equine ....","Contact direct dans un pays indemne de rage avec d'autres mammifères : Faune sauvage, Cervidé, Bovin, Ovin, Caprin, Equidé ….",Yes/No
+C-506,Dead animal,Animal mort,Yes/No
+C-511,Biological diagnosis of rabies impossible,Diagnostic biologique de rage impossible,Yes/No
+C-512,Positive biological diagnosis of rabies,Diagnostic biologique de rage positif,Yes/No
+C-513,Missing animal,Animal disparu,Yes/No
+C-531,Dog handler in a country where rabies is endemic,Maître de chiens dans un pays où la rage est endémique,Yes/No
+C-532,Professional incorporator of dogs from abroad,Professionnel incorporateur de chiens en provenance de l'étranger,Yes/No
+C-533,Staying in a home for the dependent elderly,Séjour dans un établissement d'hébergement pour personnes âgées dépendantes (EHPAD),Yes/No
+C-534,Resides in a residential facility for disabled adults,Réside dans un établissement d'hébergement pour adultes handicapés,Yes/No
+C-535,Stay in a follow-up care and rehabilitation unit,Séjour dans une unité de soins de suite et de réadaptation,Yes/No
+C-541,Anti-C5 treatment: Soliris® (Eculizumab) or Ultomiris® (ravulizumab),Traitement par anti-C5 : Soliris® (eculizumab) ou Ultomiris® (ravulizumab),Yes/No
+C-542,Works in a meningococcal research laboratory,Travaille dans un laboratoire de recherche sur le méningocoque,Yes/No
+C-543,Paroxysmal nocturnal hemoglobinuria,Hémoglobinurie paroxystique nocturne,Yes/No
+C-545,"This baby's mother is considered to be non-immune to measles (no documented history of measles, unvaccinated or vaccinated with only one dose)","La maman de ce bébé est considérée comme non immunisée contre la rougeole (pas d'antécédent documenté de rougeole, non vaccinée ou vaccinée avec une seule dose)",Yes/No
+C-547,Coronary artery disease,Maladie des coronaires,Yes/No
+C-551,"Equarisseur - Knacker, animal carcass disposer",Equarisseur,Yes/No
+C-552,Breastfeeding,Allaitement en cours,Yes/No
+C-575,None of the occupations listed in the questionnaire,Aucune des professions énumérées dans le questionnaire,Yes/No
+C-576,anti-HBc positive,Ac anti-HBc positif,Yes/No
+C-577,anti-HBc negative,Ac anti-HBc négatif,Yes/No
+C-578,Ongoing chemotherapy for solid tumor (cancer),Chimiothérapie en cours pour tumeur solide (cancer),Yes/No
+C-579,Biotherapy leading to immunosuppression,Biothérapie entrainant une immunodépression,Yes/No
+C-580,Phagocytic cell deficiency (septic granulomatosis),Déficit des cellules phagocytaires (granulomatose septique),Yes/No
+C-581,Severe chronic neutropenia,Neutropénie chronique sévère,Yes/No
+C-582,Common variable immune deficiency (CVID),Déficit immunitaire commun variable (DICV),Yes/No
+C-583,Bruton's disease (X-linked agammaglobulinemia),Maladie de Bruton (agammaglobulinémie liée à l'X),Yes/No
+C-584,IgG subclass deficiency,Déficit en sous-classes d'IgG,Yes/No
+C-585,IgA deficiency,Déficit en IgA,Yes/No
+C-586,Severe combined immune deficiency,Déficit immunitaire combiné sévère,Yes/No
+C-587,Partial combined immunodeficiency,Déficit immunitaire combiné partiel,Yes/No
+C-588,Military at incorporation with departure on OM-OPEX mission - Possible embarkation between 1 and 5 months of service,Militaire à l'incorporation avec départ en mission OM-OPEX-Embarquement possible entre 1 et 5 mois de service,Yes/No
+C-589,Military on incorporation with OM-OPEX mission - Possible embarkation after the 6th month of service,Militaire à l'incorporation avec mission OM-OPEX-Embarquement possible après le 6ème mois de service,Yes/No
+C-590,Refusal of vaccination against pertussis,Refus de vaccination contre la coqueluche,Yes/No
+C-591,"Refusal to vaccinate against measles, mumps and rubella","Refus de vaccination contre la rougeole, les oreillons et la rubéole",Yes/No
+C-594,Ongoing chemotherapy for hematological malignancy (leukemia),Chimiothérapie en cours pour hémopathie maligne (leucémie),Yes/No
+C-597,Attendance at gay-friendly or gay-friendly venues,Fréquentation de lieux de convivialité ou de rencontre gays,Yes/No
+C-598,Considered participation in a gay rally,Participation envisagée à un rassemblement gay,Yes/No
+C-600,HBV DNA positive,ADN VHB positif,Yes/No
+C-601,HBV DNA negative,ADN VHB négatif,Yes/No
+C-602,HBV DNA unknown,ADN VHB inconnu,Yes/No
+C-604,Risk of exposure to biological agents,Risque d'exposition à des agents biologiques,Yes/No
+C-605,Other health care profession,Autre profession dans le domaine de la santé,Yes/No
+C-606,Works in a laundry linked to a prevention or care establishment,Travaille dans une blanchisserie en lien avec un établissement de prévention ou de soins,Yes/No
+C-608,Employee in an undertaker's business in connection with a prevention or care establishment,Employé(e) dans une entreprise de pompes funèbres en lien avec un établissement de prévention ou de soins,Yes/No
+C-609,"Employee in a company transporting bodies before burial, in connection with a prevention or care establishment","Employé(e) dans une entreprise de transport de corps avant mise en bière, en lien avec un établissement de prévention ou de soins",Yes/No
+C-612,Emphysema,Emphysème,Yes/No
+C-613,Refusal of vaccination against diphtheria-tetanus-polio and/or pertussis,Refus de vaccination contre la diphtérie-tétanos-poliomyélite et/ou coqueluche,Yes/No
+C-614,Refusal to vaccinate against hepatitis B,Refus de vaccination contre l'hépatite B,Yes/No
+C-615,Refusal to vaccinate against hepatitis A,Refus de vaccination contre l'hépatite A,Yes/No
+C-616,Refusal of pneumococcal vaccination,Refus de vaccination contre le pneumocoque,Yes/No
+C-617,Refusal of Meningococcal C Vaccination,Refus de vaccination contre le méningocoque C,Yes/No
+C-618,Refusal of Meningococcal ACWY Vaccination,Refus de vaccination contre les méningocoques ACWY,Yes/No
+C-619,Meningococcal B vaccine refusal,Refus de vaccination contre le méningocoque B,Yes/No
+C-620,Refusal to vaccinate against typhoid,Refus de vaccination contre la typhoïde,Yes/No
+C-621,Refusal of yellow fever vaccination,Refus de vaccination contre la fièvre jaune,Yes/No
+C-622,Refusal of flu vaccination,Refus de vaccination contre la grippe,Yes/No
+C-623,Refusal of vaccination against tuberculosis (BCG),Refus de vaccination contre la tuberculose (BCG),Yes/No
+C-624,Refusal to vaccinate against chickenpox,Refus de vaccination contre la varicelle,Yes/No
+C-625,Refusal of rabies vaccination,Refus de vaccination contre la rage,Yes/No
+C-626,Refusal of HPV vaccination,Refus de vaccination contre les papillomavirus,Yes/No
+C-627,Refusal of tick-borne encephalitis vaccination,Refus de vaccination contre l'encéphalite à tiques,Yes/No
+C-628,Refusal of vaccination against Japanese encephalitis,Refus de vaccination contre l'encéphalite japonaise,Yes/No
+C-632,Date of last history of pertussis,Date du dernier antécédent de coqueluche,Date
+C-633,Person who regularly babysits,Personne effectuant régulièrement du baby-sitting,Yes/No
+C-635,Patient with a complement deficiency or treated with Soliris® (eculizumab) or Ultomiris® (ravulizumab) in the family,Patient présentant un déficit en complément ou traité par Soliris® (eculizumab) ou Ultomiris® (ravulizumab) dans l'entourage,Yes/No
+C-636,Refugee from a country where the polio virus is circulating,Réfugié(e) venant d'un pays où circule le virus de la poliomyélite,Yes/No
+C-637,BCG vaccine scar,Cicatrice vaccinale du BCG,Yes/No
+C-655,Rubella serology unknown or not done,Sérologie rubéole inconnue ou non faite,Yes/No
+C-657,Dental assistant student,Elève assistant(e) dentaire,Yes/No
+C-658,Dental Assistant,Assistant(e) dentaire,Yes/No
+C-659,Incorporation into the operational reserve in France or overseas,Incorporation réserve opérationnelle en métropole ou outre-mer,Yes/No
+C-660,Voluntary military service trainee (VMS),Volontaire stagiaire du service militaire volontaire (SMV),Yes/No
+C-661,Volunteer trainee of the adapted military service (SMA),Volontaire stagiaire du service militaire adapté (SMA),Yes/No
+C-662,Thanatopractor - Mortician/embalmer,Thanatopracteur,Yes/No
+C-665,Refusal of shingles vaccination,Refus de vaccination contre le zona,Yes/No
+C-672,Migrant recently arrived in France,Migrant(e) récemment arrivé en France,Yes/No
+C-675,Refusal of Haemophilus influenzae type b vaccination,Refus de vaccination contre Haemophilus influenzae type b,Yes/No
+C-676,Anti-aggregant treatment,Traitement antiagrégant,Yes/No
+C-677,Refusal of mumps vaccination,Refus de vaccination contre les oreillons,Yes/No
+C-678,History of allergy during a previous influenza vaccination,Antécédent d'allergie lors d'une vaccination précédente contre la grippe,Yes/No
+C-679,Works in a medical or research laboratory handling material contaminated or likely to be contaminated with rabies virus,Travaille dans un laboratoire médical ou de recherche manipulant du matériel contaminé ou suceptible de l'être par le virus rabique,Yes/No
+C-685,Exposure to sexually transmitted infections (STIs),Exposition aux infections sexuellement transmissibles (IST),Yes/No
+C-686,Current or recent sexually transmitted infection (STI),Infection sexuellement transmissible (IST) en cours ou récente,Yes/No
+C-687,Intranasal drug abuse,Toxicomanie par voie intranasale,Yes/No
+C-688,This baby's mother is considered immune to measles (documented history of measles or 2 doses of a measles vaccine),La maman de ce bébé est considérée comme immunisée contre la rougeole (antécédent documenté de rougeole ou 2 doses d'un vaccin contre la rougeole),Yes/No
+C-698,Medical Auxiliary in the French Army,Auxiliaire sanitaire dans l'armée française,Yes/No
+C-699,History of dengue fever,Antécédent de dengue,Yes/No
+C-702,Measles immunization status of mother not specified,Statut d'immunisation contre la rougeole de la maman non précisé,Yes/No
+C-705,"Military mission in Central or West Africa (Burkina Faso, Ivory Coast, Mali, Mauritania, Niger, CAR, Senegal, Chad...)","Mission d'un(e) militaire en Afrique centrale ou de l'ouest (Burkina Faso, Côte d'Ivoire, Mali, Mauritanie, Niger, RCA, Sénégal, Tchad...)",Yes/No
+C-706,Military mission with risk of projection from Djibouti to a country endemic for yellow fever,Mission d'un(e) militaire avec risque de projection de Djibouti vers un pays endémique pour la fièvre jaune,Yes/No
+C-707,Military mission in Germany: districts with risk of tick-borne encephalitis according to the Robert Koch Institute,Mission d'un(e) militaire en Allemagne : arrondissements AVEC risque d'encéphalite à tiques selon le Robert Koch Institut,Yes/No
+C-708,Military mission in a country with endemic tick-borne encephalitis,Mission d'un(e) militaire dans un pays avec encéphalite à tiques endémique,Yes/No
+C-709,"Military mission in Bulgaria, Denmark (except if Bornholm Island) and Norway","Mission d'un(e) militaire en Bulgarie, Danemark (sauf si Ile de Bornholm) et Norvège",Yes/No
+C-710,"Military mission in France OM (DROM, COM, POM)","Mission d'un(e) militaire en France OM (DROM, COM, POM)",Yes/No
+C-711,Mission of an embarked FAN soldier,Mission d'un(e) militaire FAN embarqué,Yes/No
+C-713,Mission during the risk period for tick-borne encephalitis: March 21 (spring) to November 30,Mission pendant la période à risque pour l'encéphalite à tiques : du 21 mars (printemps) au 30 novembre,Yes/No
+C-715,Visits to rural or forested areas,Fréquentation de zones rurales ou forestières,Yes/No
+C-716,Military mission in Germany: districts WITHOUT risk of tick-borne encephalitis,Mission d'un(e) militaire en Allemagne : arrondissements SANS risque d'encéphalite à tiques,Yes/No
+C-717,"Military mission in East Asia, South-East Asia, the Indian subcontinent, Papua New Guinea or the far north of Australia","Mission d'un(e) militaire en Asie de l'Est, du Sud-Est, dans le sous-continent indien, en Papouasie-Nouvelle Guinée ou dans l'extrême Nord de l'Australie",Yes/No
+C-720,"Military mission in the United Arab Emirates, Lebanon, Iraq or Syria","Mission d'un(e) militaire aux Emirats Arabes Unis, au Liban, en Irak ou en Syrie",Yes/No
+C-728,"Military mission in a country other than: yellow fever endemic country, Middle East or Djibouti, Europe, Asia or Oceania","Mission d'un militaire dans un pays autre que : pays endémique pour la fièvre jaune, du Moyen-orient ou Djibouti, d'Europe, d'Asie ou d'Océanie",Yes/No
+C-729,Reservist,Réserviste,Yes/No
+C-730,"Military mission in a European country other than: Austria, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Germany, Hungary, Latvia, Lithuania, Poland, Slovakia, Slovenia, Sweden or Finland","Mission d'un(e) militaire dans un pays d'Europe autre que : Allemagne, Autriche, Bulgarie, Croatie, Danemark, Estonie, Hongrie, Lettonie, Lituanie, Pologne, Tchéquie, Slovaquie, Slovénie, Suède ou Finlande",Yes/No
+C-732,High risk of exposure to tuberculosis (assessed by the occupational physician),Risque élevé d'exposition à la tuberculose (évalué par le médecin du travail),Yes/No
+C-733,Treated diabetes - Uncontrolled diabetes (requires medication),Diabète non équilibré par le régime,Yes/No
+C-735,History of thymus dysfunction,Antécédent de dysfonctionnement du thymus,Yes/No
+C-736,Positive post-vaccination hepatitis A serology,Sérologie post-vaccinale de l'hépatite A positive,Yes/No
+C-737,Negative post-vaccination hepatitis A serology,Sérologie de l'hépatite A négative,Yes/No
+C-739,Military mission with low risk of projection from Djibouti to a yellow fever endemic area,Mission d'un(e) militaire avec risque faible de projection de Djibouti vers une zone endémique pour la fièvre jaune,Yes/No
+C-740,Military mission in Gabon,Mission d'un(e) militaire au Gabon,Yes/No
+C-741,Military mission in Guyana,Mission d'un(e) militaire en Guyane,Yes/No
+C-742,Mission of a military member in a country endemic for yellow fever other than a country in Central or West Africa and Guyana,Mission d'un(e) militaire dans un pays endémique pour la fièvre jaune autre qu'un pays d'Afrique centrale ou de l'ouest et que la Guyane,Yes/No
+C-743,Complicated hypertension,Hypertension artérielle compliquée,Yes/No
+C-745,Recent contact with a case of covid 19,Contact récent avec un cas de covid 19,Yes/No
+C-746,"Allergy to aminoglycosides (neomycin, kanamycin...)","Allergie aux aminosides (néomycine, kanamycine...)",Yes/No
+C-829,RT-PCR covid test (SARS-CoV-2) positive,Test RT-PCR covid (SARS-CoV-2) positif,Yes/No
+C-830,Hyper IgM syndrome,Syndrome d'hyper IgM,Yes/No
+C-831,Refusal of dengue vaccination,Refus de vaccination contre la dengue,Yes/No
+C-834,"Sickle cell disease treated with hydroxyurea (Hydrea, Siklos)","Drépanocytose traitée par hydroxyurée (Hydrea, Siklos)",Yes/No
+C-835,Pending initiation of therapy that affects immunity,En attente d'instauration d'un traitement ayant une influence sur l'immunité,Yes/No
+C-837,Person with signs of covid 19 with a positive RT-PCR test,Personne présentant des signes de covid 19 avec un test RT-PCR positif,Yes/No
+C-838,Person with prolonged symptoms of covid 19 (long covid),Personne avec symptômes prolongés de covid 19 (covid long),Yes/No
+C-839,Positive covid 19 serology before vaccination,Sérologie covid 19 positive avant la vaccination,Yes/No
+C-840,Allergy to penicillin: no particular contraindication to vaccines used in France,Allergie à la pénicilline : pas de contre-indication particulière aux vaccins utilisés en France,Yes/No
+C-841,Student stretcher bearer,Elève brancardier,Yes/No
+C-842,Stretcher Bearer - Hospital support staff,Brancardier,Yes/No
+C-843,Works in a long-term care unit (USLD),Travaille dans une unité de soins de longue durée (USLD),Yes/No
+C-844,Home Help,Aide à domicile,Yes/No
+C-852,Works for a service provider and distributor of medical equipment,Travaille chez un prestataire de service et distributeur de matériel médical,Yes/No
+C-853,Hospital Service Officer (ASH),Agent de service hospitalier (ASH),Yes/No
+C-854,Rehabilitator,Rééducateur,Yes/No
+C-855,Psychologist,Psychologue,Yes/No
+C-856,Supervisory staff for health care personnel,Personnel d’encadrement du personnel soignant,Yes/No
+C-857,"Administrative, medico-technical or technical staff","Personnel administratif, médico-technique ou technique",Yes/No
+C-858,Dietitian,Diététicien(ne),Yes/No
+C-859,Trisomy 21 - Down Syndrome,Trisomie 21,Yes/No
+C-860,Profession in the food industry,Profession dans le domaine de l'alimentation,Yes/No
+C-861,Profession in the banking field,Profession dans le domaine bancaire,Yes/No
+C-862,Other profession in the field of transport,Autre profession dans le domaine du transport,Yes/No
+C-863,Other profession in the field of education,Autre profession dans le domaine de l'éducation,Yes/No
+C-864,Dementia or psychiatric disorder,Démence ou trouble psychiatrique,Yes/No
+C-865,Refusal to vaccinate against covid 19,Refus de vaccination contre la covid 19,Yes/No
+C-866,"History of severe anaphylactic reaction to a vaccine, drug or food","Antécédent de réaction anaphylactique grave à un vaccin, un médicament ou un aliment",Yes/No
+C-867,Proven history of covid 19,Antécédent prouvé de covid 19,Yes/No
+C-869,Consent to be vaccinated against covid 19 collected by the health professional,Consentement à se faire vacciner contre la covid 19 recueilli par le professionnel de santé,Yes/No
+C-870,Refusal to vaccinate against covid 19 collected by the health professional,Refus de vaccination contre la COVID-19 recueilli par le professionnel de santé,Yes/No
+C-871,Person who has ever been prescribed an auto-injectable syringe of adrenaline,Personne ayant déjà eu une prescription de seringue auto-injectable d'adrénaline,Yes/No
+C-872,Idiopathic pulmonary fibrosis,Fibrose pulmonaire idiopathique,Yes/No
+C-873,Pulmonary fibrosis,Fibrose pulmonaire,Yes/No
+C-874,moyamoya angiopathy,Angiopathie de moyamoya,Yes/No
+C-875,CADASIL or related familial vascular leukoencephalopathy,CADASIL ou leucoencéphalopathie vasculaire familiale apparentée,Yes/No
+C-876,Cerebral venous thrombosis,Thrombose veineuse cérébrale,Yes/No
+C-877,Hereditary cervical and cerebral artery dissection,Dissection des artères cervicales et cérébrales héréditaire,Yes/No
+C-878,Cerebral arteriovenous malformation,Malformation artério-veineuse cérébrale,Yes/No
+C-879,Hereditary cerebral cavernoma,Cavernome cérébral héréditaire,Yes/No
+C-880,Rare systemic autoimmune disease with immunosuppressive therapy,Maladie auto-immune systémique rare avec traitement immunosuppresseur,Yes/No
+C-881,Rare liver disease under immunosuppressive therapy,Maladie rare du foie sous immunosuppresseur,Yes/No
+C-882,Intracellular trafficking deficiency in children (NBAS: neuroblastoma amplified sequence),Déficit du trafic intracellulaire chez les enfants (NBAS : neuroblastoma amplified sequence),Yes/No
+C-883,Myopathy with forced vital capacities lower than 70,Myopathie avec capacités vitales forcées inférieures à 70 %,Yes/No
+C-884,Amyotrophic lateral sclerosis (ALS),Sclérose latérale amyotrophique (SLA),Yes/No
+C-885,Incontinentia pigmenti,Incontinentia pigmenti,Yes/No
+C-886,Autoimmune pancreatitis (with or without immunosuppressant) type 1 (IgG4 disease),Pancréatite auto-immune (sous immunosuppresseur ou non) de type 1 (maladie à IgG4),Yes/No
+C-887,"AIRE, NFBK2 and interferon deficiency","Déficit en AIRE, en NFBK2 et en interféron",Yes/No
+C-888,Defect in production or response to interferon alpha,Défaut de production ou de réponse à l'interferon alpha,Yes/No
+C-889,SASH3: exceptional form which sometimes associates neutropenia with a lymphocyte deficit,SASH3 : forme exceptionnelle qui associe parfois une neutropénie à un déficit lymphocytaire,Yes/No
+C-890,Immune complication in the form of antibodies directed against their usual therapeutic principle,Complication immunitaire sous la forme d’anticorps dirigés contre leur principe thérapeutique habituellement utilisé,Yes/No
+C-891,Constitutional bleeding disease with treatment by a drug in clinical trial,Maladie hémorragique constitutionnelle avec traitement par un médicament en essai clinique,Yes/No
+C-892,"Constitutional bleeding disease with identified comorbidity (hepatitis C, hypertension, diabetes, etc.)","Maladie hémorragique constitutionnelle avec comorbidité identifiée (hépatite C, HTA, diabète...)",Yes/No
+C-893,Active SNI (SNLGM or HSF) or active GEM and/or immunosuppressive therapy,SNI (SNLGM ou HSF) actif ou GEM active et/ou soumis à un traitement immunosuppresseur,Yes/No
+C-894,ANCA vasculitis under immunosuppressive treatment,Vascularite à ANCA sous traitement immunosuppresseur,Yes/No
+C-895,Rheumatoid purpura nephropathy under immunosuppressive therapy,Néphropathie du purpura rhumatoïde sous traitement immunosuppresseur,Yes/No
+C-896,Other vasculitis under immunosuppressive treatment,Autre vascularite sous traitement immunosuppresseur,Yes/No
+C-897,Glomerulonephritis with IgA mesangial deposits under immunosuppressive treatment,Glomérulonéphrite à dépôts mésangiaux IgA sous traitement immunosuppresseur,Yes/No
+C-898,Glomerulonephritis with C3 deposits under immunosuppressive treatment,Glomérulonéphrite à dépôts de C3 sous traitement immunosuppresseur,Yes/No
+C-899,APECED or autoimmune polyendocrinopathy type 1,APECED ou polyendocrinopathie auto-immune de type 1,Yes/No
+C-900,Constitutional bone pathology with complications,Pathologie osseuse constitutionnelle avec complications,Yes/No
+C-901,Pulmonary Arterial Hypertension (PAH),Hypertension Artérielle Pulmonaire (HTAP),Yes/No
+C-903,Pulmonary hypertension associated with chronic respiratory diseases (PH-CDR),Hypertension Pulmonaire associée aux maladies respiratoires chroniques (HTP-MRC),Yes/No
+C-904,Pulmonary fibrosis associated with connectivitis,Fibrose pulmonaire associée à une connectivite,Yes/No
+C-905,Pulmonary fibrosis secondary to pneumoconiosis,Fibrose pulmonaire secondaire à une pneumoconiose,Yes/No
+C-908,Resides in a migrant workers' home,Réside dans un foyer de travailleurs migrants,Yes/No
+C-909,Chronic poly-pathology,Polypathologie chronique,Yes/No
+C-910,Allergy (other than anaphylaxis) to a previously administered vaccine,Allergie (autre qu'une anaphylaxie) à un vaccin précédemment administré,Yes/No
+C-911,History of cardiac surgery,Antécédent de chirurgie cardiaque,Yes/No
+C-912,Sleep apnea,Apnée du sommeil,Yes/No
+C-913,Positive covid 19 antigenic test,Test antigénique covid 19 positif,Yes/No
+C-917,Strong immunosuppressive treatment (covid),Traitement immunosuppresseur fort,Yes/No
+C-919,Date of last COVID-19,Date du dernier antécédent de covid 19,Yes/No
+C-920,Positive covid 19 serology after vaccination,Sérologie covid 19 positive après la vaccination,Yes/No
+C-921,Positive covid RT-PCR test (SARS-CoV-2) showing infection within 15 days of vaccination,Test RT-PCR covid (SARS-CoV-2) positif révélant une infection survenue dans les 15 jours suivant la vaccination,Yes/No
+C-923,Person not at risk of exposure to rabies,Personne sans risque d'exposition à la rage,Yes/No
+C-924,Chronic lymphocytic leukemia,Leucémie lymphoïde chronique,Yes/No
+C-925,Pediatric multisystemic inflammatory syndrome (PIMS) post covid 19,Syndrome inflammatoire multisystémique pédiatrique (PIMS) post covid 19,Yes/No
+C-926,Myocarditis or pericarditis associated with SARS-CoV-2 infection,Myocardite ou péricardite associées à une infection par SARS-CoV-2,Yes/No
+C-927,"Myocarditis or pericarditis not related to SARS-CoV-2 infection, prior to vaccination and still active",Myocardite ou péricardite,Yes/No
+C-928,Treatment with anti-SARS-CoV-2 monoclonal antibodies,Traitement par anticorps monoclonaux anti-SARS-CoV-2,Yes/No
+C-929,Professional exposed to swine and avian influenza viruses,Professionnel exposé aux virus influenza porcins et aviaires,Yes/No
+C-930,Severe or serious adverse event attributed to the first dose of covid vaccine,Effet indésirable d'intensité sévère ou grave attribué à la première dose de vaccin anti covid,Yes/No
+C-931,Mother who received Infliximab (monoclonal antibodytaht  blocks tumor necrosis factor alpha TNF-α) during pregnancy or breastfeeding,Mère ayant reçu de l’Infliximab pendant la grossesse ou l’allaitement,Yes/No
+C-932,"Date of a solid organ transplant (kidney, heart, liver or lungs)","Date d'une transplantation d'organe solide (rein, coeur, foie ou poumons)",Yes/No
+C-933,CD4 rate,Taux de CD4,Yes/No
+C-934,Other risk factor for severe pneumococcal disease (child),Autre facteur de risque d'infection grave à pneumocoque (enfant),Yes/No
+C-935,Health professional,Professionnel de santé,Yes/No
+C-936,Employed in a health care facility,Employé dans un établissement de santé,Yes/No
+C-937,Employee in a medical-social housing structure,Employé dans une structure d'hébergement médico-sociale,Yes/No
+C-938,Unused - Treatment with anti-SARS-CoV-2 monoclonal antibodies,Inutilisé - Traitement par anticorps monoclonaux anti-SARS-CoV-2,Yes/No
+C-939,Unused - Myocarditis or pericarditis associated with SARS-CoV-2 infection,Inutilisé - Myocardite ou péricardite associées à une infection par SARS-CoV-2,Yes/No
+C-940,"Unused - Myocarditis or pericarditis of etiology not related to SARS-CoV-2 infection, occurring prior to vaccination and still evolving.","Inutilisé - Myocardite ou péricardite d’étiologie non liée à une infection par SARS-CoV-2, survenues antérieurement à la vaccination et toujours évolutives.",Yes/No
+C-949,Severe extrapulmonary restrictive pathology,Pathologie restrictive extrapulmonaire sévère,Yes/No
+C-950,Condition not used free,En provenance d'un pays à risque de transmission de la fièvre jaune,Yes/No
+C-951,Severe chronic obstructive pulmonary disease (COPD),Bronchopneumopathie chronique obstructive (BPCO) sévère,Yes/No
+C-953,Unstable coronary artery disease,Coronaropathie instable,Yes/No
+C-954,Cardiomyopathy,Cardiomyopathie,Yes/No
+C-956,Cirrhosis,Cirrhose,Yes/No
+C-957,Major neuro-cognitive deficit,Déficit neuro-cognitif majeur,Yes/No
+C-958,Diabetes,Diabète,Yes/No
+C-961,"Hypertension, complicated or not","Hypertension artérielle, compliquée ou non",Yes/No
+C-962,Weight,Poids (kg),Number
+C-963,Height,Taille (cm),Number
+C-964,Result of the last anti-S quantitative covid serology performed (BAU/mL),Résultat de la dernière sérologie covid quantitative anti-S réalisée (BAU/mL),Number
+C-965,Date of last quantitative covid anti-S serology performed,Date de la dernière sérologie covid anti-S quantitative réalisée,Date
+C-966,Date of hematopoietic stem cell transplant (marrow transplant),Date de greffe de cellules souches hématopoïétiques (greffe de moelle),Date
+C-967,Diphtheria-Tetanus-Polio (DTPolio) vaccination history unknown or incomplete,Historique vaccinal Diphtérie-Tétanos-Poliomyélite (DTP) inconnu ou incomplet,Yes/No
+C-968,Contraindication to vaccination against covid 19,Contre-indication à la vaccination contre la covid 19,Yes/No
+C-969,Date of penultimate COVID-19,Date de l'avant-dernier antécédent de covid 19,Date
+C-970,Medical Physicist,Physicien médical,Yes/No
+C-971,Optician,Opticien-lunetier,Yes/No
+C-972,Prosthetist and orthotist for the fitting of disabled people,Prothésiste et orthésiste pour l'appareillage des personnes handicapées,Yes/No
+C-973,Osteopath,Ostéopathe,Yes/No
+C-974,Chiropractor,Chiropracteur,Yes/No
+C-975,Psychotherapist,Psychothérapeute,Yes/No
+C-976,Fireman sailor,Marin pompier,Yes/No
+C-977,Student psychologist,Elève psychologue,Yes/No
+C-978,Student medical physicist,Elève physicien médical,Yes/No
+C-979,Chiropractor student,Elève chiropracteur,Yes/No
+C-980,Student optician,Elève opticien-lunetier,Yes/No
+C-981,Student psychotherapist,Elève psychothérapeute,Yes/No
+C-982,Osteopathic student,Elève ostéopathe,Yes/No
+C-983,Student prosthetist and orthotist for the fitting of disabled persons,Elève prothésiste et orthésiste pour l'appareillage des personnes handicapées,Yes/No
+C-984,Genetic Counselor,Conseiller en génétique,Yes/No
+C-985,Student Genetic Counselor,Elève conseiller(ère) en génétique,Yes/No
+C-986,"Student pharmacy assistant, receiving patients","Elève préparateur(ice) en pharmacie, accueillant des patients",Yes/No
+C-987,Student dietician,Elève diététicien(ne),Yes/No
+C-988,IDR (mm),IDR (mm),Number
+C-989,Anti-HBs Ac (IU/L),Ac anti-HBs (UI/L),Number
+C-990,Tetanus antibody test (IU/L),Dosage postvaccinal des anticorps antitétaniques (UI/mL),Number
+C-991,Date of antepenultimate COVID-19,Date de l'avant-avant-dernier antécédent de covid 19,Date
+C-992,End date of chemotherapy for solid tumor (cancer),Date de fin d'une chimiothérapie pour tumeur solide (cancer),Date
+C-993,Date of tetanus antibody test,Date du dosage postvaccinal des anticorps antitétaniques,Date
+C-994,Personnel in repeated contact with tuberculosis patients,Personnels en contact répété avec des patients tuberculeux,Yes/No
+C-995,Number of weeks of pregnancy at birth for a premature baby,Nombre de semaines de grossesse à la naissance pour un enfant prématuré,Number
+C-996,"Congenital immune deficiency, without strong immunosuppression","Déficit immunitaire congénital, sans immunodépression forte",Yes/No
+C-997,Trans person,Personne trans,Yes/No
+C-998,Person in a prostitution situation,Personne en situation de prostitution,Yes/No
+C-999,Person working in a sexual consumption place,Personne travaillant dans un lieu de consommation sexuelle,Yes/No
+C-1000,Excessive alcohol use,Consommation excessive d’alcool,Yes/No
+C-1001,Contact person at risk of mpox,Personne-contact à risque de mpox,Yes/No
+C-1002,Date of last contact with a person at risk of monkeypox,Date du dernier contact avec une personne à risque de monkeypox,Date
+C-1003,Birth weight (in grams),Poids à la naissance (en grammes),Number
+C-1004,Date of anti-HBs serology,Date de la sérologie Ac anti-HBs,Date
+C-1005,Care professional,Professionnel de soins,Yes/No
+C-1006,Works in a home for the elderly,Travaille dans une structure d'hébergement pour personnes âgées,Yes/No
+C-1007,Works in a home for the disabled,Travaille dans une structure d’hébergement pour personnes handicapées,Yes/No
+C-1008,Lives in a residence for the disabled,Réside dans une structure d’hébergement pour personnes handicapées,Yes/No
+C-1009,Lives in a home for the elderly,Séjour dans un établissement d'hébergement pour personnes âgées,Yes/No
+C-1010,"Congenital immune deficiency, with strong immunosuppression","Déficit immunitaire congénital, avec immunodépression forte",Yes/No
+C-1011,Contraindication to vaccination against pertussis,Contre-indication à la vaccination contre la coqueluche,Yes/No
+C-1012,"Contraindication to vaccination against diphtheria, tetanus and poliomyelitis (DTP)","Contre-indication à la vaccination contre la diphtérie, le tétanos et la poliomyélite (DTP)",Yes/No
+C-1013,Contraindication to yellow fever vaccination,Contre-indication à la vaccination contre la fièvre jaune,Yes/No
+C-1014,Contraindication to vaccination against Haemophilus influenzae type b,Contre-indication à la vaccination contre Haemophilus influenzae type b,Yes/No
+C-1015,Contraindication to hepatitis A vaccination,Contre-indication à la vaccination contre l'hépatite A,Yes/No
+C-1016,Contraindication to hepatitis B vaccination,Contre-indication à la vaccination contre l'hépatite B,Yes/No
+C-1017,Contraindication to vaccination against pneumococcal disease,Contre-indication à la vaccination contre les infections à pneumocoque,Yes/No
+C-1018,"Contraindication to measles, mumps and rubella (MMR) vaccination","Contre-indication à la vaccination contre la rougeole, les oreillons et la rubéole (ROR)",Yes/No
+C-1019,Contraindication to chickenpox vaccination,Contre-indication à la vaccination contre la varicelle,Yes/No
+C-1020,Contraindication to vaccination against meningococcal C,Contre-indication à la vaccination contre le méningocoque C,Yes/No
+C-1021,Refusal of Meningococcal C Vaccination,Refus de vaccination contre le méningocoque C,Yes/No
+C-1022,Contraindication to influenza vaccination,Contre-indication à la vaccination contre la grippe,Yes/No
+C-1023,Contraindication to vaccination against meningococcal B,Contre-indication à la vaccination contre le méningocoque B,Yes/No
+C-1024,Contraindication to HPV vaccination,Contre-indication à la vaccination contre les papillomavirus,Yes/No
+C-1025,Refusal of rotavirus vaccination,Refus de vaccination contre les rotavirus,Yes/No
+C-1026,Transit of more than 12 hours through the airport of a country at risk of yellow fever transmission,Transit de plus de 12 heures dans l'aéroport d'un pays à risque de transmission de la fièvre jaune,Yes/No
+C-1027,Transit of less than 12 hours through the airport of a country at risk of yellow fever transmission,Transit de moins de 12 heures dans l'aéroport d'un pays à risque de transmission de la fièvre jaune,Yes/No
+C-1028,Comfortable living conditions,LIBRE,Yes/No
+C-1029,Intermediate living conditions,Date du dernier antécédent de dengue,Date
+C-1030,Adventurous living conditions,"Voyage se limitant à Beijing, Shanghai, Hong Kong, Kowloon, Macao ou d'autres grandes villes",Yes/No
+C-1031,End date of chemotherapy for hematological malignancy (leukemia),Date de fin d’une chimiothérapie pour hémopathie maligne (leucémie),Date
+C-1032,Date of delivery,Date de l'accouchement,Date
+C-1033,Person at high risk of severe covid in the entourage - Lives with or is in close contact with someone at high risk of severe COVID,Personne à risque élevé de covid grave dans l’entourage,Yes/No
+C-1034,History of intestinal intussusception,Antécédent d'invagination intestinale,Yes/No
+C-1035,Congenital malformation of the gastrointestinal tract that may predispose to intussusception,Malformation congénitale de l’appareil gastro-intestinal pouvant prédisposer à une invagination intestinale,Yes/No
+C-1036,No risk of exposure to biological agents,Pas de risque d'exposition à des agents biologiques,Yes/No
+C-1037,Other serious cardiovascular disease,Autre maladie cardio-vasculaire grave,Yes/No
+C-1038,"Regular swimming, diving or fishing in fresh water","Pratique régulière de la baignade, de la plongée ou de la pêche en eau douce",Yes/No
+C-1039,"Regular practice of canoeing, rafting, triathlon or other nature sports","Pratique régulière du canoë-kayak, du rafting, du triathlon ou d'autres sports de nature",Yes/No
+C-1040,Anti-HAV Ac (IgG or total Ig in IU/L),Ac Anti-VHA (IgG ou Ig totales en UI/L),Number
+C-1041,Date of anti-HAV serology (IgG or total Ig),Date de la sérologie anti-VHA (IgG ou Ig totales),Date
+C-1062,Congenital tuberculosis,Tuberculose congénitale,Yes/No
+C-1063,Date of last rabies serology,Date de la dernière sérologie antirabique,Yes/No
+C-1064,Last rabies serology result (IU/mL),Résultat de la dernière sérologie antirabique (UI/mL),Yes/No
+C-1065,Pilgrimage to Mecca (Hajj or Umrah),Pèlerinage à La Mecque (Hadj ou Omra),Yes/No
+C-1066,Expatriation,Expatriation,Yes/No
+C-1067,Close and prolonged contact with local people,Contact étroit et prolongé avec la population locale,Yes/No
+C-1068,Staying in a rural area,Séjour en zone rurale,Yes/No
+C-1069,"Outdoor exposure (cycling, camping, hiking, working outdoors)","Exposition en milieu extérieur (cyclisme, camping, randonnée, travail à l'extérieur)",Yes/No
+C-1070,A stay in a rural setting or in the forest,Séjour en milieu rural ou en forêt,Yes/No
+C-1071,Working in the health or relief sector or with refugees in the country visited,"Activité dans le secteur de la santé, des secours ou auprès de réfugiés dans le pays visité",Yes/No
+C-1072,Professionals working with patients suffering from cholera,Professionnel devant intervenir auprès de malades atteints de choléra,Yes/No
+C-1073,Stay in an area where flood irrigation is practised (rice paddies),Séjour dans une zone où l’irrigation par inondation est pratiquée (rizières),Yes/No
+C-1074,Staying near pig farms,Séjour à proximité d’élevages de porcs,Yes/No
+C-1075,Stay during the rainy season,Séjour en saison des pluies,Yes/No
+C-1076,IGRA positive,IGRA positif,Yes/No
+C-1077,IGRA negative,IGRA négatif,Yes/No
+C-1078,Intermediate IGRA,IGRA intermédiaire,Yes/No
+C-1079,Date of last IGRA test performed,Date du dernier test IGRA réalisé,Date
+C-1080,QUANTIFERON (result in IU/L),QUANTIFERON (résultat en UI/L),Number
+C-1081,Pregnancy start date,Date de début de grossesse,Date
+C-1083,Antécédent de Zona - Previous episode of shingles.,Antécédent de Zona,Yes/No
+C-1084,Date du dernier antécédent de zona,Date du dernier antécédent de zona,Date
+C-1085,Mother who received Abrysvo (RSV) during pregnancy,Voyage limité à la province du Xinjiang ou du Qinghai,Yes/No
+C-1086,Child born to a mother vaccinated against RSV during pregnancy,Mère vaccinée contre le VRS pendant la grossesse,Yes/No
+C-1087,Pregnancy at risk,Grossesse à risque,Yes/No
+C-1088,Works in a laboratory handling the monkeypox virus,Travaille dans un laboratoire manipulant le virus monkeypox,Yes/No
+C-1089,Exposition au virus Mpox en zone endémique,Exposition au virus Mpox en zone endémique,Yes/No
+C-1090,Sexual behaviour involving a high risk of exposure to a transmissible disease,Comportement sexuel impliquant un risque élevé d’exposition à une maladie transmissible,Yes/No
+C-1091,Normal human immunoglobulin: date of last injection,Immunoglobuline humaine normale : date dernière injection,Date
+C-1092,Scar from a smallpox vaccination,Cicatrice d'une vaccination anti-variolique,Yes/No
+C-1093,School child,Enfant scolarisé,Yes/No
+C-1094,Other chronic metabolic diseases,Autres maladies métaboliques chroniques,Yes/No
+C-1095,Other chronic kidney diseases,Autres maladies rénales chroniques,Yes/No
+C-1096,"Immunodeficiency, whatever the cause (disease or treatment).","Immunodéficience, quelle qu'en soit la cause (maladie ou traitement).",Yes/No
+C-1097,Long-term treatment with acetylsalicylic acid,Traitement au long cours par acide acétylsalicylique,Yes/No
+C-1098,Other mental illnesses,Autres maladies mentales,Yes/No
+C-1099,Health professionals in contact with patients,Professionnels de santé en contact avec des patients,Yes/No
+C-1100,Professionals from long-term social care centres in contact with the public,Professionnels de centres d’assistance sociale de longue durée en contact avec le public,Yes/No
+C-1101,Long-term care centre users,Usagers de centre d’assistance sociale de longue durée,Yes/No
+C-1102,"Grossesse : préférence pour une immunisation anti-VRS de l'enfant à sa naissance 
+Pregnancy: preference for immunizing the child against RSV at birth",Grossesse : préférence pour une immunisation anti-VRS de l'enfant à sa naissance,Yes/No
+C-1103,Attend a childcare facility approved by the Office of Birth and Childhood (ONE),Fréquente un milieu d’accueil agréé par l’Office de la Naissance et de l’Enfance (ONE),Yes/No
+C-1104,People having close family contact with the elderly,Contacts familiaux étroits et durables avec des personnes âgées,Yes/No
+C-1105,People having close family contact with chronic ill people,Contacts familiaux étroits et durables avec des personnes atteintes de maladies chroniques,Yes/No
+C-1106,"Facilities providing round-the-clock care to the disabled people, chronically ill or the elderly","Séjour dans un établissements offrant des soins 24 heures sur 24 aux personnes handicapées, aux malades chroniques ou aux personnes âgées",Yes/No
+C-1107,Stay in an addiction treatment center,Séjour dans un centre de traitement de la toxicomanie,Yes/No
+C-1108,Health resorts,Séjour dans un établissement de thermalisme,Yes/No
+C-1109,Cardiovascular insufficiency,Insuffisance cardiaque,Yes/No
+C-1110,Relapsing nephrotic syndrome,Syndrome néphrotique récurrent,Yes/No
+C-1111,Residential medical care facilities,Séjour dans un établissements de soins médicaux résidentiels,Yes/No
+C-1112,Hospices,Séjour dans un établissement de soins palliatifs,Yes/No
+C-1113,Students of medical schools and universities providing education in medical fields,Étudiants dans le domaine de la santé,Yes/No
+C-1114,Administrative staff working in healthcare segment,Personnel administratif travaillant dans le secteur de la santé,Yes/No
+C-1115,People having close professional contact with the elderly,Contacts professionnels étroits avec des personnes âgées,Yes/No
+C-1116,People having close professional contact with chronic ill people,Contacts professionnels étroits avec des personnes atteintes de maladies chroniques,Yes/No
+C-1117,Trade employees,Employés de commerce,Yes/No
+C-1118,Military,Militaire,Yes/No
+C-1119,Border guard,Garde-frontière,Yes/No
+C-1120,Other public sector jobs,Autres métiers de la fonction publique,Yes/No
+C-1121,Close professional contact with an infant under 6 months of age,Contacts professionnels étroits avec un nourrisson âgé de moins de 6 mois,Yes/No
+C-1122,Woman considering pregnancy,Grossesse envigagée,Yes/No
+C-1123,Waiting for surgery,En attente d'intervention intervention chirurgicale,Yes/No
+C-1124,"Date de l'administration du vaccin anti-VRS à la mère pendant la grossesse
+Date of administration of the RSV vaccine to the mother during pregnancy",Date de l'administration du vaccin anti-VRS à la mère pendant la grossesse,Date
+C-1125,Séjour exclusif en zone montagneuse,Séjour exclusif en zone montagneuse,Yes/No
+C-1126,Andhra Pradesh,Andhra Pradesh,Yes/No
+C-1127,Arunachal Pradesh,Arunachal Pradesh,Yes/No
+C-1128,Assam,Assam,Yes/No
+C-1129,Bihar,Bihar,Yes/No
+C-1130,Chhattisgarh,Chhattisgarh,Yes/No
+C-1131,Goa,Goa,Yes/No
+C-1132,Gujarat,Gujarat,Yes/No
+C-1133,Haryana,Haryana,Yes/No
+C-1134,Himachal Pradesh,Himachal Pradesh,Yes/No
+C-1135,Jharkhand,Jharkhand,Yes/No
+C-1136,Karnataka,Karnataka,Yes/No
+C-1137,Kerala,Kerala,Yes/No
+C-1138,Madhya Pradesh,Madhya Pradesh,Yes/No
+C-1139,Maharashtra,Maharashtra,Yes/No
+C-1140,Manipur,Manipur,Yes/No
+C-1141,Meghalaya,Meghalaya,Yes/No
+C-1142,Mizoram,Mizoram,Yes/No
+C-1143,Nagaland,Nagaland,Yes/No
+C-1144,Odisha,Odisha,Yes/No
+C-1145,Punjab,Punjab,Yes/No
+C-1146,Rajasthan,Rajasthan,Yes/No
+C-1147,Sikkim,Sikkim,Yes/No
+C-1148,Tamil Nadu,Tamil Nadu,Yes/No
+C-1149,Telangana,Telangana,Yes/No
+C-1150,Tripura,Tripura,Yes/No
+C-1151,Uttar Pradesh,Uttar Pradesh,Yes/No
+C-1152,Uttarakhand,Uttarakhand,Yes/No
+C-1153,West Bengal,West Bengal,Yes/No
+C-1154,Voyage limité à Taipei et aux grandes villes,Voyage limité à Taipei et aux grandes villes,Yes/No
+C-1155,Séjour en zone urbaine uniquement,Séjour en zone urbaine uniquement,Yes/No
+C-1156,Smoking,Tabagisme,Yes/No
+C-1157,Chronic neuromuscular diseases with risk of false swallowing,Maladie neuromusculaire chronique avec risque de fausse déglutition,Yes/No
+C-1158,Chronic depression disorder,Trouble dépressif chronique,Yes/No
+C-1159,Rheumatoid arthritis,Polyarthrite rhumatoïde,Yes/No
+C-1160,Psoriasis,Psoriasis,Yes/No
+C-1161,Allergy to any component of vaccine,Allergie à l’un des composants du vaccin,Yes/No
+C-1162,Psoriatic arthritis,Arthrite psoriasique,Yes/No
+C-1163,Ankylosing spondylitis,Spondylarthrite ankylosante,Yes/No
+C-1164,Hodgkin's disease,Maladie de Hodgkin,Yes/No
+C-1165,Other autoimmune disease,Autre maladie auto-immune,Yes/No
+C-1166,Leukemia ,Leucémie ,Yes/No
+C-1167,Lymphoma,Lymphome,Yes/No
+C-1168,Multiple Myeloma,Myélome multiple,Yes/No
+C-1169,Metastatic cancer,Cancer métastatique,Yes/No
