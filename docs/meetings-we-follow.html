@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Working groups, connectathons, and congresses IVC follows because vaccine coding, terminology, and interoperability work happens there.">
+  <title>Meetings we follow | Immunization Vocabularies Collaboration</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="site.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="home.html" aria-label="IVC home"><img src="assets/ivc-logo.png" alt="Immunization Vocabularies Collaboration"></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+      <nav class="primary-nav" id="primary-nav" aria-label="Primary navigation">
+        <ul class="nav-list">
+          <li><a href="home.html">Home</a></li>
+          <li><a href="nuva.html">NUVA</a></li>
+          <li><a href="resources.html">Resources</a></li>
+          <li><a aria-current="page" href="meetings.html">Meetings</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a class="nav-cta" href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    <section class="page-hero">
+      <div class="wrap">
+        <p class="eyebrow">Beyond the IVC series</p>
+        <h1>Meetings we follow</h1>
+        <p class="lead">These are not IVC’s own meetings. They are working groups, connectathons, and congresses IVC tracks because vaccine coding, terminology, and interoperability work happens there.</p>
+      </div>
+    </section>
+    <section class="section">
+      <div class="wrap">
+        <div class="map-block">
+          <div class="map-stage">
+            <img src="assets/world-equirectangular.svg" alt="">
+            <div class="map-pins" id="map-pins" role="group" aria-label="Meeting locations"></div>
+          </div>
+          <div class="map-tooltip" id="map-tooltip" hidden aria-hidden="true"></div>
+          <ul class="map-legend">
+            <li><span class="swatch swatch-standards"></span>Standards and terminology</li>
+            <li><span class="swatch swatch-testing"></span>Testing and connectathons</li>
+            <li><span class="swatch swatch-registry"></span>Registry and implementation</li>
+            <li><span class="swatch swatch-developer"></span>Developer and technical</li>
+            <li><span class="swatch swatch-policy"></span>Policy and ecosystem</li>
+          </ul>
+          <div class="map-window">
+            <p class="window-readout" id="window-label">Showing meetings from …</p>
+            <div class="range-slider">
+              <div class="range-rail" aria-hidden="true"><div class="range-fill" id="range-fill"></div></div>
+              <input id="date-start" type="range" min="0" max="1" value="0" disabled aria-label="Start of the dates to show">
+              <input id="date-end" type="range" min="0" max="1" value="1" disabled aria-label="End of the dates to show">
+            </div>
+            <div class="range-scale" id="range-scale" aria-hidden="true"></div>
+            <p class="meta" id="meeting-count"></p>
+            <p class="meta map-note">Drag either end to hide meetings outside those dates. Meetings that have already ended are not shown.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section tint" aria-labelledby="upcoming-heading">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="upcoming-heading">Upcoming meetings</h2>
+          <p>The same meetings as the map, for the dates you chose.</p>
+        </div>
+        <div id="meeting-list" class="meeting-list"></div>
+        <p id="meeting-empty" hidden>No meetings in this window.</p>
+        <noscript><p>Turn on JavaScript to see the map and the meeting list.</p></noscript>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div class="footer-brand"><img src="assets/ivc-logo.png" alt=""><p>Supporting the people who make immunization data understandable.</p></div>
+        <div>
+          <h2>Explore</h2>
+          <ul>
+            <li><a href="nuva.html">NUVA</a></li>
+            <li><a href="resources.html">Resources</a></li>
+            <li><a href="meetings.html">Meetings</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2>IVC</h2>
+          <ul>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="mailto:info@ivci.org">info@ivci.org</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-note">Immunization Vocabularies Collaboration</div>
+    </div>
+  </footer>
+  <script src="site.js"></script>
+  <script src="meetings-map.js"></script>
+</body>
+</html>

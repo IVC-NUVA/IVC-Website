@@ -1,0 +1,395 @@
+[
+  {
+    "id": "zimam-forum-2026",
+    "name": "9th ZIMAM Digital Health Forum & HIE Master Class",
+    "series": "ZIMAM GCC Forum",
+    "category": "policy-ecosystem",
+    "tags": ["interoperability", "hie", "plugathon", "gcc", "middle-east", "in-person"],
+    "dates": {
+      "start": "2026-11-04",
+      "end": "2026-11-06",
+      "display": "November 4–6, 2026"
+    },
+    "location": {
+      "city": "Dubai",
+      "state_province": "Dubai",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "coordinates": [25.2048, 55.2708]
+    },
+    "deadlines": {
+      "abstracts_due": null,
+      "early_bird": null,
+      "registration_close": "2026-11-03"
+    },
+    "urls": {
+      "event": "https://www.gccehealth.org/",
+      "program": "https://www.gccehealth.org/"
+    },
+    "ivc_relevance": "Regional GCC digital health exchange and IHE Catalyst HIE plugathons; key venue for Middle East cross-border interoperability.",
+    "status": "confirmed"
+  },
+  {
+    "id": "hl7-europe-wgm-2026",
+    "name": "HL7 Europe Working Group Meeting",
+    "series": "HL7 Europe WGM",
+    "category": "standards-terminology",
+    "tags": ["standards", "fhir", "regional-europe", "in-person"],
+    "dates": {
+      "start": "2026-11-16",
+      "end": "2026-11-20",
+      "display": "November 16–20, 2026"
+    },
+    "location": {
+      "city": "Málaga",
+      "state_province": "Andalusia",
+      "country": "Spain",
+      "country_code": "ES",
+      "coordinates": [36.7213, -4.4214]
+    },
+    "deadlines": {
+      "abstracts_due": null,
+      "early_bird": null,
+      "registration_close": "2026-11-15"
+    },
+    "urls": {
+      "event": "https://hl7europe.eu/",
+      "program": "https://hl7europe.eu/"
+    },
+    "ivc_relevance": "European FHIR profiles, cross-border health data exchange, and European Health Data Space (EHDS) alignment.",
+    "status": "confirmed"
+  },
+  {
+    "id": "adhw-2027",
+    "name": "Athens Digital Health Week (ADHW 2027)",
+    "series": "Athens Digital Health Week",
+    "category": "policy-ecosystem",
+    "tags": ["governance", "ehds", "interoperability", "in-person"],
+    "dates": {
+      "start": "2027-02-23",
+      "end": "2027-02-25",
+      "display": "February 23–25, 2027"
+    },
+    "location": {
+      "city": "Athens",
+      "state_province": "Attica",
+      "country": "Greece",
+      "country_code": "GR",
+      "coordinates": [37.9838, 23.7275]
+    },
+    "deadlines": {
+      "abstracts_due": null,
+      "early_bird": null,
+      "registration_close": "2027-02-20"
+    },
+    "urls": {
+      "event": "https://www.athensdigitalhealth.eu/save-the-dates-for-adhw-2027-february-23-25/",
+      "program": "https://www.athensdigitalhealth.eu/"
+    },
+    "ivc_relevance": "Governance and architectural implementation of EHDS and European digital health initiatives.",
+    "status": "confirmed"
+  },
+  {
+    "id": "wvc-washington-2027",
+    "name": "World Vaccine Congress Washington 2027",
+    "series": "World Vaccine Congress",
+    "category": "policy-ecosystem",
+    "tags": ["vaccines", "policy", "clinical-trials", "industry", "in-person"],
+    "dates": {
+      "start": "2027-03-08",
+      "end": "2027-03-11",
+      "display": "March 8–11, 2027"
+    },
+    "location": {
+      "city": "Washington",
+      "state_province": "District of Columbia",
+      "country": "United States",
+      "country_code": "US",
+      "coordinates": [38.9072, -77.0369]
+    },
+    "deadlines": {
+      "abstracts_due": null,
+      "early_bird": "2027-01-15",
+      "registration_close": "2027-03-07"
+    },
+    "urls": {
+      "event": "https://www.terrapinn.com/conference/world-vaccine-congress-washington/index.stm",
+      "program": "https://www.terrapinn.com/conference/world-vaccine-congress-washington/index.stm"
+    },
+    "ivc_relevance": "Global vaccine research, clinical development, and industry trends providing macro context for immunization terminology.",
+    "status": "confirmed"
+  },
+  {
+    "id": "snomed-business-meetings-spring-2027",
+    "name": "SNOMED International Spring Business Meetings 2027",
+    "series": "SNOMED International Business Meetings",
+    "category": "standards-terminology",
+    "tags": ["terminology", "snomed", "governance", "coding", "hybrid"],
+    "dates": {
+      "start": "2027-04-11",
+      "end": "2027-04-15",
+      "display": "April 11–15, 2027"
+    },
+    "location": {
+      "city": "Madrid",
+      "state_province": "Community of Madrid",
+      "country": "Spain",
+      "country_code": "ES",
+      "coordinates": [40.4168, -3.7038]
+    },
+    "deadlines": {
+      "abstracts_due": null,
+      "early_bird": null,
+      "registration_close": "2027-04-01"
+    },
+    "urls": {
+      "event": "https://www.snomed.org/business-meetings",
+      "program": "https://www.snomed.org/business-meetings"
+    },
+    "ivc_relevance": "Direct working committee and advisory group sessions for SNOMED CT terminology and immunization clinical concept modeling.",
+    "status": "confirmed"
+  },
+  {
+    "id": "ihe-europe-connectathon-2027",
+    "name": "IHE-Europe Connectathon Week 2027",
+    "series": "IHE-Europe Connectathon",
+    "category": "testing-connectathon",
+    "tags": ["connectathon", "testing", "ihe", "interoperability", "in-person"],
+    "dates": {
+      "start": "2027-04-19",
+      "end": "2027-04-23",
+      "display": "April 19–23, 2027"
+    },
+    "location": {
+      "city": "The Hague",
+      "state_province": "South Holland",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "coordinates": [52.0705, 4.3007]
+    },
+    "deadlines": {
+      "system_registration": "2026-12-15",
+      "abstracts_due": null,
+      "early_bird": null,
+      "registration_close": "2027-04-01"
+    },
+    "urls": {
+      "event": "https://connectathon.ihe-europe.net/ihe-europe-connectathon-week-2027",
+      "program": "https://connectathon.ihe-europe.net/"
+    },
+    "ivc_relevance": "Rigorous cross-system verification for IHE profiles and cross-border exchanges; features public Experience Days (Apr 20–21).",
+    "status": "confirmed"
+  },
+  {
+    "id": "mie-2027",
+    "name": "Medical Informatics Europe (MIE 2027)",
+    "series": "EFMI MIE",
+    "category": "standards-terminology",
+    "tags": ["academic", "informatics", "semantics", "in-person"],
+    "dates": {
+      "start": "2027-04-26",
+      "end": "2027-04-30",
+      "display": "April 26–30, 2027"
+    },
+    "location": {
+      "city": "Tallinn",
+      "state_province": "Harju County",
+      "country": "Estonia",
+      "country_code": "EE",
+      "coordinates": [59.4370, 24.7536]
+    },
+    "deadlines": {
+      "abstracts_due": "2026-11-03",
+      "workshops_due": "2027-01-26",
+      "early_bird": "2027-03-01",
+      "registration_close": "2027-04-20"
+    },
+    "urls": {
+      "event": "https://mie2027.efmi.org/",
+      "call_for_papers": "https://mie2027.efmi.org/programme/key-dates"
+    },
+    "ivc_relevance": "EFMI flagship congress; academic research into semantic interoperability, clinical vocabularies, and decision support.",
+    "status": "confirmed"
+  },
+  {
+    "id": "hl7-wgm-denver-2027",
+    "name": "HL7 International WGM & FHIR Connectathon",
+    "series": "HL7 Working Group Meetings",
+    "category": "standards-terminology",
+    "tags": ["standards", "fhir", "connectathon", "terminology", "hybrid"],
+    "dates": {
+      "start": "2027-05-15",
+      "end": "2027-05-20",
+      "display": "May 15–20, 2027"
+    },
+    "location": {
+      "city": "Denver",
+      "state_province": "Colorado",
+      "country": "United States",
+      "country_code": "US",
+      "coordinates": [39.7392, -104.9903]
+    },
+    "deadlines": {
+      "connectathon_proposals": "2027-03-15",
+      "early_bird": "2027-04-16",
+      "registration_close": "2027-05-10"
+    },
+    "urls": {
+      "event": "https://www.hl7.org/events/workgroupmeetings.cfm?ref=nav",
+      "program": "https://www.hl7.org/events/"
+    },
+    "ivc_relevance": "Primary global meeting for FHIR Immunization resource maintenance, Terminology Authority (THO), and hands-on Connectathon testing.",
+    "status": "confirmed"
+  },
+  {
+    "id": "aira-national-meeting-2027",
+    "name": "AIRA 2027 National Meeting",
+    "series": "AIRA National Meeting",
+    "category": "implementation-registry",
+    "tags": ["iis", "registries", "data-quality", "cdc", "in-person"],
+    "dates": {
+      "start": "2027-05-25",
+      "end": "2027-05-27",
+      "display": "May 25–27, 2027"
+    },
+    "location": {
+      "city": "Louisville",
+      "state_province": "Kentucky",
+      "country": "United States",
+      "country_code": "US",
+      "coordinates": [38.2527, -85.7585]
+    },
+    "deadlines": {
+      "abstracts_due": "2027-01-15",
+      "early_bird": "2027-03-31",
+      "registration_close": "2027-05-15"
+    },
+    "urls": {
+      "event": "https://www.immregistries.org/events-trainings",
+      "program": "https://www.immregistries.org/"
+    },
+    "ivc_relevance": "Premier US meeting for Immunization Information System (IIS) operations, CDC CVX/MVX mapping, and data deduplication.",
+    "status": "confirmed"
+  },
+  {
+    "id": "fhir-devdays-2027",
+    "name": "HL7 FHIR DevDays 2027",
+    "series": "HL7 FHIR DevDays",
+    "category": "developer-technical",
+    "tags": ["developer", "fhir", "implementation", "tooling", "hybrid"],
+    "dates": {
+      "start": "2027-06-15",
+      "end": "2027-06-18",
+      "display": "June 15–18, 2027"
+    },
+    "location": {
+      "city": "Amsterdam",
+      "state_province": "North Holland",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "coordinates": [52.3676, 4.9041]
+    },
+    "deadlines": {
+      "call_for_presentations_open": "2026-12-01",
+      "abstracts_due": "2027-02-15",
+      "early_bird": "2027-05-01",
+      "registration_close": "2027-06-10"
+    },
+    "urls": {
+      "event": "https://www.devdays.com/",
+      "program": "https://www.devdays.com/"
+    },
+    "ivc_relevance": "Leading developer forum for practical FHIR implementation, SDKs, terminology services, and tooling architectures.",
+    "status": "confirmed"
+  },
+  {
+    "id": "medinfo-2027",
+    "name": "MEDINFO 2027 (21st World Congress on Medical & Health Informatics)",
+    "series": "IMIA MEDINFO",
+    "category": "standards-terminology",
+    "tags": ["academic", "informatics", "global", "imia", "in-person"],
+    "dates": {
+      "start": "2027-08-29",
+      "end": "2027-09-02",
+      "display": "August 29 – September 2, 2027"
+    },
+    "location": {
+      "city": "Dubai",
+      "state_province": "Dubai",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "coordinates": [25.2048, 55.2708]
+    },
+    "deadlines": {
+      "abstracts_due": "2027-01-31",
+      "early_bird": "2027-05-15",
+      "registration_close": "2027-08-20"
+    },
+    "urls": {
+      "event": "https://www.medinfo-2027.org/",
+      "program": "https://www.medinfo-2027.org/"
+    },
+    "ivc_relevance": "IMIA’s premier global congress on international medical informatics, health records, and cross-national terminology harmonization.",
+    "status": "confirmed"
+  },
+  {
+    "id": "snomed-expo-2027",
+    "name": "SNOMED CT Expo 2027 & Autumn Business Meetings",
+    "series": "SNOMED CT Expo",
+    "category": "standards-terminology",
+    "tags": ["terminology", "snomed", "coding", "nuva", "hybrid"],
+    "dates": {
+      "start": "2027-10-17",
+      "end": "2027-10-22",
+      "display": "October 17–22, 2027"
+    },
+    "location": {
+      "city": "St Julian's",
+      "state_province": "Northern Harbour",
+      "country": "Malta",
+      "country_code": "MT",
+      "coordinates": [35.9186, 14.4900]
+    },
+    "deadlines": {
+      "abstracts_due": "2027-05-07",
+      "early_bird": "2027-08-06",
+      "registration_close": "2027-10-10"
+    },
+    "urls": {
+      "event": "https://www.snomed.org/snomedct-expo",
+      "program": "https://www.snomed.org/snomedct-expo"
+    },
+    "ivc_relevance": "Key event for clinical terminology practice, vaccine mappings (NUVA), and direct collaboration with SNOMED International.",
+    "status": "confirmed"
+  },
+  {
+    "id": "wvc-europe-2027",
+    "name": "World Vaccine Congress Europe 2027",
+    "series": "World Vaccine Congress",
+    "category": "policy-ecosystem",
+    "tags": ["vaccines", "industry", "clinical-trials", "in-person"],
+    "dates": {
+      "start": "2027-10-25",
+      "end": "2027-10-27",
+      "display": "October 25–27, 2027"
+    },
+    "location": {
+      "city": "Lyon",
+      "state_province": "Auvergne-Rhône-Alpes",
+      "country": "France",
+      "country_code": "FR",
+      "coordinates": [45.7640, 4.8357]
+    },
+    "deadlines": {
+      "abstracts_due": null,
+      "early_bird": "2027-08-31",
+      "registration_close": "2027-10-20"
+    },
+    "urls": {
+      "event": "https://www.terrapinn.com/conference/world-vaccine-congress-europe/index.stm",
+      "program": "https://www.terrapinn.com/conference/world-vaccine-congress-europe/index.stm"
+    },
+    "ivc_relevance": "European biopharma, clinical trial tracking, and immunization policy context.",
+    "status": "confirmed"
+  }
+]
