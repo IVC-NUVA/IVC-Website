@@ -35,6 +35,16 @@ The proposal distinguishes four roles that may be held by different organization
 
 Under this model, a national immunization authority could define a set, IVC could provide its canonical namespace and publication location, and CDS engines could independently determine how its concepts affect forecasting.
 
+**Current direction (November 2026): three roles.** The Contextual Conditions concept document now uses three roles, and this publication follows it. The four roles above fold into them:
+
+| Role | Responsibility | From the four-role model |
+| --- | --- | --- |
+| Schedule Authority | Defines the meaning of the conditions its guidance needs. | Code System Authority |
+| Terminology steward | Provides stable identifiers, namespaces, versioning, and distribution, without reinterpreting meaning. IVC is the terminology steward for these publications. | Publishing Authority and Namespace Authority |
+| Knowledge Base | Operationalizes guidance and determines how conditions affect recommendations. | CDS Authority |
+
+See [Schedule Authorities, Knowledge Bases, and code systems](https://immregistries.github.io/contextual-conditions/latest/#authorities) in the concept document. The proof-of-concept pages and `config/code-systems.json` still use the four roles and need to be updated.
+
 ## Section 7 proposal: canonical namespace
 
 The proposed root canonical namespace is:
@@ -71,6 +81,8 @@ In that example:
 - `https://ivci.org/contextual-conditions/usa/cdc-cdsi` identifies the code system.
 - The observation value asserts `Yes` using HL7 table 0136.
 
+The general naming rule in [IVC Identifiers and Namespaces](identifiers-and-namespaces.md) supersedes the proposal's namespace pattern, and the `eu/ema` example in particular. The OBX example is kept as illustration; how the canonical is carried in HL7 v2 and FHIR is still open.
+
 ## What making the canonicals real requires
 
 At minimum, each canonical URL should resolve over HTTPS to a durable human-readable page that:
@@ -96,7 +108,7 @@ The immediate need is to publish two distinct sets:
 
 These should remain distinct if they have different governing authorities, definitions, identifiers, policy origins, or release lifecycles. IVC can publish both beneath a common namespace without implying that the sets are equivalent or internationally harmonized.
 
-The exact canonical paths should not be finalized until the authority-based namespace recommendation below is accepted or a geographic convention is deliberately chosen.
+The canonical paths follow the general rule proposed in [IVC Identifiers and Namespaces](identifiers-and-namespaces.md), which the IVC group is asked to adopt.
 
 ## Confirmed direction
 
@@ -106,6 +118,7 @@ The following decisions have now been made:
 - They describe the same general kind of concept but are not currently coordinated and must not be represented as one unified code system.
 - Existing identifiers are permanent. New identifiers may be added, but published identifiers must not be reassigned.
 - A future crosswalk is desirable but not a first-release dependency. Initial mapping work should be explicitly exploratory until its governance and equivalence criteria are agreed.
+- IVC represents the CDSi observation codes independently of the CDSi project, so that they have a consistent identifier when used in messaging. This is not a CDC publication and is not endorsed by CDC; IVC is not aware of a canonical URI assigned by CDC to these codes.
 - The U.S. source is the CDC Clinical Decision Support for Immunization (CDSi) project's Supporting Data. The maintained `StepIntoCDSI` repository is the preferred operational input because it preserves and validates versioned official releases.
 - The second source is Syadem, the organization behind MesVaccins. It is not an official French-government terminology.
 - The U.S. material is intended for broad distribution. The precise license and attribution language for the Syadem material still requires confirmation from Syadem.
@@ -197,36 +210,24 @@ One workable static-site structure would be:
 
 This is illustrative only. The authority slugs, version syntax, and artifact formats remain open.
 
-### Namespace governance
+### Namespace
 
-Retain the proposal's geographic delegation level:
-
-```text
-https://ivci.org/contextual-conditions/{country}/{authority}
-```
-
-The country segment is not intended to assert national-government authorship. It establishes a delegated naming boundary: international coordination assigns and maintains country namespaces, while participants within each country coordinate authority identifiers locally. This avoids requiring one international body to resolve every organizational name and reflects the greater policy and terminology coherence commonly found within national immunization programs.
-
-For example, the U.S. namespace could independently accommodate CDSi/ACIP concepts, American Academy of Pediatrics concepts, and vendor-maintained sets such as HLN's ICE concepts:
+The paths apply the general rule in [IVC Identifiers and Namespaces](identifiers-and-namespaces.md), with `contextual-conditions` as the concept name:
 
 ```text
-https://ivci.org/contextual-conditions/usa/cdc-cdsi
-https://ivci.org/contextual-conditions/usa/aap
-https://ivci.org/contextual-conditions/usa/hln-ice
+https://ivci.org/contextual-conditions/{jurisdiction}/{local-id}
 ```
 
-The recognizable geographic segment also helps a reader interpret the likely policy context even when the terminal authority acronym is unfamiliar.
-
-The use of three-letter country identifiers has already been circulated and well received. The cleanest formalization is ISO 3166-1 alpha-3, making `usa` and `fra` predictable standards-based identifiers. Each country landing page should explain that the namespace is a coordination boundary and does not imply that every child code system is government-authored or government-endorsed.
-
-Syadem should provisionally sit beneath `fra`, because it is a France-based authority and its current set comes from the French/MesVaccins context. Using `eu` would imply a broader European coordination boundary and should be reserved for a code system actually governed at that level. A proof-of-concept page can explicitly state Syadem's organizational status and that the path is not an official French-government endorsement.
-
-Provisional first canonicals are therefore:
+The first canonicals are:
 
 ```text
 https://ivci.org/contextual-conditions/usa/cdc-cdsi
 https://ivci.org/contextual-conditions/fra/syadem
 ```
+
+Other U.S. sets could sit alongside CDSi, such as American Academy of Pediatrics concepts or vendor-maintained sets like HLN's ICE concepts (`usa/aap`, `usa/hln-ice`).
+
+Syadem sits beneath `fra` because it is a France-based organization and its set comes from the French MesVaccins context. As the general rule says, the jurisdiction segment scopes the name only; the Syadem page states Syadem's organizational status and that the path is not an official French-government endorsement.
 
 Static HTML is sufficient to make the canonical URLs resolvable and understandable. If these are also intended to function as FHIR canonicals, publication should additionally provide valid FHIR terminology resources, likely `CodeSystem` resources and possibly separate `ValueSet` resources, with deliberate decisions about canonical identity, versioning, content negotiation, and package distribution.
 
@@ -277,15 +278,15 @@ Each authority assigns and defines its own codes, so each receives a separate FH
 
 ## Decisions needed
 
-1. Has CDC/CDSi explicitly assigned a canonical URI to its existing observation-condition codes, or would IVC be creating their first formal `CodeSystem.url`?
+1. ~~Has CDC/CDSi explicitly assigned a canonical URI to its existing observation-condition codes, or would IVC be creating their first formal `CodeSystem.url`?~~ **Resolved November 2026:** IVC is not aware of one. IVC assigns the canonical and represents the codes independently; see Confirmed direction.
 2. ~~Has Syadem approved IVC as a publisher/mirror of the complete set, including both languages?~~ **Resolved 2026-10-10:** Syadem authorized publication of the complete list in both languages and wants it shared widely. Still open: the exact copyright/license/attribution statement Syadem requires.
-3. Is ISO 3166-1 alpha-3 the intended formal country identifier system, including `usa` and `fra`?
+3. ~~Is ISO 3166-1 alpha-3 the intended formal country identifier system, including `usa` and `fra`?~~ **Proposed November 2026:** yes, in [IVC Identifiers and Namespaces](identifiers-and-namespaces.md), for adoption by the IVC group.
 4. What version identifier should the first Syadem proof-of-concept use when the source spreadsheet has no clear formal release version?
 5. Should French be the primary Syadem display with English as a translation, or are both supplied labels equally authoritative?
 6. Which downloadable artifacts are required for the first release: FHIR JSON, FHIR XML, CSV, source spreadsheet, and/or an NPM implementation-guide package?
 7. Which exact answer-type codes and semantics should the custom `expectedValueType` property use?
 8. Who will be the named release approver for each proof-of-concept CodeSystem?
-9. Should the root and country pages document the delegated naming process now, even if the national coordinators and submission workflow are initially provisional?
+9. Should the root and country pages document the naming process now? Under the proposed general rule, IVC assigns names, chosen by participants familiar with each jurisdiction; see [IVC Identifiers and Namespaces](identifiers-and-namespaces.md).
 
 ## Proof-of-concept build (2026-10-10)
 
