@@ -1,5 +1,5 @@
 ---
-title: Immunization Vocabularies Collaboration
+title: Immunization Vocabularies Collaborative
 summary: Shared knowledge and practical resources for the people who create and maintain vaccine code sets.
 status: approved for implementation
 owner: Nathan Bunker

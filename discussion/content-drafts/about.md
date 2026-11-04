@@ -5,9 +5,9 @@ status: approved for implementation
 owner: Nathan Bunker
 ---
 
-# About the Immunization Vocabularies Collaboration
+# About the Immunization Vocabularies Collaborative
 
-The Immunization Vocabularies Collaboration is a peer collaboration for the
+The Immunization Vocabularies Collaborative is a peer collaboration for the
 people who create, maintain, and interpret vaccine code sets.
 
 Vaccine codes are used for different purposes in different systems and
@@ -61,7 +61,7 @@ Initiative (IVCI). The word “International” was sometimes understood to mean
 that the work applied only to cross-border exchange, even though vaccine-code
 challenges also occur within countries and organizations.
 
-The name Immunization Vocabularies Collaboration better reflects the work: a
+The name Immunization Vocabularies Collaborative better reflects the work: a
 collaboration that supports many vaccine vocabularies without replacing their
 owners. Historical presentations and records retain the former name where it
 was accurate at the time.

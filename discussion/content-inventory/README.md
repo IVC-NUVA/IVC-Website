@@ -3,7 +3,7 @@
 ## Purpose
 
 This directory contains the Phase 1 research inventory for the Immunization
-Vocabularies Collaboration (IVC) website. It records potentially useful source
+Vocabularies Collaborative (IVC) website. It records potentially useful source
 material, possible website uses, and questions that must be resolved before
 publication.
 
@@ -50,7 +50,7 @@ The review is organized around three priorities:
 ## Initial findings
 
 - The project was deliberately rebranded from **International Vaccine Codes
-  Initiative** to **Immunization Vocabularies Collaboration** to describe the
+  Initiative** to **Immunization Vocabularies Collaborative** to describe the
   work more clearly and avoid the loaded meanings of “International.” The old
   name should remain only where historical context or a source title requires
   it.

@@ -1,6 +1,6 @@
 # IVC Website
 
-Static website for the Immunization Vocabularies Collaboration.
+Static website for the Immunization Vocabularies Collaborative.
 
 ## Local preview
 

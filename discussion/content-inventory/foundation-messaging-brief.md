@@ -470,7 +470,7 @@ evergreen foundation pages as though they were settled facts.
 
 The About page should briefly acknowledge that IVC began as the **International
 Vaccine Codes Initiative** and explain why it became the **Immunization
-Vocabularies Collaboration**.
+Vocabularies Collaborative**.
 
 Two misunderstandings motivated the clearer name:
 

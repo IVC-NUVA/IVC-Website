@@ -35,7 +35,7 @@
       "roles": {
         "codeSystemAuthority": "CDC Clinical Decision Support for Immunization (CDSi) project",
         "publishingAuthority": "CDC publishes the source Supporting Data. IVC publishes this canonical proof-of-concept representation.",
-        "namespaceAuthority": "Immunization Vocabularies Collaboration (IVC)",
+        "namespaceAuthority": "Immunization Vocabularies Collaborative (IVC)",
         "cdsAuthority": "Not determined by this publication. Each CDS engine or program decides how these assertions affect its recommendations."
       },
       "authorityDescription": "The U.S. Centers for Disease Control and Prevention (CDC) Clinical Decision Support for Immunization (CDSi) project publishes Supporting Data that includes a list of coded observations. These codes are referenced as indications and contraindications in the CDSi antigen supporting data and are widely used by U.S. immunization forecasting engines.",
@@ -69,7 +69,7 @@
       "roles": {
         "codeSystemAuthority": "Syadem (the organization behind MesVaccins)",
         "publishingAuthority": "IVC, publishing with Syadem's permission",
-        "namespaceAuthority": "Immunization Vocabularies Collaboration (IVC). The placement under 'fra' is provisional.",
+        "namespaceAuthority": "Immunization Vocabularies Collaborative (IVC). The placement under 'fra' is provisional.",
         "cdsAuthority": "Not determined by this publication. Syadem's own decision support and any other CDS engine decide independently how these assertions affect recommendations."
       },
       "authorityDescription": "Syadem is a France-based organization that develops MesVaccins and its immunization decision-support expert system. Its contextual conditions are used to tailor vaccination recommendations. This is not an official French-government terminology, and its placement under the 'fra' namespace does not imply endorsement by the French government.",

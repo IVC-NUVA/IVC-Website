@@ -1,6 +1,6 @@
 # IVC Events & Meetings Tracking Guide
 
-This guide establishes the editorial policies, categorization schema, maintenance workflow, and data architecture for tracking global and regional meetings relevant to the **Immunization Vocabularies Collaboration (IVC)**. It serves as context and documentation for the IVC editorial team and automated site-maintenance agents.
+This guide establishes the editorial policies, categorization schema, maintenance workflow, and data architecture for tracking global and regional meetings relevant to the **Immunization Vocabularies Collaborative (IVC)**. It serves as context and documentation for the IVC editorial team and automated site-maintenance agents.
 
 ---
 

@@ -35,7 +35,7 @@ referenced consistently. Exchange standards can carry information, but they
 cannot create shared meaning when that meaning has not been organized and
 maintained.
 
-This principle shapes the work of the Immunization Vocabularies Collaboration.
+This principle shapes the work of the Immunization Vocabularies Collaborative.
 We support the people who build and maintain vaccine code sets by helping make
 vaccine concepts easier to understand, compare, and align. The goal is not to
 replace every local vocabulary with a single code system. It is to make the

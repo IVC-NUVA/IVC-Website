@@ -71,7 +71,7 @@ IVC meeting series under Emerging Standards:
 
 | Original task | What was done | Why |
 | --- | --- | --- |
-| Title ordinary meetings `IVC Monthly Meeting` | `Immunization Vocabularies Collaboration (IVC) Monthly Meeting` | Nathan chose to match the existing InteropHub series and current meetings |
+| Title ordinary meetings `IVC Monthly Meeting` | `Immunization Vocabularies Collaborative (IVC) Monthly Meeting` | Nathan chose to match the existing InteropHub series and current meetings |
 | Add a public summary to the meeting notes when supported | No summaries | Nathan's decision. InteropHub stores notes per topic and locks them once a meeting closes. Candidates are listed in the report for a possible later pass |
 | (dates only) | Every meeting is set at a nominal 10:00 ET, including Bordeaux. The two Spanish meetings that share a date with an English one are at 9:00 ET | Historical times aren't preserved. The 9:00 time keeps same-day meetings in the right order |
 | Possible Spanish meeting on 24 Sept 2025 | Omitted | The only evidence is an unfilled agenda template: no deck, no recording, and not in the Spanish review |
